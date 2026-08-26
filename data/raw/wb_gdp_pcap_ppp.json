@@ -1,0 +1,578 @@
+[
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1990,
+    "value": 2139.82749174123
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1991,
+    "value": 2116.06939249228
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1992,
+    "value": 2185.04046180678
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1993,
+    "value": 2241.28535932488
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1994,
+    "value": 2342.15609263829
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1995,
+    "value": 2469.3516292637
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1996,
+    "value": 2603.24632974171
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1997,
+    "value": 2655.92939429507
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1998,
+    "value": 2766.110488608
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1999,
+    "value": 2954.0688560393
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2000,
+    "value": 3010.42156148397
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2001,
+    "value": 3097.16224022342
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2002,
+    "value": 3157.26903770593
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2003,
+    "value": 3346.8882902915
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2004,
+    "value": 3551.04731213773
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2005,
+    "value": 3770.39653173829
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2006,
+    "value": 4011.08647585805
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2007,
+    "value": 4253.82139046739
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2008,
+    "value": 4322.48378983546
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2009,
+    "value": 4595.37990753812
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2010,
+    "value": 4913.87639723705
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2011,
+    "value": 5098.67458775444
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2012,
+    "value": 5303.50197767655
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2013,
+    "value": 5567.49439418718
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2014,
+    "value": 5905.10618204633
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2015,
+    "value": 6301.67346968236
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2016,
+    "value": 6741.14883185347
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2017,
+    "value": 7116.03659185396
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2018,
+    "value": 7492.62576755145
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2019,
+    "value": 7702.17634811957
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2020,
+    "value": 7186.86447099679
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2021,
+    "value": 7818.65701757504
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2022,
+    "value": 8347.38478647086
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2023,
+    "value": 8870.55027609345
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2024,
+    "value": 9416.05137044735
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2025,
+    "value": 10039.0708910587
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1990,
+    "value": 44384.2101912606
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1991,
+    "value": 43747.6307351749
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1992,
+    "value": 44664.873585596
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1993,
+    "value": 45292.7380683092
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1994,
+    "value": 46543.3199204553
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1995,
+    "value": 47227.0083257008
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1996,
+    "value": 48441.9061125568
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1997,
+    "value": 49990.6740739125
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1998,
+    "value": 51626.4838297863
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 1999,
+    "value": 53480.8969962416
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2000,
+    "value": 55045.6745311559
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2001,
+    "value": 55024.3542766281
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2002,
+    "value": 55443.2199435683
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2003,
+    "value": 56505.4468784112
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2004,
+    "value": 58139.0820195229
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2005,
+    "value": 59612.3907215559
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2006,
+    "value": 60684.3399832539
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2007,
+    "value": 61314.4520816367
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2008,
+    "value": 60806.2238713713
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2009,
+    "value": 58722.496767251
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2010,
+    "value": 59797.0736545937
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2011,
+    "value": 60253.2035796719
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2012,
+    "value": 61142.3637034265
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2013,
+    "value": 61966.6621370894
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2014,
+    "value": 63026.8779187814
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2015,
+    "value": 64367.7188912582
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2016,
+    "value": 65025.9855980616
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2017,
+    "value": 66164.0320014289
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2018,
+    "value": 67728.4424921024
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2019,
+    "value": 69121.4580016741
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2020,
+    "value": 67406.8311325507
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2021,
+    "value": 71441.231980595
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2022,
+    "value": 72828.7430907189
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2023,
+    "value": 74351.6718197429
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2024,
+    "value": 75698.1773354629
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.PP.KD",
+    "indicator_name": "GDP per capita, PPP (constant 2021 international $)",
+    "year": 2025,
+    "value": 76931.3106990408
+  }
+]

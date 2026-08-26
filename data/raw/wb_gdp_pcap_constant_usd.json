@@ -1,0 +1,1058 @@
+[
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1960,
+    "value": 312.777847829868
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1961,
+    "value": 316.739644665114
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1962,
+    "value": 318.381945826526
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1963,
+    "value": 329.64149485279
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1964,
+    "value": 346.011883332873
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1965,
+    "value": 329.392574458173
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1966,
+    "value": 322.241317769904
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1967,
+    "value": 340.080025745202
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1968,
+    "value": 344.128288078031
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1969,
+    "value": 358.966799409582
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1970,
+    "value": 369.19248063917
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1971,
+    "value": 367.033309772096
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1972,
+    "value": 357.07792915078
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1973,
+    "value": 360.637844054436
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1974,
+    "value": 356.615069655557
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1975,
+    "value": 380.159941384358
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1976,
+    "value": 377.496025416227
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1977,
+    "value": 395.443306819602
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1978,
+    "value": 408.51694440403
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1979,
+    "value": 378.219592791247
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1980,
+    "value": 394.182239921013
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1981,
+    "value": 408.153549793307
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1982,
+    "value": 412.596737104221
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1983,
+    "value": 432.429235384759
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1984,
+    "value": 438.541705512915
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1985,
+    "value": 450.966703855867
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1986,
+    "value": 461.725611476403
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1987,
+    "value": 469.209956296394
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1988,
+    "value": 502.937342187065
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1989,
+    "value": 521.073383839123
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1990,
+    "value": 537.870269536103
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1991,
+    "value": 531.898397833351
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1992,
+    "value": 549.235069964895
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1993,
+    "value": 563.372872336747
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1994,
+    "value": 588.727892180632
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1995,
+    "value": 620.699954336366
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1996,
+    "value": 654.355928434052
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1997,
+    "value": 667.598423093399
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1998,
+    "value": 695.293709337082
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1999,
+    "value": 742.53920839812
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2000,
+    "value": 756.704109533187
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2001,
+    "value": 778.507377522499
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2002,
+    "value": 793.615912901002
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2003,
+    "value": 841.278894562408
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2004,
+    "value": 892.596614580718
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2005,
+    "value": 947.732565644272
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2006,
+    "value": 1008.23275344818
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2007,
+    "value": 1069.24696812234
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2008,
+    "value": 1086.50605251005
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2009,
+    "value": 1155.10163273817
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2010,
+    "value": 1235.15939132939
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2011,
+    "value": 1281.61054354937
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2012,
+    "value": 1333.09626557649
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2013,
+    "value": 1399.4537980281
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2014,
+    "value": 1484.31640682961
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2015,
+    "value": 1583.99815907985
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2016,
+    "value": 1694.46534973787
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2017,
+    "value": 1788.69770318481
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2018,
+    "value": 1883.35772705055
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2019,
+    "value": 1936.03067741063
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2020,
+    "value": 1806.50110583865
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2021,
+    "value": 1965.30943437472
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2022,
+    "value": 2098.21124476122
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2023,
+    "value": 2229.71491223037
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2024,
+    "value": 2366.8328910323
+  },
+  {
+    "country_iso": "IND",
+    "country_name": "India",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2025,
+    "value": 2523.43601851376
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1960,
+    "value": 18991.5445998554
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1961,
+    "value": 19108.9353618196
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1962,
+    "value": 19965.1435740168
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1963,
+    "value": 20545.7842448928
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1964,
+    "value": 21437.5840707345
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1965,
+    "value": 22526.2055153932
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1966,
+    "value": 23714.9390303358
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1967,
+    "value": 24044.5651288028
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1968,
+    "value": 24948.3569003897
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1969,
+    "value": 25471.6161794352
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1970,
+    "value": 25231.1271587521
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1971,
+    "value": 25734.4828317751
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1972,
+    "value": 26798.5336106847
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1973,
+    "value": 28042.5519181903
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1974,
+    "value": 27637.2997756103
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1975,
+    "value": 27309.8688183059
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1976,
+    "value": 28509.1430593189
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1977,
+    "value": 29528.9663682275
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1978,
+    "value": 30834.9992322862
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1979,
+    "value": 31462.1003882108
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1980,
+    "value": 31081.6216322106
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1981,
+    "value": 31559.1293376105
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1982,
+    "value": 30696.0834382608
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1983,
+    "value": 31810.9216076638
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1984,
+    "value": 33818.823551545
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1985,
+    "value": 34918.1302039172
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1986,
+    "value": 35794.8877746784
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1987,
+    "value": 36701.9453874612
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1988,
+    "value": 37889.3773459827
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1989,
+    "value": 38911.5418959959
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1990,
+    "value": 39200.0658091762
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1991,
+    "value": 38637.8398179104
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1992,
+    "value": 39447.9472850606
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1993,
+    "value": 40002.4762253198
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1994,
+    "value": 41106.9881833481
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1995,
+    "value": 41710.8207256668
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1996,
+    "value": 42783.8165724095
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1997,
+    "value": 44151.6860410035
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1998,
+    "value": 45596.4306879224
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 1999,
+    "value": 47234.2455290381
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2000,
+    "value": 48616.2546282435
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2001,
+    "value": 48597.4246124122
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2002,
+    "value": 48967.3661217576
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2003,
+    "value": 49905.5233080788
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2004,
+    "value": 51348.3473386025
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2005,
+    "value": 52649.5713060461
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2006,
+    "value": 53596.315236412
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2007,
+    "value": 54152.8292673551
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2008,
+    "value": 53703.962897927
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2009,
+    "value": 51863.6183416558
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2010,
+    "value": 52812.6829869279
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2011,
+    "value": 53215.5362314388
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2012,
+    "value": 54000.8410778217
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2013,
+    "value": 54728.860179812
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2014,
+    "value": 55665.2411187802
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2015,
+    "value": 56849.4697923159
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2016,
+    "value": 57430.8499298804
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2017,
+    "value": 58435.9707535619
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2018,
+    "value": 59817.6556798612
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2019,
+    "value": 61047.9648238812
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2020,
+    "value": 59533.609024416
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2021,
+    "value": 63096.7856149746
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2022,
+    "value": 64322.2332819139
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2023,
+    "value": 65667.281580468
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2024,
+    "value": 66856.5131698371
+  },
+  {
+    "country_iso": "USA",
+    "country_name": "United States",
+    "indicator_id": "NY.GDP.PCAP.KD",
+    "indicator_name": "GDP per capita (constant 2015 US$)",
+    "year": 2025,
+    "value": 67945.6146497427
+  }
+]
