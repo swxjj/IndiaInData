@@ -222,7 +222,7 @@ def plot_03_happiness_india_vs_usa(ind_data, usa_data, out_dir):
 
 def plot_04_happiness_india(ind_data, out_dir):
     """
-    Gráfico 4: FELICIDAD: INDIA (Serie individual con tendencia)
+    Gráfico 4: FELICIDAD: INDIA (Serie individual de bienestar subjetivo)
     """
     ind_valid = [(d['year'], d['ladder']) for d in ind_data if d['ladder'] is not None]
     
@@ -233,14 +233,6 @@ def plot_04_happiness_india(ind_data, out_dir):
     
     ax.plot(years, scores, color=STYLE['IND']['color'], marker=STYLE['IND']['marker'], 
             markersize=6.5, label='Puntaje Escalera de Cantril', zorder=4)
-    
-    # Línea de tendencia lineal en gris neutro
-    if len(years) > 1:
-        z = np.polyfit(years, scores, 1)
-        p = np.poly1d(z)
-        slope_str = f"{z[0]:+.3f}".replace('.', ',')
-        ax.plot(years, p(years), color=STYLE['NEUTRAL']['subtle_line'], linestyle='--', 
-                linewidth=1.5, label=f'Tendencia lineal ({slope_str}/año)', zorder=3)
         
     for y, s in zip(years, scores):
         if y in [2011, 2015, 2019, 2025]:
