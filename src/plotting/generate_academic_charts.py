@@ -203,9 +203,9 @@ def plot_03_happiness_india_vs_usa(ind_data, usa_data, out_dir):
         ax.annotate(f"EE.UU.: {usa_valid[-1][1]:.2f}".replace('.', ','), (usa_valid[-1][0], usa_valid[-1][1]),
                     xytext=(6, -2), textcoords='offset points', fontweight='bold', color=STYLE['USA']['color'], fontsize=9.5)
 
-    ax.set_title("Satisfacción de Vida Autopercibida (Escalera de Cantril): India vs. Estados Unidos (2011–2025)", pad=14)
+    ax.set_title("Satisfacción de Vida Autopercibida: India vs. Estados Unidos (2011–2025)", pad=14)
     ax.set_xlabel("Año")
-    ax.set_ylabel("Puntaje de la Escalera de Cantril (Escala 0 a 10)")
+    ax.set_ylabel("Satisfacción de Vida Autopercibida (Escala 0 a 10)")
     ax.set_ylim(3.0, 8.5)
     ax.set_xlim(2010.5, 2026.5)
     ax.xaxis.set_major_locator(ticker.MaxNLocator(integer=True))
@@ -232,7 +232,7 @@ def plot_04_happiness_india(ind_data, out_dir):
     fig, ax = plt.subplots(figsize=(8, 4.8))
     
     ax.plot(years, scores, color=STYLE['IND']['color'], marker=STYLE['IND']['marker'], 
-            markersize=6.5, label='Puntaje Escalera de Cantril', zorder=4)
+            markersize=6.5, label='Satisfacción de vida autopercibida', zorder=4)
         
     for y, s in zip(years, scores):
         if y in [2011, 2015, 2019, 2025]:
@@ -243,14 +243,14 @@ def plot_04_happiness_india(ind_data, out_dir):
             
     ax.set_title("Evolución del Bienestar Subjetivo en India (2011–2025)", pad=14)
     ax.set_xlabel("Año")
-    ax.set_ylabel("Puntaje Escalera de Cantril (0 a 10)")
+    ax.set_ylabel("Satisfacción de Vida Autopercibida (Escala 0 a 10)")
     ax.set_ylim(3.3, 5.3)
     ax.set_xlim(2010.5, 2025.5)
     ax.xaxis.set_major_locator(ticker.MaxNLocator(integer=True))
     ax.grid(True)
     ax.legend(loc='upper right', frameon=True, facecolor='white', framealpha=0.9)
     
-    plt.figtext(0.12, -0.02, "Fuente: Encuesta Mundial de Gallup / Informe Mundial de la Felicidad (2011–2025). Escala de Cantril: 0-10.", 
+    plt.figtext(0.12, -0.02, "Fuente: Encuesta Mundial de Gallup / Informe Mundial de la Felicidad (2011–2025). Escala: 0 a 10.", 
                 fontsize=8.5, color='#555555')
     
     for ext in ['pdf', 'png']:
