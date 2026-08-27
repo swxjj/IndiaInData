@@ -306,18 +306,40 @@ def plot_05_hdi_and_gdp_india(ind_data, out_dir):
     print("Guardado 05_hdi_and_gdp_india (Español)")
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser(description="Generador académico de gráficos macroeconómicos")
+    parser.add_argument(
+        "--chart", "-c", nargs="+", default=["all"],
+        help="Número o lista de gráficos a generar (1, 2, 3, 4, 5) o 'all' para todos."
+    )
+    args = parser.parse_args()
+
     out_dir = "output/figures"
     os.makedirs(out_dir, exist_ok=True)
     setup_academic_style()
     ind_data, usa_data = load_data()
     
-    print("Generando figuras académicas en ESPAÑOL con Sistema de Diseño unificado...")
-    plot_01_hdi_india_vs_usa(ind_data, usa_data, out_dir)
-    plot_02_gdp_india_vs_usa(ind_data, usa_data, out_dir)
-    plot_03_happiness_india_vs_usa(ind_data, usa_data, out_dir)
-    plot_04_happiness_india(ind_data, out_dir)
-    plot_05_hdi_and_gdp_india(ind_data, out_dir)
-    print(f"Todas las figuras se han generado con éxito en {out_dir}/ (.pdf y .png)")
+    selected = [str(x).lower() for x in args.chart]
+    run_all = "all" in selected
+
+    chart_map = {
+        "1": ("01_hdi_india_vs_usa", lambda: plot_01_hdi_india_vs_usa(ind_data, usa_data, out_dir)),
+        "2": ("02_gdp_india_vs_usa", lambda: plot_02_gdp_india_vs_usa(ind_data, usa_data, out_dir)),
+        "3": ("03_happiness_india_vs_usa", lambda: plot_03_happiness_india_vs_usa(ind_data, usa_data, out_dir)),
+        "4": ("04_happiness_india", lambda: plot_04_happiness_india(ind_data, out_dir)),
+        "5": ("05_hdi_and_gdp_india", lambda: plot_05_hdi_and_gdp_india(ind_data, out_dir))
+    }
+
+    if run_all:
+        print("Generando TODOS los gráficos académicos en output/figures/...")
+        for num, (name, fn) in chart_map.items():
+            fn()
+    else:
+        for num in selected:
+            if num in chart_map:
+                chart_map[num][1]()
+            else:
+                print(f"Advertencia: Gráfico '{num}' no reconocido. Opciones válidas: 1, 2, 3, 4, 5 o all.")
 
 if __name__ == "__main__":
     main()
