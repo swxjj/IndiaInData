@@ -27,6 +27,9 @@
     urlcolor=unsblue
 }
 
+% --- Rutas de Figuras (Compilación desde raíz o desde carpeta latex/) ---
+\graphicspath{{output/figures/}{../output/figures/}{figures/}}
+
 % --- Formato de Títulos y Encabezados ---
 \titleformat{\section}
   {\normalfont\Large\bfseries\color{unsblue}}{\thesection.}{0.8em}{}
@@ -63,7 +66,7 @@
 % ==============================================================================
 El país que se nos adjudicó mediante sorteo fue \textbf{India}. Para poder establecer una comparación empírica y analizar las dimensiones del desarrollo, elegimos como país de referencia más desarrollado ---al menos en ciertos aspectos, no en todos--- a \textbf{Estados Unidos}.
 
-A continuación, se presentan las comparaciones longitudinales de a pares para los tres indicadores seleccionados (\textit{PBI per cápita real}, \textit{Índice de felicidad / Escalera de Cantril} e \textit{Índice de Desarrollo Humano}) y, posteriormente, el análisis de la evolución simultánea de las tres dimensiones para el caso de India.
+A continuación, se presentan las comparaciones longitudinales de a pares para los tres indicadores seleccionados (\textit{PBI per cápita real}, \textit{Índice de felicidad} e \textit{Índice de Desarrollo Humano}) y, posteriormente, el análisis de la evolución simultánea de las tres dimensiones para el caso de India.
 
 % ==============================================================================
 % SECCIÓN 2: COMPARACIONES DE A PARES (INDIA VS. ESTADOS UNIDOS)
@@ -74,7 +77,7 @@ A continuación, se presentan las comparaciones longitudinales de a pares para l
 
 \begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.92\textwidth]{output/figures/02_gdp_india_vs_usa.pdf}
+    \includegraphics[width=0.92\textwidth]{02_gdp_india_vs_usa.pdf}
     \caption{Trayectorias del PIB Real per Cápita: India vs. Estados Unidos (1960--2025).}
     \label{fig:gdp_ind_usa}
 \end{figure}
@@ -89,12 +92,12 @@ Si bien este indicador no contempla una amplia variedad de variables ---como, po
 
 \newpage
 
-\subsection{Índice de Felicidad (Escalera de Cantril)}
+\subsection{Índice de Felicidad (Satisfacción de Vida Autopercibida)}
 
 \begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.92\textwidth]{output/figures/03_happiness_india_vs_usa.pdf}
-    \caption{Satisfacción de Vida Autopercibida (Escalera de Cantril): India vs. Estados Unidos (2011--2025).}
+    \includegraphics[width=0.92\textwidth]{03_happiness_india_vs_usa.pdf}
+    \caption{Satisfacción de Vida Autopercibida: India vs. Estados Unidos (2011--2025).}
     \label{fig:happiness_ind_usa}
 \end{figure}
 
@@ -114,7 +117,7 @@ La recuperación post pandemia se refleja en una suba de aproximadamente 1 punto
 
 \begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.92\textwidth]{output/figures/01_hdi_india_vs_usa.pdf}
+    \includegraphics[width=0.92\textwidth]{01_hdi_india_vs_usa.pdf}
     \caption{Índice de Desarrollo Humano (IDH): India vs. Estados Unidos (1990--2023).}
     \label{fig:hdi_ind_usa}
 \end{figure}
@@ -148,7 +151,7 @@ Dado que no es posible representar tres series con escalas tan distintas en un �
 
 \begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.88\textwidth]{output/figures/04_happiness_india.pdf}
+    \includegraphics[width=0.88\textwidth]{04_happiness_india.pdf}
     \caption{Evolución del Bienestar Subjetivo en India (2011--2025).}
     \label{fig:happiness_ind}
 \end{figure}
@@ -159,7 +162,7 @@ En cuanto al índice de felicidad (Figura \ref{fig:happiness_ind}), observamos q
 
 \begin{figure}[htbp]
     \centering
-    \includegraphics[width=0.92\textwidth]{output/figures/05_hdi_and_gdp_india.pdf}
+    \includegraphics[width=0.92\textwidth]{05_hdi_and_gdp_india.pdf}
     \caption{Crecimiento Económico y Desarrollo Humano en India (1960--2025).}
     \label{fig:hdi_gdp_ind}
 \end{figure}
