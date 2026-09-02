@@ -32,8 +32,13 @@ def fetch_world_bank(indicator, countries=["IND", "USA"]):
     return sorted(records, key=lambda x: (x['country_iso'], x['year']))
 
 def run_pipeline():
-    os.makedirs("data/raw", exist_ok=True)
-    os.makedirs("data/processed", exist_ok=True)
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    tp1_dir = os.path.dirname(script_dir)
+    data_raw = os.path.join(tp1_dir, "data", "raw")
+    data_processed = os.path.join(tp1_dir, "data", "processed")
+    
+    os.makedirs(data_raw, exist_ok=True)
+    os.makedirs(data_processed, exist_ok=True)
     
     # ==========================================
     # 1. GDP Per Capita (Constant 2015 USD & PPP)

@@ -1,87 +1,104 @@
-# 📊 IndiaInData: Macroeconomic Data & Development Analytics Hub
+# IndiaInData
+### Applied Macroeconomics & Economic Development Repository
 
-Repositorio de procesamiento automatizado, análisis econométrico y visualización académica de series macroeconómicas y de bienestar con foco principal en **India 🇮🇳** y comparación con **Estados Unidos 🇺🇸** (con soporte para extensiones a **Argentina 🇦🇷**).
-
-Diseñado para el desarrollo de actividades y entregas de la materia **Desarrollo Económico** (Licenciatura en Economía - **Universidad Nacional del Sur, UNS**).
-
----
-
-## 📄 Entregable Oficial: Trabajo Práctico N° 1 (TP1)
-
-* 📄 **Documento Final Compilado:** [`TP1.pdf`](TP1.pdf) *(disponible directamente en la raíz del repositorio)*.
-* 📝 **Código Fuente LaTeX:** [`latex/tp1_desarrollo_economico.tex`](latex/tp1_desarrollo_economico.tex).
+Automated empirical pipeline, econometric data processing, and academic visualization framework developed for the Economic Development curriculum (Licenciatura en Economía, Universidad Nacional del Sur, Argentina).
 
 ---
 
-## 🚀 Estructura Limpia del Repositorio
+## Overview
+
+IndiaInData organizes empirical investigations into comparative economic development, structural transformation, and long-run growth dynamics. The repository is structured into modular research units corresponding to dedicated coursework deliverables.
 
 ```text
 IndiaInData/
-├── TP1.pdf                  # Documento final compilado del Trabajo Práctico N° 1
-├── data/
-│   ├── raw/                 # Datos brutos descargados de APIs oficiales (Banco Mundial, PNUD, WHR)
-│   └── processed/           # Paneles consolidados (1960–2025)
-│       ├── macro_panel_india_usa.csv
-│       ├── india_macro.csv
-│       └── usa_macro.csv
-├── latex/
-│   └── tp1_desarrollo_economico.tex # Código fuente LaTeX listo para compilar
-├── output/
-│   └── figures/             # Gráficos académicos vectoriales (.pdf) e imágenes (.png 300 DPI)
-│       ├── 01_hdi_india_vs_usa.[pdf|png]
-│       ├── 02_gdp_india_vs_usa.[pdf|png]
-│       ├── 03_happiness_india_vs_usa.[pdf|png]
-│       ├── 04_happiness_india.[pdf|png]
-│       └── 05_hdi_and_gdp_india.[pdf|png]
-├── src/
-│   ├── download_data.py     # Pipeline automatizado de descarga e ingesta
-│   └── plotting/
-│       └── generate_academic_charts.py # Generador de gráficos académicos
-├── product.md               # Especificación funcional y de diseño del proyecto
-├── requirements.txt         # Dependencias del entorno Python
-└── README.md                # Documentación del proyecto
+├── TP1/                        # Module I: Well-Being, HDI & Growth (India vs. United States)
+│   ├── TP1.pdf                 # Final compiled report
+│   ├── data/
+│   │   ├── raw/                # Primary ingested records (World Bank, UNDP, WHR)
+│   │   └── processed/          # Harmonized panel data (1960–2025)
+│   ├── latex/
+│   │   └── tp1_desarrollo_economico.tex
+│   ├── output/
+│   │   └── figures/            # High-resolution vector (PDF) and raster (PNG) assets
+│   └── src/
+│       ├── download_data.py
+│       └── plotting/
+│           └── generate_academic_charts.py
+│
+├── TP2/                        # Module II: Capital Accumulation & Convergence (India vs. China)
+│   ├── data/
+│   │   ├── raw/                # WDI time series (1960–2025)
+│   │   └── processed/          # Summary benchmarks and full annual dataset (1967–2025)
+│   ├── output/
+│   │   └── figures/            # Analytical charts (Lineal, Log, Growth, GFCF, ICOR)
+│   └── src/
+│       └── generate_india_china_analysis.py
+│
+├── requirements.txt            # Python dependencies
+└── README.md                   # Repository documentation
 ```
 
 ---
 
-## 📈 Indicadores y Fuentes de Datos
+## Research Modules
 
-| Indicador | Cobertura Temporal | Fuente Primaria |
-| :--- | :---: | :--- |
-| **PIB per cápita (USD Const. 2015)** | 1960 – 2025 | Banco Mundial (*WDI*, cod. `NY.GDP.PCAP.KD`) |
-| **PIB per cápita (PPA Const. 2021 $)** | 1990 – 2025 | Banco Mundial (*WDI*, cod. `NY.GDP.PCAP.PP.KD`) |
-| **Índice de Desarrollo Humano (IDH)** | 1990 – 2023 | PNUD (*UNDP Human Development Report Office*) |
-| **Satisfacción de Vida Autopercibida** | 2011 – 2025 | *Gallup World Poll* / *World Happiness Report* |
+### Module I: Well-Being, HDI & Long-Run Expansion (TP1)
+* **Focus:** Multidimensional development, subjective well-being (Cantril Ladder), Human Development Index (HDI), and real per capita GDP comparisons between India and the United States (with extensions for Argentina).
+* **Deliverable:** `TP1/TP1.pdf`
+* **Core Output:** Visualizations and analytical breakdowns covering 1960–2025 in `TP1/output/figures/`.
+
+### Module II: Capital Accumulation, Investment & Growth Dynamics (TP2)
+* **Focus:** Comparative evaluation of capital formation, investment effort (Gross Fixed Capital Formation as % of GDP), Incremental Capital-Output Ratios (ICOR), and real per capita GDP trajectory between India and China across the 1967–2025 horizon.
+* **Core Findings:**
+  * **Initial Conditions (1967):** India real GDP per capita stood at USD 340.08 (constant 2015 prices) versus China at USD 232.93.
+  * **Divergence & Crossover:** Following China's 1978 reforms, economic expansion accelerated, crossing India's trajectory in 1983–1984. By 2025, China's real per capita GDP expanded by 59.2x (USD 13,793.21) compared to India's 7.4x expansion (USD 2,523.44).
+  * **Investment Regimes:** China sustained an average Gross Fixed Capital Formation rate of 33.38% of GDP (peaking at 44.1% in 2011) versus India's 25.41% average (peaking at 35.8% in 2007).
+  * **Capital Efficiency:** Long-run ICOR averaged 4.03 for China and 4.62 for India over 1967–2025.
 
 ---
 
-## ⚙️ Instrucciones de Uso y Reproducción
+## Core Datasets & Indicators
 
-### 1. Clonar el repositorio
+| Indicator | Coverage | Primary Source | Reference Code |
+| :--- | :---: | :--- | :--- |
+| Real GDP per capita (constant 2015 USD) | 1960 – 2025 | World Bank (WDI) | `NY.GDP.PCAP.KD` |
+| Real GDP per capita growth (annual %) | 1961 – 2025 | World Bank (WDI) | `NY.GDP.PCAP.KD.ZG` |
+| Real GDP (constant 2015 USD) | 1960 – 2025 | World Bank (WDI) | `NY.GDP.MKTP.KD` |
+| Real GDP growth (annual %) | 1961 – 2025 | World Bank (WDI) | `NY.GDP.MKTP.KD.ZG` |
+| Gross Fixed Capital Formation (% of GDP) | 1960 – 2025 | World Bank (WDI) | `NE.GDI.FTOT.ZS` |
+| Gross Capital Formation (% of GDP) | 1960 – 2025 | World Bank (WDI) | `NE.GDI.TOTL.ZS` |
+| Total Population | 1960 – 2025 | World Bank (WDI) | `SP.POP.TOTL` |
+| Human Development Index (HDI) | 1990 – 2023 | UNDP | HDR Office |
+| Subjective Life Satisfaction (Cantril Ladder) | 2011 – 2025 | WHR / Gallup | World Happiness Report |
+
+---
+
+## Reproduction & Execution
+
+### 1. Environment Setup
 ```bash
 git clone https://github.com/swxjj/IndiaInData.git
 cd IndiaInData
-```
-
-### 2. Instalar dependencias
-```bash
 pip install -r requirements.txt
 ```
 
-### 3. Descarga y actualización de datos
+### 2. Module I Pipeline (TP1)
 ```bash
-python src/download_data.py
+python TP1/src/download_data.py
+python TP1/src/plotting/generate_academic_charts.py
 ```
 
-### 4. Regeneración de gráficos
+### 3. Module II Pipeline (TP2)
 ```bash
-python src/plotting/generate_academic_charts.py
+python TP2/src/generate_india_china_analysis.py
 ```
 
 ---
 
-## 🎓 Contexto Académico
-* **Institución:** Universidad Nacional del Sur (UNS) -- Departamento de Economía.
-* **Materia:** Desarrollo Económico.
-* **Carrera:** Licenciatura en Economía.
-* **Autor:** Mateo Barros y Grupo de Trabajo.
+## Academic Information
+
+* **Institution:** Universidad Nacional del Sur (UNS)
+* **Department:** Departamento de Economía
+* **Program:** Licenciatura en Economía
+* **Course:** Desarrollo Económico
+* **Authors:** Mateo Barros & Study Group

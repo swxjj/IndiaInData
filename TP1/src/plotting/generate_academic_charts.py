@@ -34,7 +34,11 @@ STYLE = {
     }
 }
 
-def load_data(filepath="data/processed/macro_panel_india_usa.csv"):
+def load_data(filepath=None):
+    if filepath is None:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        tp1_dir = os.path.dirname(os.path.dirname(script_dir))
+        filepath = os.path.join(tp1_dir, "data", "processed", "macro_panel_india_usa.csv")
     with open(filepath, "r", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         rows = list(reader)
@@ -314,7 +318,9 @@ def main():
     )
     args = parser.parse_args()
 
-    out_dir = "output/figures"
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    tp1_dir = os.path.dirname(os.path.dirname(script_dir))
+    out_dir = os.path.join(tp1_dir, "output", "figures")
     os.makedirs(out_dir, exist_ok=True)
     setup_academic_style()
     ind_data, usa_data = load_data()
