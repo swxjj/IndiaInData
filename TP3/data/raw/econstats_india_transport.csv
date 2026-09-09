@@ -1,0 +1,553 @@
+country_iso,country_name,section,indicator_code,indicator_name,year,value
+IND,India,TRANSPORTATION,EP.PMP.DESL.CD,Pump price for diesel fuel (US$ per liter),1991,0.23
+IND,India,TRANSPORTATION,EP.PMP.DESL.CD,Pump price for diesel fuel (US$ per liter),1995,0.19
+IND,India,TRANSPORTATION,EP.PMP.DESL.CD,Pump price for diesel fuel (US$ per liter),1998,0.21
+IND,India,TRANSPORTATION,EP.PMP.DESL.CD,Pump price for diesel fuel (US$ per liter),2000,0.39
+IND,India,TRANSPORTATION,EP.PMP.DESL.CD,Pump price for diesel fuel (US$ per liter),2002,0.41
+IND,India,TRANSPORTATION,EP.PMP.DESL.CD,Pump price for diesel fuel (US$ per liter),2004,0.62
+IND,India,TRANSPORTATION,EP.PMP.DESL.CD,Pump price for diesel fuel (US$ per liter),2006,0.75
+IND,India,TRANSPORTATION,EP.PMP.DESL.CD,Pump price for diesel fuel (US$ per liter),2008,0.7
+IND,India,TRANSPORTATION,EP.PMP.SGAS.CD,Pump price for gasoline (US$ per liter),1991,0.56
+IND,India,TRANSPORTATION,EP.PMP.SGAS.CD,Pump price for gasoline (US$ per liter),1995,0.48
+IND,India,TRANSPORTATION,EP.PMP.SGAS.CD,Pump price for gasoline (US$ per liter),1998,0.56
+IND,India,TRANSPORTATION,EP.PMP.SGAS.CD,Pump price for gasoline (US$ per liter),2000,0.6
+IND,India,TRANSPORTATION,EP.PMP.SGAS.CD,Pump price for gasoline (US$ per liter),2002,0.66
+IND,India,TRANSPORTATION,EP.PMP.SGAS.CD,Pump price for gasoline (US$ per liter),2004,0.87
+IND,India,TRANSPORTATION,EP.PMP.SGAS.CD,Pump price for gasoline (US$ per liter),2006,1.01
+IND,India,TRANSPORTATION,EP.PMP.SGAS.CD,Pump price for gasoline (US$ per liter),2008,1.09
+IND,India,TRANSPORTATION,IQ.WEF.CUST.XQ,Burden of customs procedure WEF (1=extremely inefficient to 7=extremely efficient),2007,3.61589
+IND,India,TRANSPORTATION,IQ.WEF.CUST.XQ,Burden of customs procedure WEF (1=extremely inefficient to 7=extremely efficient),2008,3.6556
+IND,India,TRANSPORTATION,IQ.WEF.CUST.XQ,Burden of customs procedure WEF (1=extremely inefficient to 7=extremely efficient),2009,3.91018
+IND,India,TRANSPORTATION,IQ.WEF.PORT.XQ,Quality of port infrastructure WEF (1=extremely underdeveloped to 7=well developed and efficient by international standards),2007,3.4893
+IND,India,TRANSPORTATION,IQ.WEF.PORT.XQ,Quality of port infrastructure WEF (1=extremely underdeveloped to 7=well developed and efficient by international standards),2008,3.33139
+IND,India,TRANSPORTATION,IQ.WEF.PORT.XQ,Quality of port infrastructure WEF (1=extremely underdeveloped to 7=well developed and efficient by international standards),2009,3.47247
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1970,97500.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1971,64700.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1972,96600.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1973,94300.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1974,69000.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1975,90600.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1976,94700.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1977,99000.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1978,105300.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1979,100100.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1980,100000.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1981,104600.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1982,106500.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1983,113500.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1984,120400.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1985,139900.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1986,151000.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1987,159500.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1988,157600.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1989,156300.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1990,125800.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1991,117500.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1992,120300.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1993,105300.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1994,130100.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1995,168400.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1996,151300.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1997,182500.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1998,196100.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,1999,180500.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,2000,198426.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,2001,206690.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,2002,231413.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,2003,263870.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,2004,302790.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,2005,330484.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,2006,453921.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,2007,569033.0
+IND,India,TRANSPORTATION,IS.AIR.DPRT,Air transport registered carrier departures worldwide,2008,592292.0
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1970,96.3
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1971,108.4
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1972,131.1
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1973,176.5
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1974,144.7
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1975,211.3
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1976,250.7
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1977,275.9
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1978,297.7
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1979,297.6
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1980,366.0
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1981,411.4
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1982,409.9
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1983,461.6
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1984,545.5
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1985,489.7
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1986,539.7
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1987,645.2
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1988,646.3
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1989,680.6
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1990,662.9
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1991,493.1
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1992,429.4
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1993,372.4
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1994,563.6
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1995,653.9
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1996,565.0
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1997,528.0
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1998,531.3
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),1999,531.2
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),2000,547.65
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),2001,515.37
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),2002,546.34
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),2003,579.85
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),2004,708.48
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),2005,774.04
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),2006,842.55
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),2007,967.68
+IND,India,TRANSPORTATION,IS.AIR.GOOD.MT.K1,Air transport freight (million ton-km),2008,1233.9
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1970,2671600.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1971,2554000.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1972,3285800.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1973,3391600.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1974,3037300.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1975,3839900.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1976,4534000.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1977,5147500.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1978,6099600.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1979,6546800.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1980,6603100.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1981,7574500.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1982,8391700.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1983,9164800.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1984,10125700.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1985,10993800.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1986,11785200.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1987,12668600.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1988,12863100.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1989,12740100.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1990,10862200.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1991,10717400.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1992,11127100.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1993,9441600.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1994,11518400.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1995,14260600.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1996,13394600.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1997,16039800.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1998,16521000.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,1999,16005400.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,2000,17299480.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,2001,16862740.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,2002,17633020.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,2003,19455080.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,2004,23934070.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,2005,27879460.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,2006,40288790.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,2007,51897450.0
+IND,India,TRANSPORTATION,IS.AIR.PSGR,Air transport passengers carried,2008,49877940.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1971,3284.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1972,3593.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1973,3958.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1974,5043.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1975,5356.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1976,5586.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1977,6020.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1978,6575.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1979,7638.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1980,8126.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1981,8511.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1982,9457.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1983,10043.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1984,10844.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1985,11781.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1986,12805.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1987,14047.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1988,15361.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1989,16700.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1990,17170.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1991,18636.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1992,20130.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1993,21416.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1994,23149.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1995,26427.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1996,19120.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1997,19485.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1998,19726.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),1999,20725.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),2000,20484.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),2001,19775.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),2002,19905.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),2003,19872.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),2004,20583.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),2005,19335.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),2006,21611.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.KT,Road sector diesel fuel consumption (kt of oil equivalent),2007,23547.0
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1971,0.00586149
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1972,0.00626909
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1973,0.00675173
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1974,0.00841001
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1975,0.00873082
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1976,0.00890011
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1977,0.009375
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1978,0.0100085
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1979,0.0113657
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1980,0.0118225
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1981,0.0121098
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1982,0.0131635
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1983,0.0136812
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1984,0.0144649
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1985,0.015397
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1986,0.0163769
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1987,0.0175878
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1988,0.0188342
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1989,0.0200592
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1990,0.0202115
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1991,0.0215065
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1992,0.0228019
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1993,0.0238133
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1994,0.0252802
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1995,0.0283497
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1996,0.0201527
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1997,0.0201828
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1998,0.0200838
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),1999,0.0207454
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),2000,0.020163
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),2001,0.019153
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),2002,0.0189817
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),2003,0.0186697
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),2004,0.0190633
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),2005,0.0176643
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),2006,0.0194727
+IND,India,TRANSPORTATION,IS.ROD.DESL.PC,Road sector diesel fuel consumption per capita (kt of oil equivalent),2007,0.0209346
+IND,India,TRANSPORTATION,IS.ROD.DNST.K2,Road density (km of road per sq. km of land area),2002,103.0
+IND,India,TRANSPORTATION,IS.ROD.DNST.K2,Road density (km of road per sq. km of land area),2006,1001.0
+IND,India,TRANSPORTATION,IS.ROD.DNST.K2,Road density (km of road per sq. km of land area),2007,1001.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1971,5043.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1972,5421.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1973,5710.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1974,6570.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1975,6906.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1976,7193.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1977,7733.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1978,8433.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1979,9521.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1980,10041.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1981,10536.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1982,11637.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1983,12459.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1984,13453.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1985,14632.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1986,15934.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1987,17548.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1988,19293.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1989,21094.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1990,21667.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1991,23170.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1992,24746.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1993,26341.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1994,28469.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1995,32409.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1996,25159.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1997,25780.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1998,26391.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),1999,27886.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),2000,28500.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),2001,28233.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),2002,29203.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),2003,29694.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),2004,30961.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),2005,30250.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),2006,33522.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.KT,Road sector energy consumption (kt of oil equivalent),2007,37004.0
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1971,0.00900106
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1972,0.00945859
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1973,0.00974037
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1974,0.0109565
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1975,0.0112575
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1976,0.0114605
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1977,0.0120427
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1978,0.0128368
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1979,0.0141677
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1980,0.0146087
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1981,0.014991
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1982,0.0161979
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1983,0.0169725
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1984,0.0179451
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1985,0.0191231
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1986,0.0203788
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1987,0.0219713
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1988,0.0236553
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1989,0.0253371
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1990,0.0255051
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1991,0.0267388
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1992,0.0280306
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1993,0.0292896
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1994,0.03109
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1995,0.0347669
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1996,0.0265178
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1997,0.0267032
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1998,0.0268698
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),1999,0.0279135
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),2000,0.0280533
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),2001,0.027345
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),2002,0.0278484
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),2003,0.0278974
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),2004,0.028675
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),2005,0.0276361
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),2006,0.0302051
+IND,India,TRANSPORTATION,IS.ROD.ENGY.PC,Road sector energy consumption per capita (kt of oil equivalent),2007,0.0328987
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1971,3.2286
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1972,3.39147
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1973,3.47764
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1974,3.8404
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1975,3.8929
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1976,3.89451
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1977,4.07401
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1978,4.36543
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1979,4.71281
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1980,4.84025
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1981,4.82479
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1982,5.12989
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1983,5.31745
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1984,5.50759
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1985,5.69811
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1986,6.00024
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1987,6.3542
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1988,6.62965
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1989,6.91706
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1990,6.81003
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1991,7.00201
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1992,7.18813
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1993,7.48803
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1994,7.79729
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1995,8.41133
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1996,6.31959
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1997,6.22908
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1998,6.23939
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),1999,6.219
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),2000,6.23112
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),2001,6.08638
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),2002,6.1324
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),2003,6.07606
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),2004,5.99372
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),2005,5.66377
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),2006,5.97577
+IND,India,TRANSPORTATION,IS.ROD.ENGY.ZS,Road sector energy consumption (% of total energy consumption),2007,6.22007
+IND,India,TRANSPORTATION,IS.ROD.GOOD.MT.K6,Roads goods transported (million ton-km),1996,720.0
+IND,India,TRANSPORTATION,IS.ROD.GOOD.MT.K6,Roads goods transported (million ton-km),1997,792.0
+IND,India,TRANSPORTATION,IS.ROD.GOOD.MT.K6,Roads goods transported (million ton-km),1998,871.0
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),1991,47.3
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),1992,51.9
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),1993,54.4
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),1994,54.9
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),1995,55.4
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),1996,54.7
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),1997,56.5
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),1998,57.0
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),1999,46.67
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),2000,47.46
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),2001,47.74
+IND,India,TRANSPORTATION,IS.ROD.PAVE.ZS,Roads paved (% of total roads),2002,47.4
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1971,1527.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1972,1592.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1973,1507.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1974,1264.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1975,1275.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1976,1316.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1977,1391.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1978,1499.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1979,1490.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1980,1522.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1981,1599.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1982,1722.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1983,1891.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1984,2084.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1985,2275.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1986,2505.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1987,2810.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1988,3052.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1989,3491.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1990,3545.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1991,3573.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1992,3595.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1993,3834.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1994,4141.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1995,4679.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1996,4955.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1997,5182.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1998,5507.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),1999,5909.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),2000,6613.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),2001,7011.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),2002,7570.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),2003,7897.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),2004,8251.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),2005,8648.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),2006,9286.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.KT,Road sector gasoline fuel consumption (kt of oil equivalent),2007,10327.0
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1971,0.00272548
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1972,0.00277773
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1973,0.00257071
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1974,0.00210792
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1975,0.00207838
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1976,0.00209677
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1977,0.00216622
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1978,0.00228179
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1979,0.00221719
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1980,0.00221436
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1981,0.00227512
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1982,0.00239691
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1983,0.00257604
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1984,0.00277986
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1985,0.00297329
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1986,0.00320376
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1987,0.00351831
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1988,0.00374208
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1989,0.00419322
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1990,0.00417297
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1991,0.00412334
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1992,0.00407217
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1993,0.00426318
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1994,0.00452224
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1995,0.00501942
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1996,0.00522261
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1997,0.00536757
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1998,0.0056069
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),1999,0.00591482
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),2000,0.00650935
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),2001,0.00679049
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),2002,0.00721887
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),2003,0.00741921
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),2004,0.00764179
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),2005,0.00790073
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),2006,0.00836719
+IND,India,TRANSPORTATION,IS.ROD.SGAS.PC,Road sector gasoline fuel consumption per capita (kt of oil equivalent),2007,0.00918129
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),1990,2000000.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),1991,2350365.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),1992,2021441.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),1993,2114498.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),1994,2142791.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),1995,2173241.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),1996,2367062.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),1997,2465877.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),1998,2457695.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),1999,3296650.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),2000,3316078.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),2002,3383344.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),2006,3316452.0
+IND,India,TRANSPORTATION,IS.ROD.TOTL.KM,Roads total network (km),2007,3316452.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1980,158474.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1981,174202.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1982,177767.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1983,178446.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1984,182161.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1985,205904.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1986,223097.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1987,234241.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1988,222374.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1989,229602.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1990,235785.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1991,250238.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1992,252388.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1993,252411.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1994,249564.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1995,270489.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1996,277567.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1997,284249.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1998,281513.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),1999,301516.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),2000,305201.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),2001,312371.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),2002,333228.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),2003,353194.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),2004,381241.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),2005,407398.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),2006,439596.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),2007,480993.0
+IND,India,TRANSPORTATION,IS.RRS.GOOD.MT.K6,Railways goods transported (million ton-km),2008,521371.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1980,208558.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1981,220787.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1982,226930.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1983,222935.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1984,226582.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1985,240614.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1986,256468.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1987,269389.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1988,263731.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1989,280848.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1990,295644.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1991,314564.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1992,300103.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1993,296245.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1994,319365.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1995,326197.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1996,357013.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1997,379897.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1998,403884.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),1999,431000.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),2000,430666.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),2001,457022.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),2002,490912.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),2003,515044.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),2004,541208.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),2005,575702.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),2006,615634.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),2007,694764.0
+IND,India,TRANSPORTATION,IS.RRS.PASG.KM,Railways passengers carried (million passenger-km),2008,769956.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1980,61240.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1981,61230.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1982,61385.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1983,61460.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1984,61850.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1985,61836.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1986,61813.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1987,61976.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1988,61985.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1989,62211.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1990,62367.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1991,62458.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1992,62486.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1993,62462.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1994,62461.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1995,62660.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1996,62725.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1997,62725.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1998,63506.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),1999,62759.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),2000,62759.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),2001,63028.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),2002,63140.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),2003,63122.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),2004,63200.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),2005,63465.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),2006,63332.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),2007,63327.0
+IND,India,TRANSPORTATION,IS.RRS.TOTL.KM,Rail lines (total route-km),2008,63327.0
+IND,India,TRANSPORTATION,IS.SHP.GCNW.XQ,Liner shipping connectivity index (maximum value in 2004 = 100),2004,34.14
+IND,India,TRANSPORTATION,IS.SHP.GCNW.XQ,Liner shipping connectivity index (maximum value in 2004 = 100),2005,36.88
+IND,India,TRANSPORTATION,IS.SHP.GCNW.XQ,Liner shipping connectivity index (maximum value in 2004 = 100),2006,42.9
+IND,India,TRANSPORTATION,IS.SHP.GCNW.XQ,Liner shipping connectivity index (maximum value in 2004 = 100),2007,40.47
+IND,India,TRANSPORTATION,IS.SHP.GCNW.XQ,Liner shipping connectivity index (maximum value in 2004 = 100),2008,42.18
+IND,India,TRANSPORTATION,IS.SHP.GCNW.XQ,Liner shipping connectivity index (maximum value in 2004 = 100),2009,4.097
+IND,India,TRANSPORTATION,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),2000,2450656.0
+IND,India,TRANSPORTATION,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),2001,2764757.0
+IND,India,TRANSPORTATION,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),2002,3208380.0
+IND,India,TRANSPORTATION,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),2003,3916814.0
+IND,India,TRANSPORTATION,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),2004,4332863.0
+IND,India,TRANSPORTATION,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),2005,4982092.0
+IND,India,TRANSPORTATION,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),2006,6141148.0
+IND,India,TRANSPORTATION,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),2007,7376733.0
+IND,India,TRANSPORTATION,IS.SHP.GOOD.TU,Container port traffic (TEU: 20 foot equivalent units),2008,6623256.0
+IND,India,TRANSPORTATION,IS.VEH.NVEH.P3,Motor vehicles (per 1000 people),2002,11.0
+IND,India,TRANSPORTATION,IS.VEH.NVEH.P3,Motor vehicles (per 1000 people),2003,12.0
+IND,India,TRANSPORTATION,IS.VEH.PCAR.P3,Passenger cars (per 1000 people),2002,7.0
+IND,India,TRANSPORTATION,IS.VEH.PCAR.P3,Passenger cars (per 1000 people),2003,8.0
+IND,India,TRANSPORTATION,IS.VEH.ROAD.K1,Vehicles (per km of road),2002,3.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),1990,1900000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),1994,125000000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),1996,182000000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),1997,404600000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),1998,295800000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),1999,466700000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),2000,29600000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),2001,343000000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),2002,715470000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),2003,549840000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),2004,1117100000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),2005,1526260000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),2006,9629290000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),2007,3851400000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.TRAN.CD,Investment in transport with private participation (current US$),2008,5528520000.0

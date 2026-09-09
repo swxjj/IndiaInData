@@ -1,0 +1,953 @@
+country_iso,country_name,section,indicator_code,indicator_name,year,value
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1971,141536.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1972,145836.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1973,148949.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1974,156493.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1975,165610.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1976,169785.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1977,174073.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1978,177469.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1979,180762.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1980,186800.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1981,199898.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1982,210477.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1983,221223.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1984,232861.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1985,239078.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1986,250646.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1987,258686.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1988,272427.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1989,280861.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1990,291081.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1991,300671.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1992,305407.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1993,308914.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1994,320144.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1995,334701.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1996,341176.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1997,351590.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1998,350324.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),1999,357441.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),2000,364334.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),2001,372312.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),2002,381382.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),2003,394337.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),2004,407406.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),2005,420288.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),2006,435770.0
+IND,India,ENERGY PRODUCTION & USE,EG.EGY.PROD.KT.OE,Energy production (kt of oil equivalent),2007,450923.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1971,32590000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1972,36681000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1973,35958000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1974,41039000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1975,44111000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1976,51775000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1977,52427000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1978,53218000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1979,56271000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1980,61463000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1981,70746000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1982,80390000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1983,87030000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1984,99900000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1985,116039000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1986,129902000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1987,152799000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1988,164671000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1989,184971000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1990,191603000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1991,214079000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1992,229328000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1993,252692000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1994,264422000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1995,295808000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1996,306786000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1997,331441000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1998,341238000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),1999,368433000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),2000,397433000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),2001,412736000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),2002,431781000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),2003,446896000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),2004,468261000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),2005,481759000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),2006,517978000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.KH,Electricity production from coal sources (kWh),2007,549143000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1971,49.0932
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1972,52.018
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1973,49.3956
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1974,53.5212
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1975,51.336
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1976,54.1495
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1977,52.9951
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1978,48.3229
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1979,49.8768
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1980,51.537
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1981,53.9527
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1982,57.2987
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1983,57.6381
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1984,59.0408
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1985,63.2744
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1986,64.5383
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1987,69.7763
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1988,68.2413
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1989,68.8487
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1990,66.1983
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1991,67.8257
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1992,68.9267
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1993,70.9142
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1994,68.603
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1995,70.8312
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1996,70.2452
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1997,71.1534
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1998,68.6694
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),1999,68.5547
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2000,70.693
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2001,71.0448
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2002,72.1563
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2003,70.3602
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2004,70.1445
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2005,68.9088
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2006,68.7871
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.COAL.ZS,Electricity production from coal sources (% of total),2007,68.3516
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1971,28030000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1972,27203000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1973,28979000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1974,27882000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1975,33311000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1976,34844000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1977,38019000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1978,47172000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1979,45492000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1980,46557000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1981,49583000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1982,48384000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1983,49972000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1984,53966000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1985,51039000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1986,53859000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1987,47462000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1988,57884000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1989,62132000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1990,71656000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1991,72775000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1992,69886000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1993,70478000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1994,82727000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1995,72596000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1996,68930000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1997,74661000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1998,83003000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),1999,80853000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),2000,74462000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),2001,73697000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),2002,64104000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),2003,75339000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),2004,84723000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),2005,101730000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),2006,113719000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.KH,Electricity production from hydroelectric sources (kWh),2007,123812000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1971,42.224
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1972,38.5771
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1973,39.8085
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1974,36.3625
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1975,38.7671
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1976,36.442
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1977,38.431
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1978,42.833
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1979,40.3226
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1980,39.0382
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1981,37.8133
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1982,34.4861
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1983,33.0954
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1984,31.8939
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1985,27.8309
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1986,26.7584
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1987,21.6737
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1988,23.9877
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1989,23.1264
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1990,24.7569
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1991,23.057
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1992,21.0049
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1993,19.7786
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1994,21.4631
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1995,17.3831
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1996,15.783
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1997,16.0281
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1998,16.7032
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),1999,15.0444
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2000,13.2449
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2001,12.6856
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2002,10.7126
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2003,11.8615
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2004,12.6913
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2005,14.551
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2006,15.1018
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.HYRO.ZS,Electricity production from hydroelectric sources (% of total),2007,15.4108
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1971,10862000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1972,12230000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1973,12932000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1974,13356000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1975,14526000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1976,16446000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1977,16532000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1978,19360000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1979,20076000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1980,21325000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1981,23589000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1982,25643000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1983,27689000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1984,31214000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1985,34194000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1986,37282000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1987,42230000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1988,44506000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1989,53260000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1990,56521000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1991,61438000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1992,61565000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1993,65011000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1994,69568000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1995,79363000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1996,91105000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1997,97919000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1998,111484000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),1999,140163000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),2000,155073000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),2001,166111000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),2002,162882000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),2003,174035000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),2004,175535000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),2005,180099000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),2006,188916000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.KH,Electric power transmission and distribution losses (kWh),2007,198418000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1971,16.3624
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1972,17.3436
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1973,17.7647
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1974,17.4183
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1975,16.9052
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1976,17.2002
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1977,16.7111
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1978,17.5792
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1979,17.7947
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1980,17.8811
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1981,17.9896
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1982,18.2773
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1983,18.3378
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1984,18.4474
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1985,18.6455
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1986,18.5226
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1987,19.2845
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1988,18.4437
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1989,19.8241
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1990,19.5278
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1991,19.4651
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1992,18.5039
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1993,18.2444
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1994,18.0491
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1995,19.0035
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1996,20.8604
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1997,21.0211
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1998,22.4346
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),1999,26.0803
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2000,27.5834
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2001,28.5929
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2002,27.2197
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2003,27.4004
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2004,26.2948
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2005,25.7606
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2006,25.0879
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.LOSS.ZS,Electric power transmission and distribution losses (% of output),2007,24.697
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1971,377000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1972,474000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1973,358000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1974,465000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1975,513000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1976,486000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1977,508000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1978,564000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1979,591000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1980,624000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1981,793000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1982,1986000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1983,2291000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1984,2151000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1985,2158000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1986,3682000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1987,4235000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1988,3604000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1989,7275000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1990,9958000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1991,13355000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1992,16258000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1993,17878000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1994,21882000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1995,29434000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1996,32024000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1997,28980000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1998,39621000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),1999,49899000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),2000,43016000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),2001,46431000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),2002,47942000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),2003,60148000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),2004,62775000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),2005,61516000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),2006,62394000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.KH,Electricity production from natural gas sources (kWh),2007,66744000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1971,0.567908
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1972,0.672188
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1973,0.491785
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1974,0.606432
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1975,0.597025
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1976,0.508288
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1977,0.513505
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1978,0.512122
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1979,0.523843
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1980,0.523227
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1981,0.604762
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1982,1.41554
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1983,1.51728
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1984,1.27124
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1985,1.17673
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1986,1.8293
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1987,1.93393
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1988,1.49353
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1989,2.70785
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1990,3.44046
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1991,4.23121
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1992,4.88649
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1993,5.01719
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1994,5.67718
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1995,7.04797
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1996,7.33258
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1997,6.22139
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1998,7.97317
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),1999,9.28476
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2000,7.65142
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2001,7.99223
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2002,8.01174
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2003,9.46981
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2004,9.40356
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2005,8.79899
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2006,8.28588
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NGAS.ZS,Electricity production from natural gas sources (% of total),2007,8.3076
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1971,1190000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1972,1133000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1973,2396000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1974,2206000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1975,2626000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1976,3252000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1977,2272000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1978,2770000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1979,2877000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1980,3001000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1981,3021000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1982,2022000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1983,3546000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1984,4075000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1985,4982000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1986,5022000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1987,5035000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1988,5817000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1989,4625000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1990,6141000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1991,5525000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1992,6726000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1993,5398000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1994,5648000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1995,7982000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1996,9071000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1997,10083000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1998,11922000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),1999,13249000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),2000,16902000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),2001,19475000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),2002,19390000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),2003,17780000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),2004,17011000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),2005,17324000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),2006,18802000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.KH,Electricity production from nuclear sources (kWh),2007,16776000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1971,1.7926
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1972,1.60673
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1973,3.29139
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1974,2.87697
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1975,3.05612
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1976,3.40114
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1977,2.29662
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1978,2.51521
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1979,2.55008
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1980,2.51635
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1981,2.30389
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1982,1.4412
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1983,2.34844
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1984,2.40832
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1985,2.71662
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1986,2.49504
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1987,2.29926
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1988,2.41062
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1989,1.72149
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1990,2.1217
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1991,1.75046
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1992,2.02156
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1993,1.51487
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1994,1.46535
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1995,1.91129
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1996,2.077
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1997,2.16461
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1998,2.39914
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),1999,2.46526
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2000,3.00643
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2001,3.35226
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2002,3.24032
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2003,2.79932
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2004,2.54821
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2005,2.47795
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2006,2.49689
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.NUCL.ZS,Electricity production from nuclear sources (% of total),2007,2.0881
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1971,4197000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1972,5025000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1973,5105000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1974,5086000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1975,5365000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1976,5258000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1977,5702000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1978,6406000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1979,7589000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1980,7615000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1981,6983000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1982,7518000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1983,8155000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1984,9113000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1985,9172000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1986,8812000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1987,9450000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1988,9325000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1989,9654000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1990,10048000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1991,9858000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1992,10427000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1993,9790000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1994,10559000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1995,11274000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1996,18997000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1997,19604000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1998,20012000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),1999,22509000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),2000,27345000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),2001,24540000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),2002,30639000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),2003,29522000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),2004,28402000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),2005,28267000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),2006,29484000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.KH,Electricity production from oil sources (kWh),2007,33311000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1971,6.32231
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1972,7.12604
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1973,7.01275
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1974,6.63293
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1975,6.24375
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1976,5.49914
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1977,5.76379
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1978,5.81676
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1979,6.72664
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1980,6.38521
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1981,5.32541
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1982,5.35852
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1983,5.40088
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1984,5.38578
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1985,5.00136
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1986,4.378
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1987,4.31538
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1988,3.86437
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1989,3.59335
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1990,3.47156
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1991,3.12327
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1992,3.13393
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1993,2.74742
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1994,2.73948
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1995,2.69956
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1996,4.34977
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1997,4.20857
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1998,4.02714
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),1999,4.18827
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2000,4.86396
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2001,4.2241
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2002,5.12018
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2003,4.648
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2004,4.25456
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2005,4.04319
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2006,3.91546
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PETR.ZS,Electricity production from oil sources (% of total),2007,4.14621
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1971,66384000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1972,70516000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1973,72796000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1974,76678000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1975,85926000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1976,95615000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1977,98928000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1978,110130000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1979,112820000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1980,119260000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1981,131126000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1982,140300000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1983,150994000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1984,169205000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1985,183390000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1986,201279000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1987,218984000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1988,241307000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1989,268663000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1990,289438000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1991,315631000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1992,332713000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1993,356335000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1994,385438000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1995,417624000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1996,436736000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1997,465812000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1998,496929000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),1999,537429000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),2000,562196000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),2001,580952000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),2002,598397000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),2003,635155000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),2004,667566000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),2005,699126000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),2006,753016000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.ELC.PROD.KH,Electricity production (kWh),2007,803409000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1980,1.37602
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1981,1.51575
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1982,1.60164
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1983,1.72965
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1984,1.78725
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1985,1.84398
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1986,1.90976
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1987,1.96178
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1988,2.11113
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1989,2.21547
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1990,2.32758
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1991,2.34083
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1992,2.42797
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1993,2.54659
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1994,2.67201
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1995,2.7792
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1996,2.94813
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1997,3.00018
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1998,3.15202
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),1999,3.23907
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),2000,3.37546
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),2001,3.58621
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),2002,3.68834
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),2003,3.97788
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),2004,4.19199
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),2005,4.57818
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),2006,4.93418
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP,GDP per unit of energy use (PPP $ per kg of oil equivalent),2007,5.21057
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1980,2.88099
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1981,2.90106
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1982,2.88946
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1983,3.00169
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1984,2.98939
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1985,2.99243
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1986,3.03159
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1987,3.03051
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1988,3.15306
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1989,3.18792
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1990,3.22454
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1991,3.13335
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1992,3.17683
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1993,3.25721
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1994,3.34703
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1995,3.41173
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1996,3.5515
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1997,3.55482
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1998,3.69369
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),1999,3.74164
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),2000,3.816
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),2001,3.95891
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),2002,4.00161
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),2003,4.22569
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),2004,4.3288
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),2005,4.57818
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),2006,4.78038
+IND,India,ENERGY PRODUCTION & USE,EG.GDP.PUSE.KO.PP.KD,GDP per unit of energy use (constant 2005 PPP $ per kg of oil equivalent),2007,4.916
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1971,9.3868
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1972,8.7624
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1973,9.28364
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1974,8.52428
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1975,6.646
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1976,8.07327
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1977,8.29237
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1978,8.1314
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1979,10.5245
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1980,9.95334
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1981,8.45988
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1982,7.21632
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1983,5.58292
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1984,4.66792
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1985,6.89638
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1986,5.61464
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1987,6.32885
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1988,6.38601
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1989,7.90114
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1990,8.51199
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1991,9.13676
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1992,11.2865
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1993,12.1842
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1994,12.3167
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1995,13.1328
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1996,14.3013
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1997,15.0472
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1998,17.176
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),1999,20.2852
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),2000,20.3436
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),2001,19.7382
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),2002,19.9127
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),2003,19.3098
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),2004,21.1305
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),2005,21.3087
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),2006,22.3178
+IND,India,ENERGY PRODUCTION & USE,EG.IMP.CONS.ZS,Energy imports net (% of energy use),2007,24.2035
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1971,1.74202
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1972,1.64788
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1973,1.89778
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1974,1.73782
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1975,2.00056
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1976,2.08126
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1977,2.03463
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1978,2.4739
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1979,2.30765
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1980,2.30708
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1981,2.31303
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1982,2.06659
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1983,2.22873
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1984,2.33478
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1985,2.21468
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1986,2.23719
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1987,1.95319
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1988,2.23187
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1989,2.14752
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1990,2.44309
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1991,2.33118
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1992,2.26165
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1993,2.13034
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1994,2.36173
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1995,2.17725
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1996,2.10846
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1997,2.21377
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1998,2.45263
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),1999,2.35727
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),2000,2.40259
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),2001,2.51039
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),2002,2.2759
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),2003,2.34763
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),2004,2.35579
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),2005,2.60777
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),2006,2.77076
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.CL.ZS,Alternative and nuclear energy (% of total energy use),2007,2.71653
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1971,36.9384
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1972,37.0541
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1973,37.0664
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1974,38.3414
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1975,38.8839
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1976,39.826
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1977,40.1337
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1978,39.3919
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1979,40.8268
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1980,41.555
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1981,43.6274
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1982,45.1789
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1983,45.9962
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1984,47.3199
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1985,49.2381
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1986,50.1687
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1987,51.6295
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1988,53.1052
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1989,54.6449
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1990,55.5731
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1991,56.7465
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1992,57.8713
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1993,58.6361
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1994,59.6337
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1995,61.4526
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1996,62.3552
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1997,63.2629
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1998,63.4249
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),1999,64.8903
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),2000,65.0227
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),2001,64.9427
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),2002,65.6539
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),2003,66.0216
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),2004,67.3635
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),2005,67.7609
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),2006,68.6795
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.FO.ZS,Fossil fuel energy consumption (% of total),2007,70.0291
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1980,347.1
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1981,344.7
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1982,346.09
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1983,333.15
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1984,334.52
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1985,334.18
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1986,329.86
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1987,329.98
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1988,317.15
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1989,313.68
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1990,310.12
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1991,319.15
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1992,314.78
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1993,307.01
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1994,298.77
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1995,293.11
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1996,281.57
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1997,281.31
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1998,270.73
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),1999,267.26
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),2000,262.05
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),2001,252.6
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),2002,249.9
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),2003,236.65
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),2004,231.01
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),2005,218.43
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),2006,209.19
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.GD.PP.KD,Energy use (kg of oil equivalent) per $1000 GDP (constant 2005 PPP),2007,203.42
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1971,156198.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1972,159842.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1973,164192.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1974,171076.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1975,177400.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1976,184696.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1977,189813.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1978,193177.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1979,202024.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1980,207448.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1981,218372.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1982,226847.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1983,234304.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1984,244263.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1985,256787.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1986,265556.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1987,276164.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1988,291011.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1989,304956.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1990,318163.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1991,330905.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1992,344262.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1993,351775.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1994,365114.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1995,385302.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1996,398111.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1997,413865.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1998,422974.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),1999,448400.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),2000,457382.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),2001,463872.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),2002,476208.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),2003,488705.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),2004,516557.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),2005,534097.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),2006,560965.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.COMM.KT.OE,Energy use (kt of oil equivalent),2007,594913.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1971,95780.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1972,97978.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1973,100216.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1974,102511.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1975,104873.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1976,107296.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1977,109775.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1978,112306.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1979,114884.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1980,116460.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1981,118058.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1982,119677.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1983,121319.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1984,122983.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1985,124670.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1986,126380.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1987,128114.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1988,129871.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1989,131653.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1990,133459.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1991,135289.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1992,137145.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1993,137891.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1994,138637.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1995,140003.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1996,141339.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1997,142788.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1998,144232.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),1999,146745.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),2000,148879.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),2001,150865.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),2002,152604.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),2003,154435.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),2004,156269.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),2005,158125.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.KT.OE,Combustible renewables and waste (metric tons of oil equivalent),2006,159916.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1971,61.3196
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1972,61.2968
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1973,61.0359
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1974,59.9213
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1975,59.1167
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1976,58.0933
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1977,57.8332
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1978,58.1363
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1979,56.8665
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1980,56.1394
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1981,54.0628
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1982,52.7567
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1983,51.7785
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1984,50.3486
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1985,48.55
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1986,47.5907
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1987,46.3906
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1988,44.6275
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1989,43.1712
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1990,41.9467
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1991,40.8845
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1992,39.8374
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1993,39.1986
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1994,37.9709
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1995,36.3359
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1996,35.5024
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1997,34.5011
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1998,34.0995
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),1999,32.7264
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),2000,32.5503
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),2001,32.523
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),2002,32.0457
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),2003,31.6009
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),2004,30.252
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),2005,29.606
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),2006,28.5073
+IND,India,ENERGY PRODUCTION & USE,EG.USE.CRNW.ZS,Combustible renewables and waste (% of total energy),2007,27.1855
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1971,55522000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1972,58286000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1973,59853000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1974,63311000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1975,71382000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1976,79143000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1977,82371000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1978,90726000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1979,92710000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1980,97898000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1981,107448000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1982,114585000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1983,123220000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1984,137886000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1985,149105000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1986,164815000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1987,178021000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1988,198106000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1989,216700000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1990,234293000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1991,255646000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1992,272354000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1993,292770000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1994,317294000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1995,339783000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1996,346886000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1997,368957000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1998,386715000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),1999,398619000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),2000,408425000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),2001,416127000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),2002,436860000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),2003,462810000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),2004,493726000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),2005,520581000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),2006,566841000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH,Electric power consumption (kWh),2007,609735000000.0
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1971,99.0991
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1972,101.7
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1973,102.1
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1974,105.58
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1975,116.36
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1976,126.1
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1977,128.28
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1978,138.1
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1979,137.96
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1980,142.43
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1981,152.88
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1982,159.49
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1983,167.86
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1984,183.93
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1985,194.87
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1986,210.79
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1987,222.89
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1988,242.9
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1989,260.29
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1990,275.8
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1991,295.02
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1992,308.5
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1993,325.54
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1994,346.51
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1995,364.5
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1996,365.62
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1997,382.17
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1998,393.73
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),1999,399.01
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2000,402.02
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2001,403.04
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2002,416.6
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2003,434.81
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2004,457.27
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2005,475.6
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2006,510.75
+IND,India,ENERGY PRODUCTION & USE,EG.USE.ELEC.KH.PC,Electric power consumption (kWh per capita),2007,542.09
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1971,278.79
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1972,278.89
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1973,280.09
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1974,285.3
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1975,289.18
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1976,294.27
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1977,295.6
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1978,294.06
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1979,300.62
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1980,301.82
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1981,310.71
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1982,315.76
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1983,319.18
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1984,325.82
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1985,335.6
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1986,339.63
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1987,345.78
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1988,356.81
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1989,366.3
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1990,374.52
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1991,381.87
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1992,389.96
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1993,391.15
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1994,398.73
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1995,413.33
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1996,419.61
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1997,428.69
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1998,430.65
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),1999,448.84
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),2000,450.21
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),2001,449.28
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),2002,454.12
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),2003,459.14
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),2004,478.42
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),2005,487.95
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),2006,505.46
+IND,India,ENERGY PRODUCTION & USE,EG.USE.PCAP.KG.OE,Energy use (kg of oil equivalent per capita),2007,528.91
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),1991,613600000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),1992,13400000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),1993,1050700000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),1994,314800000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),1995,1008300000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),1996,1553100000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),1997,1027500000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),1998,1066300000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),1999,2527500000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),2000,1953780000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),2001,235300000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),2002,385820000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),2003,846670000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),2004,4155870000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),2005,791740000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),2006,5499050000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),2007,10554320000.0
+IND,India,PRIVATE INFRASTRUCTURE INVESTMENT,IE.PPI.ENGY.CD,Investment in energy with private participation (current US$),2008,12454280000.0
