@@ -22,3 +22,15 @@ Thumbs.db
 # Temporary outputs
 tmp/
 scratch/
+
+# LaTeX auxiliary files
+*.aux
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
