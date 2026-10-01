@@ -123,11 +123,11 @@ def main():
     
     ax2_left.set_title("India: Dinámica de Crecimiento del PIB per cápita y Gobernabilidad Promedio (1996–2025)", pad=15)
     ax2_left.set_xlabel("Año", labelpad=8)
-    ax2_left.set_ylabel("Logaritmo del PIB per cápita (PPA cte 2021 USD)", color=colors['india_saffron'], labelpad=8)
-    ax2_right.set_ylabel("Puntaje Promedio WGI", color=colors['blue'], labelpad=8)
+    ax2_left.set_ylabel("Logaritmo del PIB per cápita (PPA cte 2021 USD)", color='black', labelpad=8)
+    ax2_right.set_ylabel("Puntaje Promedio WGI", color='black', labelpad=8)
     
-    ax2_left.tick_params(axis='y', labelcolor=colors['india_saffron'])
-    ax2_right.tick_params(axis='y', labelcolor=colors['blue'])
+    ax2_left.tick_params(axis='y', labelcolor='black')
+    ax2_right.tick_params(axis='y', labelcolor='black')
     ax2_left.set_xticks([1996, 1998, 2000] + list(range(2002, 2026, 3)) + [2025])
     
     # Unir leyendas
@@ -275,52 +275,33 @@ def main():
     plt.close(fig4)
     
     # =========================================================================
-    # GRÁFICO 5: HUELLA ECOLÓGICA VS BIOCAPACIDAD (1961 - 2025)
+    # GRÁFICO 5: HUELLA ECOLÓGICA TOTAL VS BIOCAPACIDAD TOTAL (1961 - 2025)
     # =========================================================================
-    print("Generando Gráfico 5: Huella Ecológica vs Biocapacidad...")
-    fig5, ax5 = plt.subplots(figsize=(10.5, 6), dpi=300)
+    print("Generando Gráfico 5: Huella Ecológica Total vs Biocapacidad Total con Déficit...")
+    fig5, ax5 = plt.subplots(figsize=(11, 6.2), dpi=300)
     
     ef_series = df_env['huella_ecologica_total_gha_pc']
     bc_series = df_env['biocapacidad_total_gha_pc']
     years_env = df_env['year']
     
     # Líneas principales
-    ax5.plot(years_env, ef_series, color=colors['crimson'], linewidth=2.5,
-             label='Huella Ecológica de Consumo (gha per cápita)')
-    ax5.plot(years_env, bc_series, color=colors['green'], linewidth=2.5,
-             label='Biocapacidad (gha per cápita)')
+    ax5.plot(years_env, ef_series, color='#dc2626', linewidth=2.8,
+             label='Huella Ecológica Total (gha per cápita)', zorder=4)
+    ax5.plot(years_env, bc_series, color='#15803d', linewidth=2.8,
+             label='Biocapacidad Total (gha per cápita)', zorder=4)
     
-    # Sombreado de Déficit Ecológico (Huella > Biocapacidad)
+    # Sombreado coloreado del Déficit Ecológico entre ambas líneas
     ax5.fill_between(years_env, bc_series, ef_series, where=(ef_series >= bc_series),
-                     color='#f87171', alpha=0.35, interpolate=True,
-                     label='Déficit Ecológico Estructural')
+                     color='#f87171', alpha=0.38, interpolate=True, zorder=3,
+                     label='Déficit Ecológico (Huella > Biocapacidad)')
     
-    # Anotaciones de extremos históricos
-    y1961 = df_env[df_env['year'] == 1961].iloc[0]
-    y2025 = df_env[df_env['year'] == 2025].iloc[0]
-    
-    ax5.scatter([1961, 2025], [y1961['huella_ecologica_total_gha_pc'], y2025['huella_ecologica_total_gha_pc']],
-                color=colors['crimson'], s=50, zorder=5)
-    ax5.scatter([1961, 2025], [y1961['biocapacidad_total_gha_pc'], y2025['biocapacidad_total_gha_pc']],
-                color=colors['green'], s=50, zorder=5)
-    
-    ax5.annotate(f"1961: {y1961['huella_ecologica_total_gha_pc']:.2f} gha\n(Déficit: -0.12)",
-                 (1961, y1961['huella_ecologica_total_gha_pc']),
-                 xytext=(1963, 0.70), arrowprops=dict(arrowstyle="->", color=colors['crimson'], lw=1.2),
-                 fontsize=8.5, fontweight='bold', color=colors['crimson'])
-    
-    ax5.annotate(f"2025: {y2025['huella_ecologica_total_gha_pc']:.2f} gha\n(Déficit: -0.75 | Ratio: 2.97x)",
-                 (2025, y2025['huella_ecologica_total_gha_pc']),
-                 xytext=(2005, 1.22), arrowprops=dict(arrowstyle="->", color=colors['crimson'], lw=1.2),
-                 fontsize=8.5, fontweight='bold', color=colors['crimson'])
-    
-    ax5.set_title("India: Balance Ecológico (Huella Ecológica vs. Biocapacidad, 1961–2025)", pad=15)
+    ax5.set_title("India: Huella Ecológica Total vs. Biocapacidad Total per cápita (1961–2025)", pad=15)
     ax5.set_xlabel("Año", labelpad=8)
     ax5.set_ylabel("Hectáreas Globales per cápita (gha/persona)", labelpad=8)
     ax5.set_xlim(1960, 2027)
     ax5.set_ylim(0.2, 1.35)
     ax5.set_xticks(range(1965, 2030, 10))
-    ax5.legend(loc='upper left', frameon=True, facecolor='white', framealpha=0.92, edgecolor='#d1d5db')
+    ax5.legend(loc='upper left', frameon=True, facecolor='white', framealpha=0.95, edgecolor='#d1d5db')
     
     fig5.tight_layout()
     fig5.savefig(os.path.join(fig_dir, "grafico5_huella_ecologica_vs_biocapacidad.png"), dpi=300)
