@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MacroData Studio | UNS — Desarrollo Económico</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <!-- Shell Principal -->
+  <div class="studio-shell">
+
+    <!-- Topbar Institucional -->
+    <header class="studio-topbar">
+      <div class="topbar-brand">
+        <div class="brand-badge">UNS</div>
+        <div class="brand-info">
+          <h1 class="brand-title">MacroData Studio</h1>
+          <span class="brand-dept">Laboratorio de Macroeconomía Empírica y Desarrollo</span>
+        </div>
+      </div>
+
+      <div class="topbar-actions">
+        <!-- Badge de Base Activa -->
+        <div class="database-pill" id="activeDbPill" title="Base de datos activa">
+          <span class="db-status-dot"></span>
+          <span class="db-label">Banco Mundial (WDI)</span>
+          <span class="db-tag">1.400+ series</span>
+        </div>
+
+        <!-- Botón para conectar nueva BD vía LLM -->
+        <button class="btn-action-glow" id="openDbModalBtn" title="Conectar una nueva API de datos macro con IA">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v4m0 12v4M4.93 4.93l2.83 2.83m8.48 8.48l2.83 2.83M2 12h4m12 0h4M4.93 19.07l2.83-2.83m8.48-8.48l2.83-2.83"/><circle cx="12" cy="12" r="4"/></svg>
+          <span>Conectar Base con IA</span>
+        </button>
+
+        <!-- Botón de Configuración -->
+        <button class="btn-icon" id="openConfigBtn" title="Configurar PIN y API Key">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"></path></svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Cuerpo del Studio: Sidebar de Control + Workspace Central -->
+    <div class="studio-layout">
+
+      <!-- SIDEBAR DE SELECTORES (Panel Izquierdo) -->
+      <aside class="studio-sidebar" id="studioSidebar">
+
+        <!-- Sección 1: Base de Datos -->
+        <div class="sidebar-section">
+          <div class="section-title">
+            <span class="section-num">1</span>
+            <span>Fuente de Datos</span>
+          </div>
+          <div class="select-container">
+            <select id="databaseSelect" class="styled-select">
+              <option value="world_bank" selected>Banco Mundial (WDI) — Oficial & Abierto</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Sección 2: Selector de Países -->
+        <div class="sidebar-section">
+          <div class="section-title-between">
+            <div class="section-title">
+              <span class="section-num">2</span>
+              <span>Países y Regiones</span>
+            </div>
+            <span class="selected-badge" id="selectedCountriesBadge">0 seleccionados</span>
+          </div>
+
+          <!-- Filtros rápidos por región -->
+          <div class="region-pills">
+            <button class="pill-btn" onclick="filterCountriesByRegion('América Latina')">Latinoamérica</button>
+            <button class="pill-btn" onclick="filterCountriesByRegion('BRICS & Emergentes')">BRICS</button>
+            <button class="pill-btn" onclick="filterCountriesByRegion('G7 / Desarrollados')">G7</button>
+            <button class="pill-btn" onclick="filterCountriesByRegion('Sudeste Asiático & Asia')">Asia</button>
+            <button class="pill-btn text-link" onclick="clearCountries()">Limpiar</button>
+          </div>
+
+          <!-- Búsqueda y Lista de Países -->
+          <div class="search-input-wrapper">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <input type="text" id="countrySearchInput" placeholder="Buscar país o código (ej: India, ARG)...">
+          </div>
+
+          <div class="items-list-container" id="countriesListContainer">
+            <!-- Renderizado dinámico de países -->
+          </div>
+        </div>
+
+        <!-- Sección 3: Selector de Variables -->
+        <div class="sidebar-section">
+          <div class="section-title-between">
+            <div class="section-title">
+              <span class="section-num">3</span>
+              <span>Variables e Indicadores</span>
+            </div>
+            <span class="selected-badge" id="selectedVariablesBadge">0 seleccionadas</span>
+          </div>
+
+          <!-- Búsqueda de variables -->
+          <div class="search-input-wrapper">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <input type="text" id="variableSearchInput" placeholder="Buscar por nombre, código o tema...">
+          </div>
+
+          <!-- Categorías en acordeón -->
+          <div class="categories-accordion" id="categoriesAccordion">
+            <!-- Renderizado dinámico de categorías y variables -->
+          </div>
+        </div>
+
+        <!-- Sección 4: Fórmulas y Variables Derivadas (localStorage) -->
+        <div class="sidebar-section formulas-section">
+          <div class="section-title-between">
+            <div class="section-title">
+              <span class="section-num">4</span>
+              <span>Variables Calculadas (Fórmulas)</span>
+            </div>
+            <button class="btn-small-add" id="toggleFormulaFormBtn" title="Crear nueva fórmula">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg>
+              <span>Nueva Fórmula</span>
+            </button>
+          </div>
+
+          <!-- Formulario de creación de fórmula (ocultable) -->
+          <div class="formula-builder-card" id="formulaBuilderCard" style="display: none;">
+            <div class="form-row">
+              <label>Identificador de Variable:</label>
+              <input type="text" id="formulaNameInput" placeholder="ej: salario_real o pib_pc_cagr">
+            </div>
+            <div class="form-row">
+              <label>Expresión Econométrica:</label>
+              <input type="text" id="formulaExprInput" placeholder="ej: salario_nominal / inflacion_ipc * 100">
+            </div>
+
+            <!-- Atajos de operadores -->
+            <div class="formula-helpers">
+              <span class="helper-badge" onclick="insertFormulaHelper('+')">+</span>
+              <span class="helper-badge" onclick="insertFormulaHelper('-')">-</span>
+              <span class="helper-badge" onclick="insertFormulaHelper('*')">*</span>
+              <span class="helper-badge" onclick="insertFormulaHelper('/')">/</span>
+              <span class="helper-badge" onclick="insertFormulaHelper('log(')">log()</span>
+              <span class="helper-badge" onclick="insertFormulaHelper('lag(')">lag(x,1)</span>
+              <span class="helper-badge" onclick="insertFormulaHelper('diff(')">diff(x)</span>
+              <span class="helper-badge" onclick="insertFormulaHelper('pct_change(')">pct_change()</span>
+              <span class="helper-badge" onclick="insertFormulaHelper('ma(')">ma(x,3)</span>
+              <span class="helper-badge" onclick="insertFormulaHelper('cagr(')">cagr(x,5)</span>
+            </div>
+
+            <div class="form-row">
+              <label>Etiqueta legible (Opcional):</label>
+              <input type="text" id="formulaLabelInput" placeholder="ej: Salario Real Deflactado">
+            </div>
+
+            <div class="formula-actions">
+              <button class="btn-secondary-sm" onclick="cancelFormulaForm()">Cancelar</button>
+              <button class="btn-primary-sm" onclick="saveFormula()">Guardar en LocalStorage</button>
+            </div>
+          </div>
+
+          <!-- Lista de fórmulas guardadas -->
+          <div class="saved-formulas-list" id="savedFormulasList">
+            <!-- Renderizado dinámico de fórmulas almacenadas -->
+          </div>
+        </div>
+
+        <!-- Sección 5: Rango Temporal -->
+        <div class="sidebar-section">
+          <div class="section-title">
+            <span class="section-num">5</span>
+            <span>Rango de Años</span>
+          </div>
+
+          <div class="years-inputs-grid">
+            <div class="year-field">
+              <label>Año Inicial</label>
+              <input type="number" id="yearStartInput" value="1990" min="1960" max="2024">
+            </div>
+            <div class="year-divider">→</div>
+            <div class="year-field">
+              <label>Año Final</label>
+              <input type="number" id="yearEndInput" value="2024" min="1960" max="2024">
+            </div>
+          </div>
+
+          <div class="year-presets">
+            <button class="pill-btn" onclick="setYearRange(2010, 2024)">Últimos 15 años</button>
+            <button class="pill-btn" onclick="setYearRange(1990, 2024)">1990 - 2024</button>
+            <button class="pill-btn" onclick="setYearRange(1970, 2024)">1970 - 2024</button>
+          </div>
+        </div>
+
+        <!-- Sección 6: Tipo de Gráfico -->
+        <div class="sidebar-section">
+          <div class="section-title">
+            <span class="section-num">6</span>
+            <span>Tipo de Gráfico</span>
+          </div>
+
+          <div class="chart-types-grid" id="chartTypesGrid">
+            <!-- Renderizado dinámico de opciones de gráficos -->
+          </div>
+        </div>
+
+        <!-- Botón Principal de Ejecución -->
+        <div class="sidebar-footer">
+          <button class="btn-generate-main" id="generateBtn" onclick="triggerGenerate()">
+            <div class="btn-content">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"></polygon></svg>
+              <span>Generar Gráfico y Análisis</span>
+            </div>
+            <span class="btn-kbd">Ctrl + Enter</span>
+          </button>
+        </div>
+
+      </aside>
+
+      <!-- WORKSPACE CENTRAL (Visualización, Métricas y Código) -->
+      <main class="studio-workspace" id="studioWorkspace">
+
+        <!-- Estado Inicial (Empty State) -->
+        <div class="workspace-empty" id="workspaceEmpty">
+          <div class="empty-icon-card">
+            <svg width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="#2563EB" stroke-width="1.8"><line x1="18" y1="20" x2="18" y2="10"></line><line x1="12" y1="20" x2="12" y2="4"></line><line x1="6" y1="20" x2="6" y2="14"></line></svg>
+          </div>
+          <h2>Laboratorio de Macroeconomía y Desarrollo</h2>
+          <p>Selecciona países, variables macroeconómicas o define fórmulas personalizadas desde el panel izquierdo para generar gráficos académicos estandarizados con series oficiales del Banco Mundial.</p>
+
+          <div class="quick-demos-grid">
+            <div class="demo-card" onclick="loadPresetDemo('pib_pc_brics')">
+              <div class="demo-badge">Convergencia</div>
+              <h4>PIB per cápita (India vs China)</h4>
+              <p>Series temporales de crecimiento y catching up desde 1990.</p>
+            </div>
+            <div class="demo-card" onclick="loadPresetDemo('inversion_latam')">
+              <div class="demo-badge">Acumulación</div>
+              <h4>Inversión Bruta (FBCF % PIB)</h4>
+              <p>Comparativa de tasas de inversión en América Latina.</p>
+            </div>
+            <div class="demo-card" onclick="loadPresetDemo('dispersion_crecimiento')">
+              <div class="demo-badge">Econometría OLS</div>
+              <h4>Inversión vs Crecimiento</h4>
+              <p>Dispersión transversal con línea de tendencia y R².</p>
+            </div>
+            <div class="demo-card" onclick="loadPresetDemo('sectores_india')">
+              <div class="demo-badge">Estructura</div>
+              <h4>Cambio Estructural en India</h4>
+              <p>Composición de valor agregado: Agro, Industria y Servicios.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Spinner de Carga -->
+        <div class="workspace-loading" id="workspaceLoading" style="display: none;">
+          <div class="loader-spinner"></div>
+          <h3 id="loadingStatusText">Consultando API del Banco Mundial...</h3>
+          <p>Descargando series en formato Wide, evaluando fórmulas y renderizando con matplotlib (300 DPI).</p>
+        </div>
+
+        <!-- Contenedor de Resultados (Gráfico + Métricas + Código) -->
+        <div class="workspace-results" id="workspaceResults" style="display: none;">
+
+          <!-- Barra Superior de Resultados -->
+          <div class="results-header">
+            <div class="results-titles">
+              <h2 id="resultTitle">Título del Gráfico</h2>
+              <p id="resultSubtitle">Subtítulo y cobertura</p>
+            </div>
+
+            <div class="results-actions">
+              <button class="btn-outline" id="zoomChartBtn" onclick="openChartZoom()" title="Ver en pantalla completa">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                <span>Ampliar</span>
+              </button>
+              <a class="btn-outline" id="downloadPngBtn" href="#" target="_blank" download>
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
+                <span>PNG (300 DPI)</span>
+              </a>
+              <a class="btn-outline" id="downloadSvgBtn" href="#" target="_blank" download>
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><path d="M12 8v8M8 12h8"/></svg>
+                <span>SVG Vectorial</span>
+              </a>
+              <a class="btn-outline btn-accent-outline" id="downloadCsvBtn" href="#" target="_blank" download>
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line></svg>
+                <span>Descargar CSV Wide</span>
+              </a>
+            </div>
+          </div>
+
+          <!-- Canvas del Gráfico Matplotlib -->
+          <div class="chart-display-card">
+            <img id="renderedChartImg" src="" alt="Gráfico Macroeconómico Académico" onclick="openChartZoom()">
+            <div class="chart-source-footer" id="chartSourceFooter">
+              Fuente: Banco Mundial (WDI). Elaboración propia para Desarrollo Económico (UNS).
+            </div>
+          </div>
+
+          <!-- Tarjetas de Estadísticas Descriptivas -->
+          <div class="stats-summary-grid" id="statsSummaryGrid">
+            <!-- Renderizado dinámico de estadísticas descriptivas -->
+          </div>
+
+          <!-- Pestañas de Inspección: Tabla de Datos y Código Python -->
+          <div class="inspector-card">
+            <div class="inspector-tabs">
+              <button class="tab-btn active" onclick="switchTab('code')">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+                <span>Código Python Reproducible</span>
+              </button>
+              <button class="tab-btn" onclick="switchTab('data')">
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect><line x1="3" y1="9" x2="21" y2="9"></line><line x1="9" y1="21" x2="9" y2="9"></line></svg>
+                <span>Vista Previa de Datos (Panel Wide)</span>
+              </button>
+            </div>
+
+            <div class="inspector-content">
+              <!-- Panel de Código -->
+              <div class="tab-panel active" id="codePanel">
+                <div class="code-header">
+                  <span class="code-lang">Python 3 (pandas + matplotlib + requests)</span>
+                  <button class="copy-code-btn" onclick="copyPythonCode()">
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                    <span id="copyCodeText">Copiar Script</span>
+                  </button>
+                </div>
+                <pre class="code-block"><code id="pythonCodeContent"># El código generado aparecerá aquí</code></pre>
+              </div>
+
+              <!-- Panel de Datos -->
+              <div class="tab-panel" id="dataPanel">
+                <div class="table-responsive" id="dataTableContainer">
+                  <!-- Tabla generada dinámicamente -->
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </main>
+
+    </div>
+
+  </div>
+
+  <!-- MODAL: Conectar Nueva Base de Datos con IA -->
+  <div class="modal-backdrop" id="databaseModal" style="display: none;" onclick="closeDbModal()">
+    <div class="modal-card db-modal-card" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <div class="modal-title-group">
+          <h3>🤖 Conectar Nueva Base de Datos Económica con IA</h3>
+          <p>Indica la institución o repositorio estadístico. El agente LLM investigará la API oficial, endpoints y creará el conector de Python.</p>
+        </div>
+        <button class="close-modal-btn" onclick="closeDbModal()">&times;</button>
+      </div>
+
+      <div class="db-search-box">
+        <input type="text" id="dbQueryInput" placeholder="Ej: FRED St. Louis, FMI IFS, CEPALSTAT, OCDE, Penn World Table...">
+        <button class="btn-primary" id="searchDbBtn" onclick="searchDatabaseWithLLM()">
+          <span>Investigar API</span>
+        </button>
+      </div>
+
+      <!-- Estado de carga del LLM -->
+      <div class="db-search-loading" id="dbSearchLoading" style="display: none;">
+        <div class="loader-spinner-sm"></div>
+        <span>El agente está analizando la documentación y especificaciones de la API...</span>
+      </div>
+
+      <!-- Resultado del descubrimiento de API -->
+      <div class="db-search-result" id="dbSearchResult" style="display: none;">
+        <div class="result-header">
+          <h4 id="discoveredDbName">Nombre de la Base</h4>
+          <span class="auth-tag" id="discoveredDbAuth">Autenticación</span>
+        </div>
+        <p class="result-desc" id="discoveredDbDesc">Descripción de cobertura</p>
+
+        <div class="result-endpoint">
+          <label>Endpoint Principal:</label>
+          <code id="discoveredDbEndpoint">https://api...</code>
+        </div>
+
+        <div class="suggested-indicators-box">
+          <label>Series e Indicadores Sugeridos:</label>
+          <div class="indicators-tags" id="discoveredIndicatorsList"></div>
+        </div>
+
+        <div class="connector-code-box">
+          <label>Código del Conector Python:</label>
+          <pre><code id="discoveredConnectorCode"></code></pre>
+        </div>
+
+        <div class="modal-actions">
+          <button class="btn-secondary" onclick="closeDbModal()">Cerrar</button>
+          <button class="btn-primary" onclick="activateDiscoveredDatabase()">Guardar y Activar Base</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- MODAL: Configuración y API Key -->
+  <div class="modal-backdrop" id="configModal" style="display: none;" onclick="closeConfigModal()">
+    <div class="modal-card" onclick="event.stopPropagation()">
+      <div class="modal-header">
+        <h3>⚙️ Configuración del Laboratorio</h3>
+        <button class="close-modal-btn" onclick="closeConfigModal()">&times;</button>
+      </div>
+
+      <div class="form-row">
+        <label>PIN de Cátedra:</label>
+        <input type="password" id="pinInput" placeholder="PIN de clase..." value="desarrollo2026">
+      </div>
+
+      <div class="form-row">
+        <label>Gemini API Key (Google AI Studio):</label>
+        <input type="password" id="apiKeyInput" placeholder="AIzaSy... (para el descubrimiento de APIs)">
+        <p class="field-hint">Necesaria para consultar el modelo LLM cuando agregues bases de datos externas.</p>
+      </div>
+
+      <div class="modal-actions">
+        <button class="btn-secondary" onclick="closeConfigModal()">Cancelar</button>
+        <button class="btn-primary" onclick="saveConfigSettings()">Guardar Configuración</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- MODAL: Zoom de Gráfico -->
+  <div class="modal-backdrop" id="chartZoomModal" style="display: none;" onclick="closeChartZoom()">
+    <div class="modal-card chart-zoom-card" onclick="event.stopPropagation()">
+      <button class="close-modal-btn" onclick="closeChartZoom()">&times;</button>
+      <img id="zoomedChartImg" src="" alt="Gráfico Académico Alta Resolución">
+    </div>
+  </div>
+
+  <!-- Toast de Notificaciones -->
+  <div class="toast-notification" id="toastNotification"></div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

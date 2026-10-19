@@ -1,0 +1,65 @@
+[
+  {
+    "file": "2026_gMPI_Table1and2.xlsx",
+    "url": "https://hdr.undp.org/sites/default/files/publications/additional-files/2026-10/2026_gMPI_Table1and2.xlsx",
+    "downloaded_utc": "2026-10-14T14:03:59.481350+00:00",
+    "bytes": 130978,
+    "sha256": "7af20330132c46541d9d9696a7e8b6354cbb134f53977d91356bdbce6d0e0de4"
+  },
+  {
+    "file": "wdi_pib_pc_ppa.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.PP.KD?format=json&per_page=1000&date=1990:2026&source=2",
+    "downloaded_utc": "2026-10-14T14:04:00.213723+00:00",
+    "bytes": 8800,
+    "sha256": "cc7e6880fdc5a7d9e974a986477e560195dc2f65e44d6be45f7475474768f524"
+  },
+  {
+    "file": "metadata_pib_pc_ppa.json",
+    "url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.PP.KD?format=json&source=2",
+    "downloaded_utc": "2026-10-14T14:04:00.377425+00:00",
+    "bytes": 2444,
+    "sha256": "55af4b25be9dc57c2865bc4a208710e7405b00306f8381038d884841d3b1e686"
+  },
+  {
+    "file": "wdi_gini.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SI.POV.GINI?format=json&per_page=1000&date=1990:2026&source=2",
+    "downloaded_utc": "2026-10-14T14:04:01.343518+00:00",
+    "bytes": 6679,
+    "sha256": "8ffda6502e3f98eab0c35f2b16b408dec1895a833798d3d53b48533782fe4eac"
+  },
+  {
+    "file": "metadata_gini.json",
+    "url": "https://api.worldbank.org/v2/indicator/SI.POV.GINI?format=json&source=2",
+    "downloaded_utc": "2026-10-14T14:04:01.626835+00:00",
+    "bytes": 1494,
+    "sha256": "e377bf82b38024748153880ff90c0106a0ef0fd8cb04761146cc60a2609cab3d"
+  },
+  {
+    "file": "wdi_pobreza_3usd.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SI.POV.DDAY?format=json&per_page=1000&date=1990:2026&source=2",
+    "downloaded_utc": "2026-10-14T14:04:02.431110+00:00",
+    "bytes": 8731,
+    "sha256": "77554902eab10130c9304d14e3fef59cab4b11c94ed96478ecae6f2affb62b12"
+  },
+  {
+    "file": "metadata_pobreza_3usd.json",
+    "url": "https://api.worldbank.org/v2/indicator/SI.POV.DDAY?format=json&source=2",
+    "downloaded_utc": "2026-10-14T14:04:02.645253+00:00",
+    "bytes": 1287,
+    "sha256": "ad5ff599e5d33978cbd5fe9b9f96bac98ea150dafb64fcf5066dac11369ef389"
+  },
+  {
+    "file": "wdi_pobreza_nacional.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SI.POV.NAHC?format=json&per_page=1000&date=1990:2026&source=2",
+    "downloaded_utc": "2026-10-14T14:04:03.249314+00:00",
+    "bytes": 8733,
+    "sha256": "5276473ccf034f55ed0ee0330bc9721120d3cbc48bf3dca61960e566747c5fc9"
+  },
+  {
+    "file": "metadata_pobreza_nacional.json",
+    "url": "https://api.worldbank.org/v2/indicator/SI.POV.NAHC?format=json&source=2",
+    "downloaded_utc": "2026-10-14T14:04:03.737868+00:00",
+    "bytes": 1000,
+    "sha256": "ededac5afbec462ef894a27656525dbb826becfc1846d950c2a8de65815f55e5"
+  }
+]

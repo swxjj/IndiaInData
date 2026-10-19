@@ -1,0 +1,5 @@
+variable,codigo,n,primer_anio,ultimo_anio,actualizacion_wdi
+pib_pc_ppa,NY.GDP.PCAP.PP.KD,36,1990,2025,2026-10-08
+gini,SI.POV.GINI,6,1993,2023,2026-10-08
+pobreza_3usd,SI.POV.DDAY,6,1993,2023,2026-10-08
+pobreza_nacional,SI.POV.NAHC,4,1993,2011,2026-10-08

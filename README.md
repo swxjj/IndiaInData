@@ -42,6 +42,26 @@ IndiaInData/
 
 ## Research Modules
 
+### Índice actualizado de prácticos y herramientas
+
+| Carpeta | Contenido | Documentación |
+|---|---|---|
+| TP1 | Bienestar, IDH y crecimiento | Informe y scripts en `TP1/` |
+| TP2 | Acumulación de capital, inversión y crecimiento | Scripts y resultados en `TP2/` |
+| TP3 | Cambio estructural, infraestructura y Big Push | [TP3/README.md](TP3/README.md) |
+| TP4 | Convergencia y trampas de pobreza | [TP4/README.md](TP4/README.md) |
+| TP5 | Medio ambiente, instituciones y desarrollo | [TP5/README.md](TP5/README.md) |
+| TP6 | Desigualdad y pobreza; WDI e IPM 2026 | [TP6/README.md](TP6/README.md) |
+| macro_chat | Aplicación para explorar datos y generar gráficos académicos | [macro_chat/README.md](macro_chat/README.md) |
+
+Cada práctico conserva sus fuentes en `data/raw/`, sus bases preparadas en
+`data/processed/`, sus scripts en `src/` y sus resultados en `output/`.
+Las consignas de TP3–TP6 están dentro de `consigna/` de cada módulo.
+
+Para el TP6, el archivo [punto 2 completo](TP6/output/tp6_punto2_completo.csv)
+reúne los datos del 2a y 2b con fechas, fuentes y aclaraciones metodológicas.
+La reproducción del TP6 requiere `pip install -r TP6/requirements.txt`.
+
 ### Module I: Well-Being, HDI & Long-Run Expansion (TP1)
 * **Focus:** Multidimensional development, subjective well-being (Cantril Ladder), Human Development Index (HDI), and real per capita GDP comparisons between India and the United States (with extensions for Argentina).
 * **Deliverable:** `TP1/TP1.pdf`
