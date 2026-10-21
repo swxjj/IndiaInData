@@ -1,0 +1,17 @@
+﻿TP 7: EDUCACIÓN, TRABAJO DESARROLLO
+Bases de datos de la clase de hoy
+http://hdr.undp.org/en/data
+https://databank.worldbank.org/source/world-development-indicators
+https://databank.worldbank.org/source/education-statistics-%5E-all-indicators
+https://ilostat.ilo.org/es/data/country-profiles/
+
+EDUCACIÓN Y DESARROLLO
+Graficar la evolución del PIB per cápita (US$ constantes) y del promedio de años de escolaridad (en el BM, la base de datos de educación, usar la variable “UIS: Mean years of schooling (ISCED 1 orhigher), population 25+ years, bothsexes”) a lo largo de varios años.
+¿Qué tipo de relación se observa entre ambas variables? ¿Parecen moverse juntas en el tiempo?
+Relevar la evolución del gasto público en educación (% del PIB) y del gasto público por estudiante (si hay datos). Descargar también datos de matriculación (schoolenrollment) e identificar periodos de aumento del gasto y analicen sus efectos.¿Hubo mejoras en los indicadores de acceso (tasaneta de matrícula)?Si no se observan mejoras, ¿qué factores pueden estar limitando el impacto de la inversión (condiciones sociales, desigualdad de origen, gobernanza del sistema)?
+
+TRABAJO Y DESARROLLO
+En la parte de “Perfiles de países” de la OIT, buscar tu país: https://ilostat.ilo.org/es/data/country-profiles/
+Seleccionar al menos cinco indicadores que consideren relevantes para caracterizar el mercado laboral del país. La selección debe incluir indicadores correspondientes a al menos tres dimensiones diferentes (por ejemplo: participación y empleo; desempleo/subutilización; informalidad; condiciones de trabajo; protección social; pobreza laboral).
+Presentar los indicadores seleccionados en una tabla indicando: nombre del indicador, año del dato, valor y, cuando esté disponible, valor para mujeres y varones. Prestar atención a que los perfiles muestran generalmente el último dato disponible, por lo que los años pueden diferir entre indicadores.
+A partir de esos datos, identificar dos características que consideren favorables y dos problemáticas o desafíos del mercado de trabajo del país. No alcanza con señalar que un indicador es “alto” o “bajo”: deben explicar por qué es relevante desde el punto de vista del desarrollo económico.

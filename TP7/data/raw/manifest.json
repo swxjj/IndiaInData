@@ -1,0 +1,324 @@
+[
+  {
+    "file": "s2_NY.GDP.PCAP.KD.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.101531+00:00",
+    "bytes": 14739,
+    "sha256": "3a293cde254aaef03593b2c3a96ecc6794088ea2479f06e0b19362653017a088",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_NY.GDP.PCAP.KD.json",
+    "url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.KD?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.KD?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.201890+00:00",
+    "bytes": 1103,
+    "sha256": "4b6c0b990ed45127e10105e24909ddbbc84052c55c44a5fbd6526ba9a6e9f9c2",
+    "lastupdated": null
+  },
+  {
+    "file": "s12_UIS.EA.MEAN.1T6.AG25T99.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.245482+00:00",
+    "bytes": 27071,
+    "sha256": "7649e8a2164a30097b6114103a42e61a4b365ecac91f43d9b5b0048d1c412e2b",
+    "lastupdated": "2024-06-25"
+  },
+  {
+    "file": "metadata_s12_UIS.EA.MEAN.1T6.AG25T99.json",
+    "url": "https://api.worldbank.org/v2/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.334502+00:00",
+    "bytes": 678,
+    "sha256": "beebc786b1a65c07a5dad9ac183aeacd059fda4f0a46eb0250a6f71ec7f1574c",
+    "lastupdated": null
+  },
+  {
+    "file": "s12_UIS.EA.MEAN.1T6.AG25T99.F.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.120447+00:00",
+    "bytes": 26870,
+    "sha256": "7105b1002c769a452c5f1ed39e817e0dd814614a2f7029e62928d54c854f3411",
+    "lastupdated": "2024-06-25"
+  },
+  {
+    "file": "metadata_s12_UIS.EA.MEAN.1T6.AG25T99.F.json",
+    "url": "https://api.worldbank.org/v2/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.294171+00:00",
+    "bytes": 683,
+    "sha256": "9d02d546661d279ed8a66b9228d52a73548b8a9c084d0788a937f1d53e43257c",
+    "lastupdated": null
+  },
+  {
+    "file": "s12_UIS.EA.MEAN.1T6.AG25T99.M.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.107791+00:00",
+    "bytes": 26668,
+    "sha256": "3dc31cdcff5549a437d888fcc7a7eb3613e9663e66ca38af813a6d95d4939a96",
+    "lastupdated": "2024-06-25"
+  },
+  {
+    "file": "metadata_s12_UIS.EA.MEAN.1T6.AG25T99.M.json",
+    "url": "https://api.worldbank.org/v2/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.236427+00:00",
+    "bytes": 679,
+    "sha256": "d8cffbb0979234edbe2774915a5c8a87b4cdeac5bf67a0343051297721a84615",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.XPD.TOTL.GD.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.402146+00:00",
+    "bytes": 15666,
+    "sha256": "2edf80ce40338fa967e7317e29ed35c96047b1d4ce4c80c12a66ff55bbc91e51",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.XPD.TOTL.GD.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.517289+00:00",
+    "bytes": 950,
+    "sha256": "f24a59b7c769d4978fa3a7ffd6da73254bf5d7295e1b49b5c63be76359ef2c4e",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.XPD.PRIM.PC.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.357441+00:00",
+    "bytes": 16228,
+    "sha256": "48ed39daaa405c67bd6c4cd73b0294fc1877e6cddf7d2ac99d8ace5d0e4c89fd",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.XPD.PRIM.PC.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.439185+00:00",
+    "bytes": 692,
+    "sha256": "9b0db6140dc3ee2683529914edcfeeb1e55b428f14efb33a213d9f32b0c54ffd",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.XPD.SECO.PC.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.424964+00:00",
+    "bytes": 16376,
+    "sha256": "7bf056584a019581cbbbece435942d9354eb198eb584a5a82e6428b3ee98031d",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.XPD.SECO.PC.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.225127+00:00",
+    "bytes": 694,
+    "sha256": "dcfdd737e36b8b4f4cf348977b2c1848243f355e47616116a5431a790ec6cc66",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.XPD.TERT.PC.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.616900+00:00",
+    "bytes": 16304,
+    "sha256": "e86857dce82ecd9835f526de75d603c1d6cf446f9f4d12401ff242383d582c30",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.XPD.TERT.PC.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.689529+00:00",
+    "bytes": 693,
+    "sha256": "a549bcaa865ceef96f58dd0caba5d5e310b6c4fa7d4faee457650f65f65164e5",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.PRM.NENR.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.899880+00:00",
+    "bytes": 13807,
+    "sha256": "4e1a8f523a5a0b0a0484ed733046dac9713e147bf63a5ee07ef14cff74c81532",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.PRM.NENR.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.PRM.NENR?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.PRM.NENR?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:57.960243+00:00",
+    "bytes": 821,
+    "sha256": "bc445ca44e0918b5bd674acab7af6d410343bf57050191fdc460648d9d1c386e",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.SEC.NENR.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.135342+00:00",
+    "bytes": 13892,
+    "sha256": "b8ccda5787a27b14609e10d23dc084a1e873266754f434b50619d316aa83bfa4",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.SEC.NENR.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.SEC.NENR?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.SEC.NENR?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.226124+00:00",
+    "bytes": 872,
+    "sha256": "2b30979ac610230a9095e69fda70465f3ffed670f6bab38e253332a83ff5f9a1",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.PRM.NENR.FE.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.431481+00:00",
+    "bytes": 14531,
+    "sha256": "2392b27f8749912312daa85e2ee3348be1d842cf93f595fdecb7ac10f0473e6a",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.PRM.NENR.FE.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.PRM.NENR.FE?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.PRM.NENR.FE?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.723486+00:00",
+    "bytes": 862,
+    "sha256": "cb7776fbac35f5ea7516c1c05f97afbf2fed7634e6ef7ab4741e3a5be92ec29e",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.PRM.NENR.MA.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.287151+00:00",
+    "bytes": 14401,
+    "sha256": "1ec6d98fa301cc9797fcdbfc493116fe1222636e5b2ff31a5b529a95b3995881",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.PRM.NENR.MA.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.PRM.NENR.MA?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.PRM.NENR.MA?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.483512+00:00",
+    "bytes": 859,
+    "sha256": "5ea87c05c1eaa78e8e539e097c42e553ab82faec5e677ba7d2537067c6e5a96b",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.SEC.NENR.FE.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.402146+00:00",
+    "bytes": 14618,
+    "sha256": "a3455f18fd189624f2ac4c80fd81bfb43029f8bd8f1bc278989d55227f89f22d",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.SEC.NENR.FE.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.SEC.NENR.FE?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.SEC.NENR.FE?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.517289+00:00",
+    "bytes": 912,
+    "sha256": "c3a6b8a7310d13370faa30f742ef37f7626a75ae8d9adcf9642fefdaecde7de6",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.SEC.NENR.MA.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.686448+00:00",
+    "bytes": 14486,
+    "sha256": "61d035a5b7aeb358683d69a9f9e82be8751f7eb68f427692e306265a7609889b",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.SEC.NENR.MA.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.SEC.NENR.MA?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.SEC.NENR.MA?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.790965+00:00",
+    "bytes": 910,
+    "sha256": "76050d40cfee4d51d33bdd044758aab691a34418f76733cb7f3e44cf94220758",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.PRM.ENRR.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.739614+00:00",
+    "bytes": 14503,
+    "sha256": "ea0457b5476a7ac3c90e284d14bb9201005f9412b4a26d9df664f495bde11ef0",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.PRM.ENRR.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.PRM.ENRR?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.PRM.ENRR?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.939615+00:00",
+    "bytes": 1059,
+    "sha256": "ce247b9aed2f129f3ebd624867ae807484b903652815fcc21bf9282c4f410154",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.SEC.ENRR.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.737620+00:00",
+    "bytes": 14594,
+    "sha256": "7d232a4f97d62dea582b057f0931c43d7f25454bec6bb51177756bb9c4af581f",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.SEC.ENRR.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.SEC.ENRR?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.SEC.ENRR?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:59.216840+00:00",
+    "bytes": 1110,
+    "sha256": "23ed43fe5415c48987aff82e31d20141835dad2ce9feff55b347a29d563cd228",
+    "lastupdated": null
+  },
+  {
+    "file": "s2_SE.TER.ENRR.json",
+    "url": "https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:58.939615+00:00",
+    "bytes": 14514,
+    "sha256": "b9f5d3a7fb60c162ee8795daf7c3b179a107922e603001f2cdd7b57360786bdf",
+    "lastupdated": "2026-10-08"
+  },
+  {
+    "file": "metadata_s2_SE.TER.ENRR.json",
+    "url": "https://api.worldbank.org/v2/indicator/SE.TER.ENRR?source=2&format=json&per_page=20000",
+    "resolved_url": "https://api.worldbank.org/v2/indicator/SE.TER.ENRR?source=2&format=json&per_page=20000",
+    "downloaded_at_utc": "2026-10-21T11:55:59.130687+00:00",
+    "bytes": 1037,
+    "sha256": "96dba9c37f986b383c19878b54e8d65bc0a4493b893e1811d21dc5a8ae4d832f",
+    "lastupdated": null
+  },
+  {
+    "file": "HDR25_Composite_indices_complete_time_series.csv",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_complete_time_series.csv",
+    "resolved_url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_complete_time_series.csv",
+    "downloaded_at_utc": "2026-10-21T11:56:00.900820+00:00",
+    "bytes": 2001263,
+    "sha256": "61ed82e5b66c88dfca8ff9fac775c63981ecab6a254862af97acacc41c143117"
+  },
+  {
+    "file": "HDR25_Composite_indices_metadata.xlsx",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_metadata.xlsx",
+    "resolved_url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_metadata.xlsx",
+    "downloaded_at_utc": "2026-10-21T11:56:01.033321+00:00",
+    "bytes": 13731,
+    "sha256": "b4128881e81d208aa75920114e1189ca01dcea41c7d8e977732e9342f6de0a8d"
+  }
+]

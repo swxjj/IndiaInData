@@ -52,11 +52,12 @@ IndiaInData/
 | TP4 | Convergencia y trampas de pobreza | [TP4/README.md](TP4/README.md) |
 | TP5 | Medio ambiente, instituciones y desarrollo | [TP5/README.md](TP5/README.md) |
 | TP6 | Desigualdad y pobreza; WDI e IPM 2026 | [TP6/README.md](TP6/README.md) |
+| TP7 | Educación: bases y gráficos; trabajo: selección de indicadores en Word | [TP7/README.md](TP7/README.md) |
 | macro_chat | Aplicación para explorar datos y generar gráficos académicos | [macro_chat/README.md](macro_chat/README.md) |
 
 Cada práctico conserva sus fuentes en `data/raw/`, sus bases preparadas en
 `data/processed/`, sus scripts en `src/` y sus resultados en `output/`.
-Las consignas de TP3–TP6 están dentro de `consigna/` de cada módulo.
+Las consignas de TP3–TP7 están dentro de `consigna/` de cada módulo.
 
 Para el TP6, el archivo [punto 2 completo](TP6/output/tp6_punto2_completo.csv)
 reúne los datos del 2a y 2b con fechas, fuentes y aclaraciones metodológicas.

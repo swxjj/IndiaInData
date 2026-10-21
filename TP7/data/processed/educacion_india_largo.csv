@@ -1,0 +1,1123 @@
+﻿pais;anio;variable;codigo;fuente_id;valor;unidad;obs_status;decimal_fuente;url
+IND;1960;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1961;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1962;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1963;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1964;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1965;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1966;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1967;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1968;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1969;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1970;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1971;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;0,62489;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1972;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1973;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1974;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1975;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1976;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1977;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1978;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1979;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1980;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1981;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;1,09131;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1982;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1983;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1984;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1985;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1986;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1987;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1988;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1989;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1990;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1991;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1992;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1993;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1994;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1995;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1996;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1997;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1998;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1999;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2000;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2001;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2002;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2003;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2004;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2005;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2006;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2007;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2008;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2009;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2010;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2011;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;4,05881;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2012;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2013;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2014;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2015;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2016;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2017;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2018;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2019;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2020;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2021;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2022;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2023;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2024;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;2025;escolaridad_25_mujeres;UIS.EA.MEAN.1T6.AG25T99.F;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.F?source=12&format=json
+IND;1960;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1961;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1962;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1963;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1964;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1965;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1966;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1967;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1968;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1969;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1970;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1971;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;1,4189;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1972;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1973;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1974;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1975;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1976;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1977;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1978;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1979;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1980;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1981;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;2,18463;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1982;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1983;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1984;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1985;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1986;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1987;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1988;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1989;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1990;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1991;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1992;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1993;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1994;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1995;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1996;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1997;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1998;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1999;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2000;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2001;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2002;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2003;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2004;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2005;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2006;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2007;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2008;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2009;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2010;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2011;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;5,32019;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2012;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2013;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2014;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2015;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2016;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2017;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2018;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2019;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2020;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2021;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2022;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2023;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2024;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;2025;escolaridad_25_total;UIS.EA.MEAN.1T6.AG25T99;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99?source=12&format=json
+IND;1960;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1961;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1962;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1963;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1964;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1965;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1966;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1967;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1968;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1969;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1970;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1971;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;2,15028;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1972;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1973;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1974;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1975;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1976;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1977;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1978;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1979;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1980;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1981;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;3,20488;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1982;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1983;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1984;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1985;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1986;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1987;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1988;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1989;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1990;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1991;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1992;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1993;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1994;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1995;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1996;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1997;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1998;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1999;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2000;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2001;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2002;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2003;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2004;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2005;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2006;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2007;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2008;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2009;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2010;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2011;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;6,54894;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2012;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2013;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2014;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2015;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2016;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2017;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2018;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2019;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2020;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2021;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2022;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2023;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2024;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;2025;escolaridad_25_varones;UIS.EA.MEAN.1T6.AG25T99.M;12;;años;;1;https://api.worldbank.org/v2/country/IND/indicator/UIS.EA.MEAN.1T6.AG25T99.M?source=12&format=json
+IND;1960;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1961;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1962;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1963;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1964;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1965;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1966;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1967;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1968;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1969;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1970;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1971;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1972;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1973;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1974;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1975;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1976;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1977;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1978;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1979;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1980;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1981;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1982;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1983;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1984;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1985;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1986;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1987;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1988;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1989;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1990;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1991;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1992;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1993;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1994;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1995;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1996;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1997;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1998;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1999;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;12,18634;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2000;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;14,84075;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2001;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;13,73107;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2002;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2003;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;11,35044;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2004;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2005;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2006;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2007;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2008;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2009;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;7,58993;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2010;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;7,49038;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2011;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;9,0303;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2012;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;9,40785;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2013;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;9,79172;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2014;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2015;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2016;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2017;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2018;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2019;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2020;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2021;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2022;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2023;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2024;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;2025;gasto_alumno_primaria;SE.XPD.PRIM.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.PRIM.PC.ZS?source=2&format=json
+IND;1960;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1961;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1962;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1963;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1964;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1965;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1966;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1967;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1968;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1969;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1970;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1971;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1972;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1973;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1974;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1975;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1976;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1977;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1978;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1979;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1980;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1981;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1982;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1983;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1984;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1985;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1986;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1987;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1988;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1989;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1990;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1991;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1992;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1993;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1994;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1995;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1996;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1997;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1998;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1999;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;25,36353;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2000;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;25,33873;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2001;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;23,94886;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2002;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2003;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;20,30911;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2004;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;18,33907;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2005;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;17,26857;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2006;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;16,74737;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2007;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2008;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2009;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;13,59323;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2010;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;14,1265;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2011;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;15,22846;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2012;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;15,71915;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2013;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;16,8546;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2014;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2015;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2016;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2017;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2018;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2019;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2020;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2021;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2022;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2023;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2024;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;2025;gasto_alumno_secundaria;SE.XPD.SECO.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.SECO.PC.ZS?source=2&format=json
+IND;1960;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1961;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1962;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1963;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1964;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1965;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1966;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1967;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1968;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1969;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1970;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1971;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1972;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1973;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1974;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1975;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1976;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1977;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1978;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1979;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1980;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1981;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1982;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1983;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1984;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1985;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1986;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1987;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1988;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1989;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1990;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1991;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1992;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1993;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1994;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1995;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1996;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1997;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1998;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1999;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2000;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;96,88233;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2001;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2002;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2003;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;70,25823;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2004;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;62,91641;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2005;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;59,80892;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2006;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;56,92187;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2007;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2008;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2009;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;77,55281;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2010;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;71,54343;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2011;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;60,97288;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2012;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;54,44577;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2013;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;49,27271;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2014;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2015;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2016;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2017;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2018;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2019;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2020;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2021;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2022;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2023;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2024;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;2025;gasto_alumno_terciaria;SE.XPD.TERT.PC.ZS;2;;% del PIB por habitante;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TERT.PC.ZS?source=2&format=json
+IND;1960;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1961;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1962;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1963;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1964;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1965;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1966;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1967;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1968;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1969;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1970;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1971;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1972;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1973;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1974;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1975;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1976;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1977;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1978;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1979;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1980;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1981;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1982;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1983;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1984;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1985;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1986;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1987;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1988;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1989;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1990;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1991;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1992;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1993;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1994;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1995;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1996;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1997;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,36137008666992;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1998;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,57257008552551;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1999;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;4,41538000106812;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2000;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;4,32480001449585;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2001;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2002;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2003;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,61342000961304;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2004;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,35254001617432;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2005;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,18876004219055;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2006;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,14284992218018;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2007;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2008;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2009;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,27824997901917;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2010;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,377690076828;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2011;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,79618000984192;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2012;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,8675000667572;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2013;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,84467005729675;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2014;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,89878023242693;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2015;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;4,1145601272583;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2016;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;4,25406980514526;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2017;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;4,30543994903565;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2018;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;4,36374998092651;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2019;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;3,89732003211975;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2020;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;4,29335021972656;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2021;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;4,62949991226196;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2022;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;4,09865814174589;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2023;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2024;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;2025;gasto_educativo_pib;SE.XPD.TOTL.GD.ZS;2;;% del PIB;;1;https://api.worldbank.org/v2/country/IND/indicator/SE.XPD.TOTL.GD.ZS?source=2&format=json
+IND;1960;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1961;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1962;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1963;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1964;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1965;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1966;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1967;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1968;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1969;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1970;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1971;matricula_bruta_primaria;SE.PRM.ENRR;2;78,3710327148438;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1972;matricula_bruta_primaria;SE.PRM.ENRR;2;79,3442764282227;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1973;matricula_bruta_primaria;SE.PRM.ENRR;2;82,6989974975586;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1974;matricula_bruta_primaria;SE.PRM.ENRR;2;82,1962966918945;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1975;matricula_bruta_primaria;SE.PRM.ENRR;2;82,9095077514648;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1976;matricula_bruta_primaria;SE.PRM.ENRR;2;82,45703125;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1977;matricula_bruta_primaria;SE.PRM.ENRR;2;85,0858917236328;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1978;matricula_bruta_primaria;SE.PRM.ENRR;2;81,2855529785156;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1979;matricula_bruta_primaria;SE.PRM.ENRR;2;81,0936813354492;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1980;matricula_bruta_primaria;SE.PRM.ENRR;2;82,3608016967773;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1981;matricula_bruta_primaria;SE.PRM.ENRR;2;83,5600891113281;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1982;matricula_bruta_primaria;SE.PRM.ENRR;2;84,2793502807617;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1983;matricula_bruta_primaria;SE.PRM.ENRR;2;86,1700286865234;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1984;matricula_bruta_primaria;SE.PRM.ENRR;2;87,7678985595703;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1985;matricula_bruta_primaria;SE.PRM.ENRR;2;87,5654907226562;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1986;matricula_bruta_primaria;SE.PRM.ENRR;2;89,480842590332;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1987;matricula_bruta_primaria;SE.PRM.ENRR;2;87,1398391723633;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1988;matricula_bruta_primaria;SE.PRM.ENRR;2;88,5074768066406;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1989;matricula_bruta_primaria;SE.PRM.ENRR;2;91,5205612182617;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1990;matricula_bruta_primaria;SE.PRM.ENRR;2;90,8405075073242;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1991;matricula_bruta_primaria;SE.PRM.ENRR;2;90,3910980224609;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1992;matricula_bruta_primaria;SE.PRM.ENRR;2;90,8074035644531;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1993;matricula_bruta_primaria;SE.PRM.ENRR;2;92,3163986206055;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1994;matricula_bruta_primaria;SE.PRM.ENRR;2;93,1767272949219;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1995;matricula_bruta_primaria;SE.PRM.ENRR;2;92,4916076660156;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1996;matricula_bruta_primaria;SE.PRM.ENRR;2;91,9326019287109;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1997;matricula_bruta_primaria;SE.PRM.ENRR;2;91,5185394287109;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1998;matricula_bruta_primaria;SE.PRM.ENRR;2;89,9965972900391;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1999;matricula_bruta_primaria;SE.PRM.ENRR;2;91,824577331543;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2000;matricula_bruta_primaria;SE.PRM.ENRR;2;98,808967590332;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2001;matricula_bruta_primaria;SE.PRM.ENRR;2;96,9014892578125;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2002;matricula_bruta_primaria;SE.PRM.ENRR;2;97,4474563598633;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2003;matricula_bruta_primaria;SE.PRM.ENRR;2;105,664947509766;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2004;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2005;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2006;matricula_bruta_primaria;SE.PRM.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2007;matricula_bruta_primaria;SE.PRM.ENRR;2;113,330406188965;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2008;matricula_bruta_primaria;SE.PRM.ENRR;2;113,827751159668;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2009;matricula_bruta_primaria;SE.PRM.ENRR;2;112,490791320801;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2010;matricula_bruta_primaria;SE.PRM.ENRR;2;112,218696594238;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2011;matricula_bruta_primaria;SE.PRM.ENRR;2;109,707902683748;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2012;matricula_bruta_primaria;SE.PRM.ENRR;2;112,384407043457;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2013;matricula_bruta_primaria;SE.PRM.ENRR;2;106,095840129942;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2014;matricula_bruta_primaria;SE.PRM.ENRR;2;103,55659949185;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2015;matricula_bruta_primaria;SE.PRM.ENRR;2;104,221831829753;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2016;matricula_bruta_primaria;SE.PRM.ENRR;2;103,742722477923;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2017;matricula_bruta_primaria;SE.PRM.ENRR;2;101,886981326278;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2018;matricula_bruta_primaria;SE.PRM.ENRR;2;101,097955349788;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2019;matricula_bruta_primaria;SE.PRM.ENRR;2;99,5039235046054;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2020;matricula_bruta_primaria;SE.PRM.ENRR;2;101,291254076896;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2021;matricula_bruta_primaria;SE.PRM.ENRR;2;102,316124063995;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2022;matricula_bruta_primaria;SE.PRM.ENRR;2;111,084455602236;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2023;matricula_bruta_primaria;SE.PRM.ENRR;2;112,031231642927;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2024;matricula_bruta_primaria;SE.PRM.ENRR;2;120,520368565055;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;2025;matricula_bruta_primaria;SE.PRM.ENRR;2;111,033783181676;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.ENRR?source=2&format=json
+IND;1960;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1961;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1962;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1963;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1964;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1965;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1966;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1967;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1968;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1969;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1970;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1971;matricula_bruta_secundaria;SE.SEC.ENRR;2;23,9795207977295;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1972;matricula_bruta_secundaria;SE.SEC.ENRR;2;24,3535308837891;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1973;matricula_bruta_secundaria;SE.SEC.ENRR;2;24,7536602020264;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1974;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1975;matricula_bruta_secundaria;SE.SEC.ENRR;2;25,4582901000977;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1976;matricula_bruta_secundaria;SE.SEC.ENRR;2;25,6513690948486;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1977;matricula_bruta_secundaria;SE.SEC.ENRR;2;26,2202491760254;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1978;matricula_bruta_secundaria;SE.SEC.ENRR;2;26,6044902801514;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1979;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1980;matricula_bruta_secundaria;SE.SEC.ENRR;2;28,8213405609131;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1981;matricula_bruta_secundaria;SE.SEC.ENRR;2;30,2948608398438;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1982;matricula_bruta_secundaria;SE.SEC.ENRR;2;31,8075008392334;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1983;matricula_bruta_secundaria;SE.SEC.ENRR;2;33,7834892272949;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1984;matricula_bruta_secundaria;SE.SEC.ENRR;2;35,1355590820312;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1985;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1986;matricula_bruta_secundaria;SE.SEC.ENRR;2;37,1654281616211;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1987;matricula_bruta_secundaria;SE.SEC.ENRR;2;36,7326812744141;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1988;matricula_bruta_secundaria;SE.SEC.ENRR;2;36,7338218688965;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1989;matricula_bruta_secundaria;SE.SEC.ENRR;2;36,8672904968262;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1990;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1991;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1992;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1993;matricula_bruta_secundaria;SE.SEC.ENRR;2;44,8495216369629;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1994;matricula_bruta_secundaria;SE.SEC.ENRR;2;45,1687202453613;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1995;matricula_bruta_secundaria;SE.SEC.ENRR;2;44,9552116394043;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1996;matricula_bruta_secundaria;SE.SEC.ENRR;2;44,8827896118164;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1997;matricula_bruta_secundaria;SE.SEC.ENRR;2;45,3552589416504;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1998;matricula_bruta_secundaria;SE.SEC.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1999;matricula_bruta_secundaria;SE.SEC.ENRR;2;42,9011917114258;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2000;matricula_bruta_secundaria;SE.SEC.ENRR;2;47,1734390258789;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2001;matricula_bruta_secundaria;SE.SEC.ENRR;2;46,8245811462402;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2002;matricula_bruta_secundaria;SE.SEC.ENRR;2;48,8069381713867;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2003;matricula_bruta_secundaria;SE.SEC.ENRR;2;51,4255714416504;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2004;matricula_bruta_secundaria;SE.SEC.ENRR;2;53,247371673584;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2005;matricula_bruta_secundaria;SE.SEC.ENRR;2;55,9314002990723;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2006;matricula_bruta_secundaria;SE.SEC.ENRR;2;56,7859497070312;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2007;matricula_bruta_secundaria;SE.SEC.ENRR;2;59,1478385925293;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2008;matricula_bruta_secundaria;SE.SEC.ENRR;2;62,2119216918945;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2009;matricula_bruta_secundaria;SE.SEC.ENRR;2;61,3603210449219;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2010;matricula_bruta_secundaria;SE.SEC.ENRR;2;64,9475936889648;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2011;matricula_bruta_secundaria;SE.SEC.ENRR;2;67,1251678466797;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2012;matricula_bruta_secundaria;SE.SEC.ENRR;2;69,8089599609375;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2013;matricula_bruta_secundaria;SE.SEC.ENRR;2;69,4771270751953;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2014;matricula_bruta_secundaria;SE.SEC.ENRR;2;74,8887023925781;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2015;matricula_bruta_secundaria;SE.SEC.ENRR;2;74,6113662719727;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2016;matricula_bruta_secundaria;SE.SEC.ENRR;2;75,9372863769531;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2017;matricula_bruta_secundaria;SE.SEC.ENRR;2;74,6743774414062;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2018;matricula_bruta_secundaria;SE.SEC.ENRR;2;76,0025787353516;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2019;matricula_bruta_secundaria;SE.SEC.ENRR;2;75,8716506958008;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2020;matricula_bruta_secundaria;SE.SEC.ENRR;2;77,6271548412386;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2021;matricula_bruta_secundaria;SE.SEC.ENRR;2;80,6246396728944;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2022;matricula_bruta_secundaria;SE.SEC.ENRR;2;81,1778608399708;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2023;matricula_bruta_secundaria;SE.SEC.ENRR;2;78,8639591218839;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2024;matricula_bruta_secundaria;SE.SEC.ENRR;2;78,1058073224606;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;2025;matricula_bruta_secundaria;SE.SEC.ENRR;2;79,594985086469;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.ENRR?source=2&format=json
+IND;1960;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1961;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1962;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1963;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1964;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1965;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1966;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1967;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1968;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1969;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1970;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1971;matricula_bruta_terciaria;SE.TER.ENRR;2;4,91587018966675;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1972;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1973;matricula_bruta_terciaria;SE.TER.ENRR;2;5,05735015869141;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1974;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1975;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1976;matricula_bruta_terciaria;SE.TER.ENRR;2;5,04934978485107;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1977;matricula_bruta_terciaria;SE.TER.ENRR;2;4,86920976638794;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1978;matricula_bruta_terciaria;SE.TER.ENRR;2;4,99063014984131;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1979;matricula_bruta_terciaria;SE.TER.ENRR;2;4,95719003677368;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1980;matricula_bruta_terciaria;SE.TER.ENRR;2;4,9510498046875;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1981;matricula_bruta_terciaria;SE.TER.ENRR;2;5,23958015441895;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1982;matricula_bruta_terciaria;SE.TER.ENRR;2;4,93534994125366;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1983;matricula_bruta_terciaria;SE.TER.ENRR;2;5,5486102104187;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1984;matricula_bruta_terciaria;SE.TER.ENRR;2;5,85371017456055;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1985;matricula_bruta_terciaria;SE.TER.ENRR;2;5,83142995834351;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1986;matricula_bruta_terciaria;SE.TER.ENRR;2;5,99415016174316;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1987;matricula_bruta_terciaria;SE.TER.ENRR;2;6,32631015777588;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1988;matricula_bruta_terciaria;SE.TER.ENRR;2;5,52787017822266;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1989;matricula_bruta_terciaria;SE.TER.ENRR;2;5,74145984649658;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1990;matricula_bruta_terciaria;SE.TER.ENRR;2;5,93025016784668;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1991;matricula_bruta_terciaria;SE.TER.ENRR;2;6,00928020477295;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1992;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1993;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1994;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1995;matricula_bruta_terciaria;SE.TER.ENRR;2;5,47798013687134;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1996;matricula_bruta_terciaria;SE.TER.ENRR;2;6,19850015640259;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1997;matricula_bruta_terciaria;SE.TER.ENRR;2;6,47068023681641;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1998;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1999;matricula_bruta_terciaria;SE.TER.ENRR;2;;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2000;matricula_bruta_terciaria;SE.TER.ENRR;2;9,93826007843018;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2001;matricula_bruta_terciaria;SE.TER.ENRR;2;10,0273504257202;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2002;matricula_bruta_terciaria;SE.TER.ENRR;2;10,5586500167847;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2003;matricula_bruta_terciaria;SE.TER.ENRR;2;11,0576400756836;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2004;matricula_bruta_terciaria;SE.TER.ENRR;2;11,3926801681519;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2005;matricula_bruta_terciaria;SE.TER.ENRR;2;11,1277303695679;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2006;matricula_bruta_terciaria;SE.TER.ENRR;2;11,9628095626831;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2007;matricula_bruta_terciaria;SE.TER.ENRR;2;13,6564798355103;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2008;matricula_bruta_terciaria;SE.TER.ENRR;2;15,6485204696655;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2009;matricula_bruta_terciaria;SE.TER.ENRR;2;16,6775093078613;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2010;matricula_bruta_terciaria;SE.TER.ENRR;2;18,6971831309683;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2011;matricula_bruta_terciaria;SE.TER.ENRR;2;23,8253684220097;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2012;matricula_bruta_terciaria;SE.TER.ENRR;2;24,9402082606779;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2013;matricula_bruta_terciaria;SE.TER.ENRR;2;24,390638443123;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2014;matricula_bruta_terciaria;SE.TER.ENRR;2;25,991324706788;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2015;matricula_bruta_terciaria;SE.TER.ENRR;2;27,2845677075978;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2016;matricula_bruta_terciaria;SE.TER.ENRR;2;27,3043573857643;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2017;matricula_bruta_terciaria;SE.TER.ENRR;2;27,9090519049334;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2018;matricula_bruta_terciaria;SE.TER.ENRR;2;28,5316865291946;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2019;matricula_bruta_terciaria;SE.TER.ENRR;2;29,0233593907143;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2020;matricula_bruta_terciaria;SE.TER.ENRR;2;29,8196397708424;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2021;matricula_bruta_terciaria;SE.TER.ENRR;2;31,5741765984501;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2022;matricula_bruta_terciaria;SE.TER.ENRR;2;32,6703053423023;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2023;matricula_bruta_terciaria;SE.TER.ENRR;2;34,2394344991225;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2024;matricula_bruta_terciaria;SE.TER.ENRR;2;34,4184659748952;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;2025;matricula_bruta_terciaria;SE.TER.ENRR;2;34,4465039692543;%;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.TER.ENRR?source=2&format=json
+IND;1960;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1961;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1962;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1963;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1964;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1965;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1966;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1967;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1968;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1969;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1970;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1971;matricula_neta_primaria;SE.PRM.NENR;2;61,04195;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1972;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1973;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1974;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1975;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1976;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1977;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1978;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1979;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1980;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1981;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1982;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1983;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1984;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1985;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1986;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1987;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1988;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1989;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1990;matricula_neta_primaria;SE.PRM.NENR;2;77,12007;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1991;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1992;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1993;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1994;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1995;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1996;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1997;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1998;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1999;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2000;matricula_neta_primaria;SE.PRM.NENR;2;79,50755;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2001;matricula_neta_primaria;SE.PRM.NENR;2;79,37586;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2002;matricula_neta_primaria;SE.PRM.NENR;2;78,99802;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2003;matricula_neta_primaria;SE.PRM.NENR;2;83,57377;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2004;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2005;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2006;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2007;matricula_neta_primaria;SE.PRM.NENR;2;91,12498;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2008;matricula_neta_primaria;SE.PRM.NENR;2;90,8729;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2009;matricula_neta_primaria;SE.PRM.NENR;2;90,65366;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2010;matricula_neta_primaria;SE.PRM.NENR;2;90,95531;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2011;matricula_neta_primaria;SE.PRM.NENR;2;90,37191;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2012;matricula_neta_primaria;SE.PRM.NENR;2;91,57155;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2013;matricula_neta_primaria;SE.PRM.NENR;2;92,25734;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2014;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2015;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2016;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2017;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2018;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2019;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2020;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2021;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2022;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2023;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2024;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;2025;matricula_neta_primaria;SE.PRM.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR?source=2&format=json
+IND;1960;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1961;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1962;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1963;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1964;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1965;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1966;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1967;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1968;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1969;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1970;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1971;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;47,9378;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1972;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1973;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1974;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1975;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1976;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1977;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1978;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1979;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1980;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1981;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1982;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1983;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1984;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1985;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1986;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1987;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1988;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1989;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1990;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;65,57641;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1991;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1992;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1993;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1994;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1995;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1996;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1997;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1998;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1999;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2000;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;73,18593;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2001;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;73,51308;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2002;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;73,865;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2003;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;82,96788;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2004;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2005;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2006;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2007;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;90,92672;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2008;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;91,95885;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2009;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;92,31843;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2010;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;92,35823;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2011;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;92,04912;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2012;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;92,43548;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2013;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;93,02689;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2014;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2015;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2016;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2017;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2018;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2019;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2020;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2021;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2022;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2023;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2024;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;2025;matricula_neta_primaria_mujeres;SE.PRM.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.FE?source=2&format=json
+IND;1960;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1961;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1962;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1963;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1964;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1965;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1966;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1967;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1968;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1969;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1970;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1971;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;73,20033;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1972;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1973;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1974;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1975;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1976;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1977;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1978;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1979;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1980;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1981;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1982;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1983;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1984;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1985;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1986;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1987;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1988;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1989;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1990;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;87,70998;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1991;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1992;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1993;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1994;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1995;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1996;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1997;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1998;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1999;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2000;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;85,1925;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2001;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;84,63084;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2002;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;83,58854;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2003;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;84,11475;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2004;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2005;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2006;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2007;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;91,30154;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2008;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;89,90597;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2009;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;89,17164;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2010;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;89,70653;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2011;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;88,87882;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2012;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;90,80182;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2013;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;91,57047;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2014;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2015;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2016;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2017;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2018;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2019;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2020;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2021;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2022;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2023;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2024;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;2025;matricula_neta_primaria_varones;SE.PRM.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.PRM.NENR.MA?source=2&format=json
+IND;1960;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1961;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1962;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1963;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1964;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1965;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1966;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1967;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1968;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1969;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1970;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1971;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1972;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1973;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1974;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1975;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1976;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1977;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1978;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1979;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1980;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1981;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1982;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1983;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1984;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1985;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1986;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1987;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1988;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1989;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1990;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1991;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1992;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1993;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1994;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1995;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1996;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1997;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1998;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1999;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2000;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2001;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2002;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2003;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2004;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2005;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2006;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2007;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2008;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2009;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2010;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2011;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2012;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2013;matricula_neta_secundaria;SE.SEC.NENR;2;61,63147;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2014;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2015;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2016;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2017;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2018;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2019;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2020;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2021;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2022;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2023;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2024;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;2025;matricula_neta_secundaria;SE.SEC.NENR;2;;% población en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR?source=2&format=json
+IND;1960;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1961;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1962;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1963;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1964;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1965;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1966;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1967;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1968;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1969;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1970;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1971;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1972;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1973;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1974;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1975;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1976;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1977;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1978;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1979;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1980;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1981;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1982;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1983;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1984;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1985;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1986;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1987;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1988;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1989;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1990;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1991;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1992;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1993;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1994;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1995;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1996;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1997;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1998;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1999;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2000;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2001;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2002;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2003;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2004;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2005;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2006;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2007;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2008;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2009;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2010;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2011;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2012;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2013;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;62,40373;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2014;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2015;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2016;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2017;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2018;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2019;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2020;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2021;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2022;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2023;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2024;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;2025;matricula_neta_secundaria_mujeres;SE.SEC.NENR.FE;2;;% población femenina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.FE?source=2&format=json
+IND;1960;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1961;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1962;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1963;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1964;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1965;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1966;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1967;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1968;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1969;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1970;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1971;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1972;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1973;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1974;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1975;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1976;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1977;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1978;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1979;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1980;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1981;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1982;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1983;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1984;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1985;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1986;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1987;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1988;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1989;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1990;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1991;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1992;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1993;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1994;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1995;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1996;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1997;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1998;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1999;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2000;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2001;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2002;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2003;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2004;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2005;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2006;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2007;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2008;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2009;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2010;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2011;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2012;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2013;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;60,94448;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2014;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2015;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2016;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2017;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2018;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2019;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2020;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2021;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2022;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2023;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2024;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;2025;matricula_neta_secundaria_varones;SE.SEC.NENR.MA;2;;% población masculina en edad oficial del nivel;;0;https://api.worldbank.org/v2/country/IND/indicator/SE.SEC.NENR.MA?source=2&format=json
+IND;1960;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;312,777847829868;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1961;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;316,739644665114;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1962;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;318,381945826526;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1963;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;329,64149485279;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1964;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;346,011883332873;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1965;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;329,392574458173;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1966;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;322,241317769904;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1967;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;340,080025745202;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1968;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;344,128288078031;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1969;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;358,966799409582;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1970;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;369,19248063917;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1971;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;367,033309772096;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1972;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;357,07792915078;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1973;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;360,637844054436;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1974;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;356,615069655557;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1975;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;380,159941384358;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1976;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;377,496025416227;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1977;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;395,443306819602;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1978;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;408,51694440403;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1979;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;378,219592791247;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1980;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;394,182239921013;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1981;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;408,153549793307;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1982;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;412,596737104221;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1983;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;432,429235384759;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1984;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;438,541705512915;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1985;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;450,966703855867;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1986;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;461,725611476403;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1987;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;469,209956296394;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1988;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;502,937342187065;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1989;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;521,073383839123;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1990;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;537,870269536103;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1991;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;531,898397833351;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1992;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;549,235069964895;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1993;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;563,372872336747;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1994;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;588,727892180632;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1995;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;620,699954336366;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1996;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;654,355928434052;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1997;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;667,598423093399;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1998;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;695,293709337082;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;1999;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;742,53920839812;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2000;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;756,704109533187;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2001;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;778,507377522499;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2002;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;793,615912901002;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2003;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;841,278894562408;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2004;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;892,596614580718;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2005;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;947,732565644272;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2006;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1008,23275344818;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2007;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1069,24696812234;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2008;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1086,50605251005;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2009;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1155,10163273817;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2010;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1235,15939132939;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2011;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1281,61054354937;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2012;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1333,09626557649;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2013;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1399,4537980281;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2014;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1484,31640682961;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2015;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1583,99815907985;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2016;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1694,46534973787;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2017;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1788,69770318481;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2018;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1883,35772705055;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2019;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1936,03067741063;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2020;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1806,50110583865;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2021;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;1965,30943437472;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2022;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;2098,21124476122;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2023;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;2229,71491223037;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2024;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;2366,8328910323;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
+IND;2025;pib_pc_usd_2015;NY.GDP.PCAP.KD;2;2523,43601851376;US$ constantes de 2015;;1;https://api.worldbank.org/v2/country/IND/indicator/NY.GDP.PCAP.KD?source=2&format=json
