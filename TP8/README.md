@@ -9,7 +9,8 @@ El archivo global del PNUD permite elegir otro comparador más adelante.
 
 La preparación incluye descargas, metadatos, organización y controles. El 28 de
 octubre se agregó el cálculo de crecimiento natural y tres gráficos de India
-para compararlo con el crecimiento total. La redacción de respuestas queda pendiente.
+para compararlo con el crecimiento total. La resolución final está en
+[output/pdf/TP8.pdf](output/pdf/TP8.pdf), con su código en [latex/main.tex](latex/main.tex).
 
 ## Organización
 
@@ -22,13 +23,16 @@ TP8/
     main_punto_2.csv  Base principal de migración y divisas
     apoyo/            Panel completo, diccionario, cobertura y datos auxiliares
     genero/           Bases del punto 3 sobre desigualdad de género
-  src/              Script de descarga y preparación reproducible
+  resolucion/       Word original y extracción usada para generar el LaTeX
+  latex/            Código principal de la entrega
+  output/           PDF final, figuras y tabla
+  src/              Scripts de descarga, gráficos y preparación reproducible
   requirements.txt  Dependencia para leer los XLSX oficiales
 ```
 
 El DOCX de la consigna se copió a `consigna/TP 8.docx` y se verificó por SHA256.
-El duplicado de la raíz continúa abierto en Word y no pudo retirarse; no hace falta
-para trabajar con esta carpeta.
+La resolución Word original se conserva en `resolucion/`. Se eliminaron las copias
+duplicadas de la raíz y se conserva un único PDF final en `output/pdf/TP8.pdf`.
 
 ## Qué descargar según la consigna
 
@@ -238,5 +242,11 @@ Para regenerar el código y compilar desde la carpeta del proyecto:
 ```powershell
 python TP8/src/preparar_latex_resolucion.py
 Set-Location TP8/latex
-tectonic --keep-logs main.tex
+tectonic main.tex
+Move-Item -LiteralPath main.pdf -Destination ../output/pdf/TP8.pdf -Force
 ```
+
+Los temporales de extracción, las vistas de revisión y el registro auxiliar de
+revisión se eliminaron. Las fuentes y metadatos se conservan por práctico para
+mantener reproducibles las descargas; los PNG sirven de vista previa y los PDF
+de las figuras se usan en LaTeX.

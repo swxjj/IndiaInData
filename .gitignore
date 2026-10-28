@@ -34,3 +34,6 @@ scratch/
 *.nav
 *.snm
 *.vrb
+
+# Copia intermedia: la entrega del TP8 se conserva en output/pdf/TP8.pdf.
+/TP8/latex/main.pdf

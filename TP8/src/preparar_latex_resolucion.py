@@ -183,11 +183,6 @@ def main():
     document = preamble + '\n'.join(parts) + references
     document = '\n'.join(line.rstrip() for line in document.splitlines() if not line.lstrip().startswith('%')) + '\n'
     (OUT/'main.tex').write_text(document, encoding='utf-8')
-    # Constancia de los párrafos y únicos reemplazos editoriales del original.
-    report = dict(parrafos_conservados=preserved, reemplazos_minimos=edits,
-                  figuras_eliminadas=['image3.png (boceto redundante)', 'image4.png (sello IA)', 'image5.png (símbolo IA)'],
-                  tabla_valores_originales=table, compilado=False, estado="Fuente actualizada; la compilación se registra por separado")
-    (ROOT/'output/revision_latex.json').write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding='utf-8')
     print(OUT/'main.tex')
 
 
