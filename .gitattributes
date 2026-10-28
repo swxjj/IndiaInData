@@ -2,3 +2,6 @@
 TP7/data/raw/* -text -whitespace
 # Mantener el formato CSV reproducible entre Windows y otros sistemas.
 TP7/data/processed/*.csv -text whitespace=cr-at-eol
+# Misma conservación de fuentes y coma decimal para las bases del TP8.
+TP8/data/raw/* -text -whitespace
+TP8/data/processed/**/*.csv -text whitespace=cr-at-eol

@@ -1,0 +1,19 @@
+﻿pais;variable;dimension;valor;unidad;anio_encabezado;notas;fila_excel;columna_excel;archivo_raw
+USA;gii;indice;0,169;índice 0-1;2023;;27;3;HDR25_Statistical_Annex_GII_Table.xlsx
+USA;ranking_gii;indice;45;puesto;2023;;27;5;HDR25_Statistical_Annex_GII_Table.xlsx
+USA;mortalidad_materna;salud_reproductiva;21,08490543;muertes maternas por 100.000 nacidos vivos;2020;;27;7;HDR25_Statistical_Annex_GII_Table.xlsx
+USA;natalidad_adolescente;salud_reproductiva;13,145;nacimientos por 1.000 mujeres de 15-19 años;2023;;27;9;HDR25_Statistical_Annex_GII_Table.xlsx
+USA;bancas_parlamento_mujeres;empoderamiento;28,22429907;% de bancas;2023;;27;11;HDR25_Statistical_Annex_GII_Table.xlsx
+USA;secundaria_mujeres;empoderamiento;97,86711884;% de mujeres de 25+ con al menos algo de secundaria;2023;Data refer to 2023 or the most recent year available.;27;13;HDR25_Statistical_Annex_GII_Table.xlsx
+USA;secundaria_varones;empoderamiento;97,82904816;% de varones de 25+ con al menos algo de secundaria;2023;Data refer to 2023 or the most recent year available.;27;15;HDR25_Statistical_Annex_GII_Table.xlsx
+USA;participacion_laboral_mujeres;mercado_laboral;57,33;% de mujeres de 15+;2023;Updated by HDRO based on data from International Labour Organization (2024).;27;17;HDR25_Statistical_Annex_GII_Table.xlsx
+USA;participacion_laboral_varones;mercado_laboral;68,12;% de varones de 15+;2023;Updated by HDRO based on data from International Labour Organization (2024).;27;19;HDR25_Statistical_Annex_GII_Table.xlsx
+IND;gii;indice;0,403;índice 0-1;2023;;141;3;HDR25_Statistical_Annex_GII_Table.xlsx
+IND;ranking_gii;indice;102;puesto;2023;;141;5;HDR25_Statistical_Annex_GII_Table.xlsx
+IND;mortalidad_materna;salud_reproductiva;102,653912;muertes maternas por 100.000 nacidos vivos;2020;;141;7;HDR25_Statistical_Annex_GII_Table.xlsx
+IND;natalidad_adolescente;salud_reproductiva;14,06;nacimientos por 1.000 mujeres de 15-19 años;2023;;141;9;HDR25_Statistical_Annex_GII_Table.xlsx
+IND;bancas_parlamento_mujeres;empoderamiento;14,81958763;% de bancas;2023;;141;11;HDR25_Statistical_Annex_GII_Table.xlsx
+IND;secundaria_mujeres;empoderamiento;43,5;% de mujeres de 25+ con al menos algo de secundaria;2023;Data refer to 2023 or the most recent year available.;141;13;HDR25_Statistical_Annex_GII_Table.xlsx
+IND;secundaria_varones;empoderamiento;61,09000015;% de varones de 25+ con al menos algo de secundaria;2023;Data refer to 2023 or the most recent year available.;141;15;HDR25_Statistical_Annex_GII_Table.xlsx
+IND;participacion_laboral_mujeres;mercado_laboral;35,08;% de mujeres de 15+;2023;Updated by HDRO based on data from International Labour Organization (2024).;141;17;HDR25_Statistical_Annex_GII_Table.xlsx
+IND;participacion_laboral_varones;mercado_laboral;76,41;% de varones de 15+;2023;Updated by HDRO based on data from International Labour Organization (2024).;141;19;HDR25_Statistical_Annex_GII_Table.xlsx

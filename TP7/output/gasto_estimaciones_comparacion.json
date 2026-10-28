@@ -1,0 +1,34 @@
+{
+  "metodo": "Variación absoluta media anual entre observaciones vecinas; interpolación lineal interna",
+  "unidad_gasto": "% del PIB",
+  "estimaciones": [
+    {
+      "anio": 2001,
+      "gasto_educativo_pib_estimado": 4.08767334620158,
+      "anio_anterior": 2000,
+      "anio_siguiente": 2003,
+      "variacion_media_anual_pp": -0.2371266682942698
+    },
+    {
+      "anio": 2002,
+      "gasto_educativo_pib_estimado": 3.85054667790731,
+      "anio_anterior": 2000,
+      "anio_siguiente": 2003,
+      "variacion_media_anual_pp": -0.2371266682942698
+    },
+    {
+      "anio": 2007,
+      "gasto_educativo_pib_estimado": 3.1879832744598433,
+      "anio_anterior": 2006,
+      "anio_siguiente": 2009,
+      "variacion_media_anual_pp": 0.045133352279663384
+    },
+    {
+      "anio": 2008,
+      "gasto_educativo_pib_estimado": 3.2331166267395064,
+      "anio_anterior": 2006,
+      "anio_siguiente": 2009,
+      "variacion_media_anual_pp": 0.045133352279663384
+    }
+  ]
+}

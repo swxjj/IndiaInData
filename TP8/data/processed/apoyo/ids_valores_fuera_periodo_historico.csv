@@ -1,0 +1,9 @@
+﻿pais;anio;variable;codigo;valor;unidad;estado;archivo_raw
+IND;2025;deuda_largo_plazo_desembolsos_usd;DT.DIS.DLXF.CD;16524222666;"US$ corrientes; desembolsos brutos";fuera_del_periodo_historico_IDS_no_usar_como_observado;ids_DT.DIS.DLXF.CD.json
+IND;2026;deuda_largo_plazo_desembolsos_usd;DT.DIS.DLXF.CD;13086263139;"US$ corrientes; desembolsos brutos";fuera_del_periodo_historico_IDS_no_usar_como_observado;ids_DT.DIS.DLXF.CD.json
+IND;2027;deuda_largo_plazo_desembolsos_usd;DT.DIS.DLXF.CD;8339403645,6;"US$ corrientes; desembolsos brutos";fuera_del_periodo_historico_IDS_no_usar_como_observado;ids_DT.DIS.DLXF.CD.json
+IND;2028;deuda_largo_plazo_desembolsos_usd;DT.DIS.DLXF.CD;5106180841,7;"US$ corrientes; desembolsos brutos";fuera_del_periodo_historico_IDS_no_usar_como_observado;ids_DT.DIS.DLXF.CD.json
+IND;2029;deuda_largo_plazo_desembolsos_usd;DT.DIS.DLXF.CD;3027468743,2;"US$ corrientes; desembolsos brutos";fuera_del_periodo_historico_IDS_no_usar_como_observado;ids_DT.DIS.DLXF.CD.json
+IND;2030;deuda_largo_plazo_desembolsos_usd;DT.DIS.DLXF.CD;1529653561,4;"US$ corrientes; desembolsos brutos";fuera_del_periodo_historico_IDS_no_usar_como_observado;ids_DT.DIS.DLXF.CD.json
+IND;2031;deuda_largo_plazo_desembolsos_usd;DT.DIS.DLXF.CD;903813137;"US$ corrientes; desembolsos brutos";fuera_del_periodo_historico_IDS_no_usar_como_observado;ids_DT.DIS.DLXF.CD.json
+IND;2032;deuda_largo_plazo_desembolsos_usd;DT.DIS.DLXF.CD;229872429,5;"US$ corrientes; desembolsos brutos";fuera_del_periodo_historico_IDS_no_usar_como_observado;ids_DT.DIS.DLXF.CD.json

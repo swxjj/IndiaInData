@@ -14,7 +14,7 @@ El relevamiento de sus valores y la redacción de respuestas finales quedan pend
 - `data/raw/`: fuentes originales y registro de descargas.
 - `data/processed/`: seis bases CSV con coma decimal.
 - `src/`: scripts de descarga, gráficos y generación del Word.
-- `output/figures/`: seis gráficos en PNG/PDF y una vista conjunta.
+- `output/figures/`: seis gráficos exploratorios, dos comparaciones en PNG/PDF y una vista conjunta.
 - `output/tp7_punto2_indicadores.docx`: selección de indicadores laborales.
 
 ## Archivos para empezar
@@ -158,4 +158,24 @@ Para regenerar el contenido editable:
 
 ```powershell
 python TP7/src/crear_word_indicadores.py
+```
+
+## Comparaciones con doble eje
+
+Versiones simples de los dos gráficos de referencia, con años en el eje horizontal:
+
+- Gasto educativo y matrícula bruta primaria, 1997–2022: [PNG](output/figures/07_gasto_matricula_comparacion.png), [PDF](output/figures/07_gasto_matricula_comparacion.pdf).
+- PIB por habitante y escolaridad media PNUD, 1990–2023: [PNG](output/figures/08_pib_escolaridad_comparacion.png), [PDF](output/figures/08_pib_escolaridad_comparacion.pdf).
+
+Para esta comparación se completó el gasto de 2001, 2002, 2007 y 2008 con la
+variación absoluta media anual entre las observaciones anterior y posterior:
+`gasto(año) = gasto(inicio) + (año - inicio) × (gasto(fin) - gasto(inicio)) / (fin - inicio)`.
+Es una reconstrucción por interpolación lineal, ya que no se recibió una tabla con
+las estimaciones del usuario. También se completó la matrícula de 2004, 2005 y 2006
+con la variación absoluta media anual entre 2003 y 2007. Los tramos estimados de ambas
+series se muestran punteados. Las bases originales no se modifican. Los registros quedan
+en `output/gasto_estimaciones_comparacion.json` y `output/matricula_estimaciones_comparacion.json`.
+
+```powershell
+python TP7/src/graficar_comparaciones.py
 ```

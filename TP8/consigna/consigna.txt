@@ -1,0 +1,21 @@
+TP 8: POBLACIÓN, GÉNERO Y DESARROLLO
+BASES DE DATOS
+https://databank.worldbank.org/source/world-development-indicators
+Gender inequality index: https://hdr.undp.org/data-center/thematic-composite-indices/gender-inequality-index#/indicies/GII
+
+CRECIMIENTO POBLACIONAL Y DESARROLLO ECONÓMICO
+Buscar datos sobre la tasa de natalidad (nacidos vivos en un año por cada 1.000 personas) y la tasa de mortalidad (número de muertes por cada 1.000 personas):
+a) Calcular la tasa natural de crecimiento de la población de los dos países.
+c) ¿En qué parte de la transición demográfica se encuentra tu país? Explicar.
+c) Calcular el índice de dependencia de la población: Pob hasta 15 años+Pob de más de 65 añosPob entre 15 y 65 años
+¿Tu país tiene bono demográfico?
+
+2) Descargar la migración neta y, en función del resultado, analizar:
+a) Para el país con emigración neta:
+Las remesas (como % del PBI, o como % de la FBKF)). Comparar con otras fuentes de entradas de divisas (exportaciones, IED, deuda, ayuda oficial para el desarrollo).  Evaluar la importancia de las remesas recibidas para el desarrollo de tu país.
+b) Para el país con inmigración neta:
+Considerando tus respuestas y datos del punto 1, ¿cuáles pueden ser los beneficios para el desarrollo de tu país que haya inmigración neta?
+
+GÉNERO Y DESARROLLO
+3) Buscar el Gender Inequality Index para tu país y otros con el cual compararlo. Compará y hacé un comentario respecto a su evolución en el tiempo.
+Compará entre los dos países en qué dimensiones cada país está mejor/peor para el año que aparece en la tabla. ¿Las dimensiones en las que tu país está peor, podrían mejorar con más crecimiento económico?

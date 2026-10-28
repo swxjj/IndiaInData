@@ -1,0 +1,10 @@
+﻿variable;codigo_pnud;unidad;dimension;definicion_original;periodo_fuente
+gii;gii;"índice 0-1; menor valor indica menor desigualdad";indice;Gender Inequality Index (value);1990-2023
+mortalidad_materna;mmr;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;Maternal Mortality Ratio (deaths per 100,000 live births);1990-2019, 2020-2023=2020
+natalidad_adolescente;abr;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;Adolescent Birth Rate (births per 1,000 women ages 15-19);1990-2023
+bancas_parlamento_mujeres;pr_f;% de bancas;empoderamiento;Share of seats in parliament, female (% held by women);1990-2023
+bancas_parlamento_varones;pr_m;% de bancas;empoderamiento;Share of seats in parliament, male (% held by men);1990-2023
+secundaria_mujeres;se_f;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;Population with at least some secondary education, female (% ages 25 and older);1990-2023
+secundaria_varones;se_m;% de varones de 25+ con al menos algo de secundaria;empoderamiento;Population with at least some secondary education, male (% ages 25 and older);1990-2023
+participacion_laboral_mujeres;lfpr_f;% de mujeres de 15+;mercado_laboral;Labour force participation rate, female (% ages 15 and older);1990-2023
+participacion_laboral_varones;lfpr_m;% de varones de 15+;mercado_laboral;Labour force participation rate, male (% ages 15 and older);1990-2023

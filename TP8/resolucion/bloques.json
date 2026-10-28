@@ -1,0 +1,410 @@
+[
+  {
+    "i": 0,
+    "type": "p",
+    "text": "TP 8: POBLACIÓN, GÉNERO Y DESARROLLO",
+    "images": []
+  },
+  {
+    "i": 1,
+    "type": "p",
+    "text": "BASES DE DATOS",
+    "images": []
+  },
+  {
+    "i": 2,
+    "type": "p",
+    "text": "https://databank.worldbank.org/source/world-development-indicators",
+    "images": []
+  },
+  {
+    "i": 3,
+    "type": "p",
+    "text": "Gender inequality index: https://hdr.undp.org/data-center/thematic-composite-indices/gender-inequality-index#/indicies/GII",
+    "images": []
+  },
+  {
+    "i": 4,
+    "type": "p",
+    "text": "",
+    "images": []
+  },
+  {
+    "i": 5,
+    "type": "p",
+    "text": "CRECIMIENTO POBLACIONAL Y DESARROLLO ECONÓMICO",
+    "images": []
+  },
+  {
+    "i": 6,
+    "type": "p",
+    "text": "Buscar datos sobre la tasa de natalidad (nacidos vivos en un año por cada 1.000 personas) y la tasa de mortalidad (número de muertes por cada 1.000 personas):",
+    "images": []
+  },
+  {
+    "i": 7,
+    "type": "p",
+    "text": "a) Calcular la tasa natural de crecimiento de la población del país",
+    "images": []
+  },
+  {
+    "i": 8,
+    "type": "p",
+    "text": "La tasa natural de crecimiento de la población es distinta a la tasa de crecimiento de la población ya que esta última contiene el factor de la migración neta. ",
+    "images": []
+  },
+  {
+    "i": 9,
+    "type": "p",
+    "text": "",
+    "images": [
+      "media/image2.png"
+    ]
+  },
+  {
+    "i": 10,
+    "type": "p",
+    "text": "La India continúa con un crecimiento natural de la población, aunque a ritmos considerablemente menores que a mitad del siglo pasado.  Como grupo, desde el desconocimiento, no esperábamos una caída tan abrupta en la tasa, aunque el signo positivo era predecible.",
+    "images": []
+  },
+  {
+    "i": 11,
+    "type": "p",
+    "text": "Nos pareció interesante comparar el dato con la tasa de crecimiento poblacional neto, ya que la India cuenta con una fuerte tendencia a la emigración. Como suponíamos, tienden a ser similares puesto que se compensa la gran masa emigratoria con el crecimiento poblacional natural.",
+    "images": []
+  },
+  {
+    "i": 12,
+    "type": "p",
+    "text": "",
+    "images": [
+      "media/image9.png"
+    ]
+  },
+  {
+    "i": 13,
+    "type": "p",
+    "text": "b) ¿En qué parte de la transición demográfica se encuentra tu país? Explicar.",
+    "images": []
+  },
+  {
+    "i": 14,
+    "type": "p",
+    "text": "",
+    "images": [
+      "media/image8.png"
+    ]
+  },
+  {
+    "i": 15,
+    "type": "p",
+    "text": "En el caso de India, observamos una desaceleración tanto en la tasa de mortalidad como en la tasa de mortalidad resultando en una reducción del porcentaje de crecimiento poblacional natural.  Siguiendo la teoría, la ubicamos en el final de la fase 3, realizando la transición hacia la etapa 4, donde [TEORIA]",
+    "images": []
+  },
+  {
+    "i": 16,
+    "type": "p",
+    "text": "Ilustrativamente: ",
+    "images": [
+      "media/image10.png"
+    ]
+  },
+  {
+    "i": 17,
+    "type": "p",
+    "text": "Fuente: elaborada con Inteligencia Artificial a partir de boceto propio.",
+    "images": []
+  },
+  {
+    "i": 18,
+    "type": "p",
+    "text": "",
+    "images": [
+      "media/image3.png"
+    ]
+  },
+  {
+    "i": 19,
+    "type": "p",
+    "text": "Fuente: elaboración propia",
+    "images": []
+  },
+  {
+    "i": 20,
+    "type": "p",
+    "text": "",
+    "images": []
+  },
+  {
+    "i": 21,
+    "type": "p",
+    "text": "c) Calcular el índice de dependencia de la población: Pob hasta 15 años+Pob de más de 65 añosPob entre 15 y 65 años",
+    "images": []
+  },
+  {
+    "i": 22,
+    "type": "p",
+    "text": "",
+    "images": [
+      "media/image7.png"
+    ]
+  },
+  {
+    "i": 23,
+    "type": "p",
+    "text": "",
+    "images": []
+  },
+  {
+    "i": 24,
+    "type": "p",
+    "text": "¿Tu país tiene bono demográfico?",
+    "images": []
+  },
+  {
+    "i": 25,
+    "type": "p",
+    "text": "https://es.weforum.org/stories/education-and-skills/dividendo-demografico-como-india-transforma-su-juventud-en-un-motor-de-crecimiento",
+    "images": []
+  },
+  {
+    "i": 26,
+    "type": "p",
+    "text": "Demographic structural transition, demographic dividend, and economic growth: dynamic panel data evidence from India (2025).",
+    "images": []
+  },
+  {
+    "i": 27,
+    "type": "p",
+    "text": "India es el país con más habitantes del planeta, figurando aproximadamente una población de 1480 millones. Cuya tasa de natalidad se encuentra en descenso. ",
+    "images": []
+  },
+  {
+    "i": 28,
+    "type": "p",
+    "text": "El dividendo demográfico reporta una edad  promedio de 29 años, que se puede traducir en beneficios en términos de productividad económica, que permitirá contar con un porcentaje esperado muy alto de personas en edad activa en los próximos años, esto teniendo en cuenta que todos los estudiantes tengan acceso a una orientación que vaya más allá de la educación tradicional. ",
+    "images": []
+  },
+  {
+    "i": 29,
+    "type": "p",
+    "text": "Sin embargo, el alto bono demográfico que a corto plazo puede ser una buena noticia, considerando la disminución de la tasa de natalidad en los últimos años, puede que a  largo plazo se genere una reversión en la población joven actual, a un masivo porcentaje de gente adulta. En las próximas décadas se espera que la India tendrá una mayor proporción de personas mayores y, con el tiempo, una menor proporción de personas en edad laboral. Corre el riesgo de “envejecer” sin crecer o desarrollarse.",
+    "images": []
+  },
+  {
+    "i": 30,
+    "type": "p",
+    "text": "",
+    "images": []
+  },
+  {
+    "i": 31,
+    "type": "p",
+    "text": "2) Descargar la migración neta y, en función del resultado, analizar:",
+    "images": []
+  },
+  {
+    "i": 32,
+    "type": "p",
+    "text": "a) Para el país con emigración neta: Las remesas (como % del PBI, o como % de la FBKF)). Comparar con otras fuentes de entradas de divisas (exportaciones, IED, deuda, ayuda oficial para el desarrollo).  Evaluar la importancia de las remesas recibidas para el desarrollo de tu país. ",
+    "images": []
+  },
+  {
+    "i": 33,
+    "type": "p",
+    "text": "En el caso de India existe emigración neta, es decir, los migrantes superan a los inmigrantes (podemos llamar a este concepto: migración neta negativa). Es decir, existe una mayor cantidad de personas que se marchan del país dirigiéndose hacia otro país para vivir en comparación a la cantidad de personas que llegan y se mudan al país. ",
+    "images": []
+  },
+  {
+    "i": 34,
+    "type": "p",
+    "text": "Una de las ventajas que posee gozar de emigración neta consiste en las remesas (transferencias monetarias de indios que migraron hacia otro país y envían dinero a, por ejemplo, familiares). La segunda ventaja visible reside en que, al reducir la cantidad de personas para una misma cantidad de recursos, disminuye la escasez de bienes y recursos útiles para la sociedad (de todo tipo, desde alimentos hasta viviendas) mejorando relativamente las posibles condiciones de vida. ",
+    "images": []
+  },
+  {
+    "i": 35,
+    "type": "p",
+    "text": "Yendo a los datos, podemos comparar las remesas con otras fuentes de entradas de divisas, por lo que utilizaremos: Remesas como % del PBI, Exportaciones como % del PBI e IED como % del PBI.",
+    "images": []
+  },
+  {
+    "i": 36,
+    "type": "p",
+    "text": "",
+    "images": [
+      "media/image1.png"
+    ]
+  },
+  {
+    "i": 37,
+    "type": "p",
+    "text": "A pesar de no contar con ciertos años, observando los datos entendemos que, para India, la importancia de las remesas (con un promedio de 1,16% a lo largo del tiempo) recibidas para el desarrollo del país fue decayendo a partir de los 80s. Como cabía suponer, se evidencia una dominancia clara por parte de las exportaciones (con un promedio de 10,8% a lo largo de la serie) mientras que el segundo lugar -de este gráfico- fue en un primer momento para las remesas, que luego fueron superadas por la Inversión Extranjera Neta (con un promedio de 0.98% en la serie completa).",
+    "images": []
+  },
+  {
+    "i": 38,
+    "type": "p",
+    "text": "En conclusión, actualmente las remesas no representan una porción significativa y esencial del PBI Indio y mucho menos para el desarrollo en general, por lo que su economía no pareciera depender de las transferencias de los migrantes sino de otras cuestiones, como por ejemplo las exportaciones de bienes y servicios. ",
+    "images": []
+  },
+  {
+    "i": 39,
+    "type": "p",
+    "text": "",
+    "images": [
+      "media/image4.png"
+    ]
+  },
+  {
+    "i": 40,
+    "type": "p",
+    "text": "",
+    "images": []
+  },
+  {
+    "i": 41,
+    "type": "p",
+    "text": "",
+    "images": []
+  },
+  {
+    "i": 42,
+    "type": "p",
+    "text": "",
+    "images": []
+  },
+  {
+    "i": 43,
+    "type": "p",
+    "text": "",
+    "images": []
+  },
+  {
+    "i": 44,
+    "type": "p",
+    "text": "GÉNERO Y DESARROLLO",
+    "images": []
+  },
+  {
+    "i": 45,
+    "type": "p",
+    "text": "3) Buscar el Gender Inequality Index para tu país y otros con el cual compararlo. Compará y hacé un comentario respecto a su evolución en el tiempo. ",
+    "images": []
+  },
+  {
+    "i": 46,
+    "type": "p",
+    "text": "Compará entre los dos países en qué dimensiones cada país está mejor/peor para el año que aparece en la tabla. ¿Las dimensiones en las que tu país está peor, podrían mejorar con más crecimiento económico? ",
+    "images": []
+  },
+  {
+    "i": 47,
+    "type": "p",
+    "text": "",
+    "images": [
+      "media/image6.png"
+    ]
+  },
+  {
+    "i": 48,
+    "type": "p",
+    "text": "Analizando el gráfico, se ve una tendencia global negativa en el índice, lo que se traduce a una reducción mundial de la desigualdad de género.",
+    "images": []
+  },
+  {
+    "i": 49,
+    "type": "p",
+    "text": "Si bien esta tendencia demuestra avances en la integración, se evidencia que India todavía tiene un gran margen de mejora, ya que continúa siendo de los países con mayor desigualdad en el mundo, ocupando el lugar 102 en el mundo",
+    "images": []
+  },
+  {
+    "i": 50,
+    "type": "p",
+    "text": "",
+    "images": [
+      "media/image5.png"
+    ]
+  },
+  {
+    "i": 51,
+    "type": "table",
+    "rows": [
+      [
+        "Etiquetas de fila",
+        "abr",
+        "gii",
+        "gii_rank",
+        "lfpr_f",
+        "lfpr_m",
+        "mmr",
+        "pr_f",
+        "pr_m",
+        "se_f",
+        "se_m"
+      ],
+      [
+        "Argentina",
+        "26.41",
+        "0.26",
+        "70.00",
+        "53.16",
+        "72.22",
+        "44.90",
+        "43.77",
+        "56.23",
+        "74.30",
+        "72.22"
+      ],
+      [
+        "India",
+        "14.06",
+        "0.40",
+        "102.00",
+        "35.08",
+        "76.41",
+        "102.65",
+        "14.82",
+        "85.18",
+        "43.50",
+        "61.09"
+      ],
+      [
+        "United States",
+        "13.15",
+        "0.17",
+        "45.00",
+        "57.33",
+        "68.12",
+        "21.09",
+        "28.22",
+        "71.78",
+        "97.87",
+        "97.83"
+      ]
+    ]
+  },
+  {
+    "i": 52,
+    "type": "p",
+    "text": "",
+    "images": []
+  },
+  {
+    "i": 53,
+    "type": "p",
+    "text": "Si bien India se encuentra peor en cada aspecto del índice respecto de Argentina y Estados Unidos, en donde se ve mas diferencia es en el radio de mortalidad materna (mmr, donde más que duplica a Argentina y casi que quintuplica a Estados Unidos), el porcentaje de sillas del parlamento que son ocupadas por mujeres (pr_f) y en el porcentaje de mujeres de más de 25 años que terminaron el secundario (se_f).",
+    "images": []
+  },
+  {
+    "i": 54,
+    "type": "p",
+    "text": "Estos problemas no se solucionan con crecimiento, y hasta pueden incrementarse, si no que se corrigen por medio de las instituciones. Un claro ejemplo es en la comparación de Argentina contra Estados Unidos en la dimensión de pr_f, donde Argentina que es un país con menor poderío económico que Estados Unidos, tiene casi el doble de porcentaje de mujeres en el parlamento, lo cual se debe a leyes de Argentina que garantizan los puestos de mujeres",
+    "images": []
+  },
+  {
+    "i": 55,
+    "type": "sectPr",
+    "text": "",
+    "images": []
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "metodo": "Variación absoluta media anual entre observaciones vecinas; interpolación lineal interna",
+  "unidad_matricula": "%",
+  "estimaciones": [
+    {
+      "anio": 2004,
+      "matricula_bruta_primaria_estimada": 107.58131217956574,
+      "anio_anterior": 2003,
+      "anio_siguiente": 2007,
+      "variacion_media_anual_pp": 1.9163646697997514
+    },
+    {
+      "anio": 2005,
+      "matricula_bruta_primaria_estimada": 109.49767684936549,
+      "anio_anterior": 2003,
+      "anio_siguiente": 2007,
+      "variacion_media_anual_pp": 1.9163646697997514
+    },
+    {
+      "anio": 2006,
+      "matricula_bruta_primaria_estimada": 111.41404151916525,
+      "anio_anterior": 2003,
+      "anio_siguiente": 2007,
+      "variacion_media_anual_pp": 1.9163646697997514
+    }
+  ]
+}

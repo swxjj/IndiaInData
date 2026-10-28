@@ -1,0 +1,613 @@
+﻿pais;anio;variable;codigo_pnud;valor;unidad;dimension;anio_referencia_indicador;archivo_raw
+IND;1990;gii;gii;0,697;"índice 0-1; menor valor indica menor desigualdad";indice;1990;HDR25_Composite_indices_complete_time_series.csv
+IND;1990;mortalidad_materna;mmr;498,0408626;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1990;HDR25_Composite_indices_complete_time_series.csv
+IND;1990;natalidad_adolescente;abr;138,201;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1990;HDR25_Composite_indices_complete_time_series.csv
+IND;1990;bancas_parlamento_mujeres;pr_f;7,341772152;% de bancas;empoderamiento;1990;HDR25_Composite_indices_complete_time_series.csv
+IND;1990;bancas_parlamento_varones;pr_m;92,65822785;% de bancas;empoderamiento;1990;HDR25_Composite_indices_complete_time_series.csv
+IND;1990;secundaria_mujeres;se_f;14,00894771;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1990;HDR25_Composite_indices_complete_time_series.csv
+IND;1990;secundaria_varones;se_m;28,84473208;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1990;HDR25_Composite_indices_complete_time_series.csv
+IND;1990;participacion_laboral_mujeres;lfpr_f;33,71;% de mujeres de 15+;mercado_laboral;1990;HDR25_Composite_indices_complete_time_series.csv
+IND;1990;participacion_laboral_varones;lfpr_m;80,39;% de varones de 15+;mercado_laboral;1990;HDR25_Composite_indices_complete_time_series.csv
+IND;1991;gii;gii;0,698;"índice 0-1; menor valor indica menor desigualdad";indice;1991;HDR25_Composite_indices_complete_time_series.csv
+IND;1991;mortalidad_materna;mmr;486,9140522;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1991;HDR25_Composite_indices_complete_time_series.csv
+IND;1991;natalidad_adolescente;abr;141,481;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1991;HDR25_Composite_indices_complete_time_series.csv
+IND;1991;bancas_parlamento_mujeres;pr_f;7,341772152;% de bancas;empoderamiento;1991;HDR25_Composite_indices_complete_time_series.csv
+IND;1991;bancas_parlamento_varones;pr_m;92,65822785;% de bancas;empoderamiento;1991;HDR25_Composite_indices_complete_time_series.csv
+IND;1991;secundaria_mujeres;se_f;14,33599675;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1991;HDR25_Composite_indices_complete_time_series.csv
+IND;1991;secundaria_varones;se_m;30,08415416;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1991;HDR25_Composite_indices_complete_time_series.csv
+IND;1991;participacion_laboral_mujeres;lfpr_f;33,71;% de mujeres de 15+;mercado_laboral;1991;HDR25_Composite_indices_complete_time_series.csv
+IND;1991;participacion_laboral_varones;lfpr_m;80,39;% de varones de 15+;mercado_laboral;1991;HDR25_Composite_indices_complete_time_series.csv
+IND;1992;gii;gii;0,7;"índice 0-1; menor valor indica menor desigualdad";indice;1992;HDR25_Composite_indices_complete_time_series.csv
+IND;1992;mortalidad_materna;mmr;482,3313412;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1992;HDR25_Composite_indices_complete_time_series.csv
+IND;1992;natalidad_adolescente;abr;140,18;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1992;HDR25_Composite_indices_complete_time_series.csv
+IND;1992;bancas_parlamento_mujeres;pr_f;7,341772152;% de bancas;empoderamiento;1992;HDR25_Composite_indices_complete_time_series.csv
+IND;1992;bancas_parlamento_varones;pr_m;92,65822785;% de bancas;empoderamiento;1992;HDR25_Composite_indices_complete_time_series.csv
+IND;1992;secundaria_mujeres;se_f;14,66304578;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1992;HDR25_Composite_indices_complete_time_series.csv
+IND;1992;secundaria_varones;se_m;31,32357625;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1992;HDR25_Composite_indices_complete_time_series.csv
+IND;1992;participacion_laboral_mujeres;lfpr_f;32,76;% de mujeres de 15+;mercado_laboral;1992;HDR25_Composite_indices_complete_time_series.csv
+IND;1992;participacion_laboral_varones;lfpr_m;81,64;% de varones de 15+;mercado_laboral;1992;HDR25_Composite_indices_complete_time_series.csv
+IND;1993;gii;gii;0,702;"índice 0-1; menor valor indica menor desigualdad";indice;1993;HDR25_Composite_indices_complete_time_series.csv
+IND;1993;mortalidad_materna;mmr;481,8994633;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1993;HDR25_Composite_indices_complete_time_series.csv
+IND;1993;natalidad_adolescente;abr;135,353;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1993;HDR25_Composite_indices_complete_time_series.csv
+IND;1993;bancas_parlamento_mujeres;pr_f;7,341772152;% de bancas;empoderamiento;1993;HDR25_Composite_indices_complete_time_series.csv
+IND;1993;bancas_parlamento_varones;pr_m;92,65822785;% de bancas;empoderamiento;1993;HDR25_Composite_indices_complete_time_series.csv
+IND;1993;secundaria_mujeres;se_f;14,99009482;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1993;HDR25_Composite_indices_complete_time_series.csv
+IND;1993;secundaria_varones;se_m;32,56299833;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1993;HDR25_Composite_indices_complete_time_series.csv
+IND;1993;participacion_laboral_mujeres;lfpr_f;31,8;% de mujeres de 15+;mercado_laboral;1993;HDR25_Composite_indices_complete_time_series.csv
+IND;1993;participacion_laboral_varones;lfpr_m;82,88;% de varones de 15+;mercado_laboral;1993;HDR25_Composite_indices_complete_time_series.csv
+IND;1994;gii;gii;0,702;"índice 0-1; menor valor indica menor desigualdad";indice;1994;HDR25_Composite_indices_complete_time_series.csv
+IND;1994;mortalidad_materna;mmr;444,0279563;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1994;HDR25_Composite_indices_complete_time_series.csv
+IND;1994;natalidad_adolescente;abr;136,001;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1994;HDR25_Composite_indices_complete_time_series.csv
+IND;1994;bancas_parlamento_mujeres;pr_f;7,341772152;% de bancas;empoderamiento;1994;HDR25_Composite_indices_complete_time_series.csv
+IND;1994;bancas_parlamento_varones;pr_m;92,65822785;% de bancas;empoderamiento;1994;HDR25_Composite_indices_complete_time_series.csv
+IND;1994;secundaria_mujeres;se_f;15,31714386;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1994;HDR25_Composite_indices_complete_time_series.csv
+IND;1994;secundaria_varones;se_m;33,80242041;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1994;HDR25_Composite_indices_complete_time_series.csv
+IND;1994;participacion_laboral_mujeres;lfpr_f;30,85;% de mujeres de 15+;mercado_laboral;1994;HDR25_Composite_indices_complete_time_series.csv
+IND;1994;participacion_laboral_varones;lfpr_m;84,13;% de varones de 15+;mercado_laboral;1994;HDR25_Composite_indices_complete_time_series.csv
+IND;1995;gii;gii;0,702;"índice 0-1; menor valor indica menor desigualdad";indice;1995;HDR25_Composite_indices_complete_time_series.csv
+IND;1995;mortalidad_materna;mmr;439,9351299;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1995;HDR25_Composite_indices_complete_time_series.csv
+IND;1995;natalidad_adolescente;abr;134,75;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1995;HDR25_Composite_indices_complete_time_series.csv
+IND;1995;bancas_parlamento_mujeres;pr_f;7,341772152;% de bancas;empoderamiento;1995;HDR25_Composite_indices_complete_time_series.csv
+IND;1995;bancas_parlamento_varones;pr_m;92,65822785;% de bancas;empoderamiento;1995;HDR25_Composite_indices_complete_time_series.csv
+IND;1995;secundaria_mujeres;se_f;15,6441929;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1995;HDR25_Composite_indices_complete_time_series.csv
+IND;1995;secundaria_varones;se_m;35,04184249;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1995;HDR25_Composite_indices_complete_time_series.csv
+IND;1995;participacion_laboral_mujeres;lfpr_f;30,82;% de mujeres de 15+;mercado_laboral;1995;HDR25_Composite_indices_complete_time_series.csv
+IND;1995;participacion_laboral_varones;lfpr_m;83,91;% de varones de 15+;mercado_laboral;1995;HDR25_Composite_indices_complete_time_series.csv
+IND;1996;gii;gii;0,697;"índice 0-1; menor valor indica menor desigualdad";indice;1996;HDR25_Composite_indices_complete_time_series.csv
+IND;1996;mortalidad_materna;mmr;439,4931111;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1996;HDR25_Composite_indices_complete_time_series.csv
+IND;1996;natalidad_adolescente;abr;126,782;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1996;HDR25_Composite_indices_complete_time_series.csv
+IND;1996;bancas_parlamento_mujeres;pr_f;7,341772152;% de bancas;empoderamiento;1996;HDR25_Composite_indices_complete_time_series.csv
+IND;1996;bancas_parlamento_varones;pr_m;92,65822785;% de bancas;empoderamiento;1996;HDR25_Composite_indices_complete_time_series.csv
+IND;1996;secundaria_mujeres;se_f;17,41067434;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1996;HDR25_Composite_indices_complete_time_series.csv
+IND;1996;secundaria_varones;se_m;36,45807723;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1996;HDR25_Composite_indices_complete_time_series.csv
+IND;1996;participacion_laboral_mujeres;lfpr_f;30,8;% de mujeres de 15+;mercado_laboral;1996;HDR25_Composite_indices_complete_time_series.csv
+IND;1996;participacion_laboral_varones;lfpr_m;83,69;% de varones de 15+;mercado_laboral;1996;HDR25_Composite_indices_complete_time_series.csv
+IND;1997;gii;gii;0,692;"índice 0-1; menor valor indica menor desigualdad";indice;1997;HDR25_Composite_indices_complete_time_series.csv
+IND;1997;mortalidad_materna;mmr;436,3722866;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1997;HDR25_Composite_indices_complete_time_series.csv
+IND;1997;natalidad_adolescente;abr;122,581;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1997;HDR25_Composite_indices_complete_time_series.csv
+IND;1997;bancas_parlamento_mujeres;pr_f;7,341772152;% de bancas;empoderamiento;1997;HDR25_Composite_indices_complete_time_series.csv
+IND;1997;bancas_parlamento_varones;pr_m;92,65822785;% de bancas;empoderamiento;1997;HDR25_Composite_indices_complete_time_series.csv
+IND;1997;secundaria_mujeres;se_f;19,17715577;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1997;HDR25_Composite_indices_complete_time_series.csv
+IND;1997;secundaria_varones;se_m;37,87431197;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1997;HDR25_Composite_indices_complete_time_series.csv
+IND;1997;participacion_laboral_mujeres;lfpr_f;30,77;% de mujeres de 15+;mercado_laboral;1997;HDR25_Composite_indices_complete_time_series.csv
+IND;1997;participacion_laboral_varones;lfpr_m;83,47;% de varones de 15+;mercado_laboral;1997;HDR25_Composite_indices_complete_time_series.csv
+IND;1998;gii;gii;0,682;"índice 0-1; menor valor indica menor desigualdad";indice;1998;HDR25_Composite_indices_complete_time_series.csv
+IND;1998;mortalidad_materna;mmr;403,526193;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1998;HDR25_Composite_indices_complete_time_series.csv
+IND;1998;natalidad_adolescente;abr;122,611;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1998;HDR25_Composite_indices_complete_time_series.csv
+IND;1998;bancas_parlamento_mujeres;pr_f;8,256880734;% de bancas;empoderamiento;1998;HDR25_Composite_indices_complete_time_series.csv
+IND;1998;bancas_parlamento_varones;pr_m;91,74311927;% de bancas;empoderamiento;1998;HDR25_Composite_indices_complete_time_series.csv
+IND;1998;secundaria_mujeres;se_f;20,94363721;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1998;HDR25_Composite_indices_complete_time_series.csv
+IND;1998;secundaria_varones;se_m;39,29054672;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1998;HDR25_Composite_indices_complete_time_series.csv
+IND;1998;participacion_laboral_mujeres;lfpr_f;30,75;% de mujeres de 15+;mercado_laboral;1998;HDR25_Composite_indices_complete_time_series.csv
+IND;1998;participacion_laboral_varones;lfpr_m;83,25;% de varones de 15+;mercado_laboral;1998;HDR25_Composite_indices_complete_time_series.csv
+IND;1999;gii;gii;0,676;"índice 0-1; menor valor indica menor desigualdad";indice;1999;HDR25_Composite_indices_complete_time_series.csv
+IND;1999;mortalidad_materna;mmr;398,9904787;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1999;HDR25_Composite_indices_complete_time_series.csv
+IND;1999;natalidad_adolescente;abr;116,902;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1999;HDR25_Composite_indices_complete_time_series.csv
+IND;1999;bancas_parlamento_mujeres;pr_f;8,496732026;% de bancas;empoderamiento;1999;HDR25_Composite_indices_complete_time_series.csv
+IND;1999;bancas_parlamento_varones;pr_m;91,50326797;% de bancas;empoderamiento;1999;HDR25_Composite_indices_complete_time_series.csv
+IND;1999;secundaria_mujeres;se_f;22,71011865;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1999;HDR25_Composite_indices_complete_time_series.csv
+IND;1999;secundaria_varones;se_m;40,70678146;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1999;HDR25_Composite_indices_complete_time_series.csv
+IND;1999;participacion_laboral_mujeres;lfpr_f;30,72;% de mujeres de 15+;mercado_laboral;1999;HDR25_Composite_indices_complete_time_series.csv
+IND;1999;participacion_laboral_varones;lfpr_m;83,03;% de varones de 15+;mercado_laboral;1999;HDR25_Composite_indices_complete_time_series.csv
+IND;2000;gii;gii;0,671;"índice 0-1; menor valor indica menor desigualdad";indice;2000;HDR25_Composite_indices_complete_time_series.csv
+IND;2000;mortalidad_materna;mmr;384,4476646;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2000;HDR25_Composite_indices_complete_time_series.csv
+IND;2000;natalidad_adolescente;abr;114,352;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2000;HDR25_Composite_indices_complete_time_series.csv
+IND;2000;bancas_parlamento_mujeres;pr_f;8,496732026;% de bancas;empoderamiento;2000;HDR25_Composite_indices_complete_time_series.csv
+IND;2000;bancas_parlamento_varones;pr_m;91,50326797;% de bancas;empoderamiento;2000;HDR25_Composite_indices_complete_time_series.csv
+IND;2000;secundaria_mujeres;se_f;24,47660008;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2000;HDR25_Composite_indices_complete_time_series.csv
+IND;2000;secundaria_varones;se_m;42,1230162;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2000;HDR25_Composite_indices_complete_time_series.csv
+IND;2000;participacion_laboral_mujeres;lfpr_f;30,69;% de mujeres de 15+;mercado_laboral;2000;HDR25_Composite_indices_complete_time_series.csv
+IND;2000;participacion_laboral_varones;lfpr_m;82,81;% de varones de 15+;mercado_laboral;2000;HDR25_Composite_indices_complete_time_series.csv
+IND;2001;gii;gii;0,65;"índice 0-1; menor valor indica menor desigualdad";indice;2001;HDR25_Composite_indices_complete_time_series.csv
+IND;2001;mortalidad_materna;mmr;371,2745673;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2001;HDR25_Composite_indices_complete_time_series.csv
+IND;2001;natalidad_adolescente;abr;112,043;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2001;HDR25_Composite_indices_complete_time_series.csv
+IND;2001;bancas_parlamento_mujeres;pr_f;8,917197452;% de bancas;empoderamiento;2001;HDR25_Composite_indices_complete_time_series.csv
+IND;2001;bancas_parlamento_varones;pr_m;91,08280255;% de bancas;empoderamiento;2001;HDR25_Composite_indices_complete_time_series.csv
+IND;2001;secundaria_mujeres;se_f;24,12663678;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2001;HDR25_Composite_indices_complete_time_series.csv
+IND;2001;secundaria_varones;se_m;42,77306275;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2001;HDR25_Composite_indices_complete_time_series.csv
+IND;2001;participacion_laboral_mujeres;lfpr_f;37,71;% de mujeres de 15+;mercado_laboral;2001;HDR25_Composite_indices_complete_time_series.csv
+IND;2001;participacion_laboral_varones;lfpr_m;78,45;% de varones de 15+;mercado_laboral;2001;HDR25_Composite_indices_complete_time_series.csv
+IND;2002;gii;gii;0,643;"índice 0-1; menor valor indica menor desigualdad";indice;2002;HDR25_Composite_indices_complete_time_series.csv
+IND;2002;mortalidad_materna;mmr;329,4448545;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2002;HDR25_Composite_indices_complete_time_series.csv
+IND;2002;natalidad_adolescente;abr;105,119;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2002;HDR25_Composite_indices_complete_time_series.csv
+IND;2002;bancas_parlamento_mujeres;pr_f;8,917197452;% de bancas;empoderamiento;2002;HDR25_Composite_indices_complete_time_series.csv
+IND;2002;bancas_parlamento_varones;pr_m;91,08280255;% de bancas;empoderamiento;2002;HDR25_Composite_indices_complete_time_series.csv
+IND;2002;secundaria_mujeres;se_f;23,77667347;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2002;HDR25_Composite_indices_complete_time_series.csv
+IND;2002;secundaria_varones;se_m;43,42310929;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2002;HDR25_Composite_indices_complete_time_series.csv
+IND;2002;participacion_laboral_mujeres;lfpr_f;37,56;% de mujeres de 15+;mercado_laboral;2002;HDR25_Composite_indices_complete_time_series.csv
+IND;2002;participacion_laboral_varones;lfpr_m;79,53;% de varones de 15+;mercado_laboral;2002;HDR25_Composite_indices_complete_time_series.csv
+IND;2003;gii;gii;0,637;"índice 0-1; menor valor indica menor desigualdad";indice;2003;HDR25_Composite_indices_complete_time_series.csv
+IND;2003;mortalidad_materna;mmr;315,3761347;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2003;HDR25_Composite_indices_complete_time_series.csv
+IND;2003;natalidad_adolescente;abr;97,366;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2003;HDR25_Composite_indices_complete_time_series.csv
+IND;2003;bancas_parlamento_mujeres;pr_f;9,299363057;% de bancas;empoderamiento;2003;HDR25_Composite_indices_complete_time_series.csv
+IND;2003;bancas_parlamento_varones;pr_m;90,70063694;% de bancas;empoderamiento;2003;HDR25_Composite_indices_complete_time_series.csv
+IND;2003;secundaria_mujeres;se_f;23,42671017;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2003;HDR25_Composite_indices_complete_time_series.csv
+IND;2003;secundaria_varones;se_m;44,07315584;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2003;HDR25_Composite_indices_complete_time_series.csv
+IND;2003;participacion_laboral_mujeres;lfpr_f;37,42;% de mujeres de 15+;mercado_laboral;2003;HDR25_Composite_indices_complete_time_series.csv
+IND;2003;participacion_laboral_varones;lfpr_m;80,6;% de varones de 15+;mercado_laboral;2003;HDR25_Composite_indices_complete_time_series.csv
+IND;2004;gii;gii;0,629;"índice 0-1; menor valor indica menor desigualdad";indice;2004;HDR25_Composite_indices_complete_time_series.csv
+IND;2004;mortalidad_materna;mmr;301,2532784;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2004;HDR25_Composite_indices_complete_time_series.csv
+IND;2004;natalidad_adolescente;abr;83,5;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2004;HDR25_Composite_indices_complete_time_series.csv
+IND;2004;bancas_parlamento_mujeres;pr_f;9,275730623;% de bancas;empoderamiento;2004;HDR25_Composite_indices_complete_time_series.csv
+IND;2004;bancas_parlamento_varones;pr_m;90,72426938;% de bancas;empoderamiento;2004;HDR25_Composite_indices_complete_time_series.csv
+IND;2004;secundaria_mujeres;se_f;23,07674687;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2004;HDR25_Composite_indices_complete_time_series.csv
+IND;2004;secundaria_varones;se_m;44,72320239;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2004;HDR25_Composite_indices_complete_time_series.csv
+IND;2004;participacion_laboral_mujeres;lfpr_f;37,27;% de mujeres de 15+;mercado_laboral;2004;HDR25_Composite_indices_complete_time_series.csv
+IND;2004;participacion_laboral_varones;lfpr_m;81,68;% de varones de 15+;mercado_laboral;2004;HDR25_Composite_indices_complete_time_series.csv
+IND;2005;gii;gii;0,615;"índice 0-1; menor valor indica menor desigualdad";indice;2005;HDR25_Composite_indices_complete_time_series.csv
+IND;2005;mortalidad_materna;mmr;285,730576;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2005;HDR25_Composite_indices_complete_time_series.csv
+IND;2005;natalidad_adolescente;abr;64,678;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2005;HDR25_Composite_indices_complete_time_series.csv
+IND;2005;bancas_parlamento_mujeres;pr_f;9,299363057;% de bancas;empoderamiento;2005;HDR25_Composite_indices_complete_time_series.csv
+IND;2005;bancas_parlamento_varones;pr_m;90,70063694;% de bancas;empoderamiento;2005;HDR25_Composite_indices_complete_time_series.csv
+IND;2005;secundaria_mujeres;se_f;22,72678356;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2005;HDR25_Composite_indices_complete_time_series.csv
+IND;2005;secundaria_varones;se_m;45,37324893;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2005;HDR25_Composite_indices_complete_time_series.csv
+IND;2005;participacion_laboral_mujeres;lfpr_f;37,12;% de mujeres de 15+;mercado_laboral;2005;HDR25_Composite_indices_complete_time_series.csv
+IND;2005;participacion_laboral_varones;lfpr_m;82,75;% de varones de 15+;mercado_laboral;2005;HDR25_Composite_indices_complete_time_series.csv
+IND;2006;gii;gii;0,601;"índice 0-1; menor valor indica menor desigualdad";indice;2006;HDR25_Composite_indices_complete_time_series.csv
+IND;2006;mortalidad_materna;mmr;248,1677935;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2006;HDR25_Composite_indices_complete_time_series.csv
+IND;2006;natalidad_adolescente;abr;55,76;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2006;HDR25_Composite_indices_complete_time_series.csv
+IND;2006;bancas_parlamento_mujeres;pr_f;9,021601017;% de bancas;empoderamiento;2006;HDR25_Composite_indices_complete_time_series.csv
+IND;2006;bancas_parlamento_varones;pr_m;90,97839898;% de bancas;empoderamiento;2006;HDR25_Composite_indices_complete_time_series.csv
+IND;2006;secundaria_mujeres;se_f;23,81416954;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2006;HDR25_Composite_indices_complete_time_series.csv
+IND;2006;secundaria_varones;se_m;46,11343527;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2006;HDR25_Composite_indices_complete_time_series.csv
+IND;2006;participacion_laboral_mujeres;lfpr_f;35,48;% de mujeres de 15+;mercado_laboral;2006;HDR25_Composite_indices_complete_time_series.csv
+IND;2006;participacion_laboral_varones;lfpr_m;82,13;% de varones de 15+;mercado_laboral;2006;HDR25_Composite_indices_complete_time_series.csv
+IND;2007;gii;gii;0,594;"índice 0-1; menor valor indica menor desigualdad";indice;2007;HDR25_Composite_indices_complete_time_series.csv
+IND;2007;mortalidad_materna;mmr;233,9841763;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2007;HDR25_Composite_indices_complete_time_series.csv
+IND;2007;natalidad_adolescente;abr;51,987;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2007;HDR25_Composite_indices_complete_time_series.csv
+IND;2007;bancas_parlamento_mujeres;pr_f;9,31122449;% de bancas;empoderamiento;2007;HDR25_Composite_indices_complete_time_series.csv
+IND;2007;bancas_parlamento_varones;pr_m;90,68877551;% de bancas;empoderamiento;2007;HDR25_Composite_indices_complete_time_series.csv
+IND;2007;secundaria_mujeres;se_f;24,90155552;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2007;HDR25_Composite_indices_complete_time_series.csv
+IND;2007;secundaria_varones;se_m;46,8536216;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2007;HDR25_Composite_indices_complete_time_series.csv
+IND;2007;participacion_laboral_mujeres;lfpr_f;33,83;% de mujeres de 15+;mercado_laboral;2007;HDR25_Composite_indices_complete_time_series.csv
+IND;2007;participacion_laboral_varones;lfpr_m;81,5;% de varones de 15+;mercado_laboral;2007;HDR25_Composite_indices_complete_time_series.csv
+IND;2008;gii;gii;0,596;"índice 0-1; menor valor indica menor desigualdad";indice;2008;HDR25_Composite_indices_complete_time_series.csv
+IND;2008;mortalidad_materna;mmr;220,5202651;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2008;HDR25_Composite_indices_complete_time_series.csv
+IND;2008;natalidad_adolescente;abr;54,289;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2008;HDR25_Composite_indices_complete_time_series.csv
+IND;2008;bancas_parlamento_mujeres;pr_f;9,183673469;% de bancas;empoderamiento;2008;HDR25_Composite_indices_complete_time_series.csv
+IND;2008;bancas_parlamento_varones;pr_m;90,81632653;% de bancas;empoderamiento;2008;HDR25_Composite_indices_complete_time_series.csv
+IND;2008;secundaria_mujeres;se_f;25,9889415;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2008;HDR25_Composite_indices_complete_time_series.csv
+IND;2008;secundaria_varones;se_m;47,59380793;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2008;HDR25_Composite_indices_complete_time_series.csv
+IND;2008;participacion_laboral_mujeres;lfpr_f;32,19;% de mujeres de 15+;mercado_laboral;2008;HDR25_Composite_indices_complete_time_series.csv
+IND;2008;participacion_laboral_varones;lfpr_m;80,88;% de varones de 15+;mercado_laboral;2008;HDR25_Composite_indices_complete_time_series.csv
+IND;2009;gii;gii;0,58;"índice 0-1; menor valor indica menor desigualdad";indice;2009;HDR25_Composite_indices_complete_time_series.csv
+IND;2009;mortalidad_materna;mmr;207,0981481;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2009;HDR25_Composite_indices_complete_time_series.csv
+IND;2009;natalidad_adolescente;abr;46,696;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2009;HDR25_Composite_indices_complete_time_series.csv
+IND;2009;bancas_parlamento_mujeres;pr_f;10,28277635;% de bancas;empoderamiento;2009;HDR25_Composite_indices_complete_time_series.csv
+IND;2009;bancas_parlamento_varones;pr_m;89,71722365;% de bancas;empoderamiento;2009;HDR25_Composite_indices_complete_time_series.csv
+IND;2009;secundaria_mujeres;se_f;27,07632748;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2009;HDR25_Composite_indices_complete_time_series.csv
+IND;2009;secundaria_varones;se_m;48,33399427;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2009;HDR25_Composite_indices_complete_time_series.csv
+IND;2009;participacion_laboral_mujeres;lfpr_f;30,54;% de mujeres de 15+;mercado_laboral;2009;HDR25_Composite_indices_complete_time_series.csv
+IND;2009;participacion_laboral_varones;lfpr_m;80,25;% de varones de 15+;mercado_laboral;2009;HDR25_Composite_indices_complete_time_series.csv
+IND;2010;gii;gii;0,566;"índice 0-1; menor valor indica menor desigualdad";indice;2010;HDR25_Composite_indices_complete_time_series.csv
+IND;2010;mortalidad_materna;mmr;178,681569;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2010;HDR25_Composite_indices_complete_time_series.csv
+IND;2010;natalidad_adolescente;abr;41,719;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2010;HDR25_Composite_indices_complete_time_series.csv
+IND;2010;bancas_parlamento_mujeres;pr_f;10,67344346;% de bancas;empoderamiento;2010;HDR25_Composite_indices_complete_time_series.csv
+IND;2010;bancas_parlamento_varones;pr_m;89,32655654;% de bancas;empoderamiento;2010;HDR25_Composite_indices_complete_time_series.csv
+IND;2010;secundaria_mujeres;se_f;28,16371346;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2010;HDR25_Composite_indices_complete_time_series.csv
+IND;2010;secundaria_varones;se_m;49,0741806;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2010;HDR25_Composite_indices_complete_time_series.csv
+IND;2010;participacion_laboral_mujeres;lfpr_f;28,9;% de mujeres de 15+;mercado_laboral;2010;HDR25_Composite_indices_complete_time_series.csv
+IND;2010;participacion_laboral_varones;lfpr_m;79,63;% de varones de 15+;mercado_laboral;2010;HDR25_Composite_indices_complete_time_series.csv
+IND;2011;gii;gii;0,561;"índice 0-1; menor valor indica menor desigualdad";indice;2011;HDR25_Composite_indices_complete_time_series.csv
+IND;2011;mortalidad_materna;mmr;169,9039213;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2011;HDR25_Composite_indices_complete_time_series.csv
+IND;2011;natalidad_adolescente;abr;40,795;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2011;HDR25_Composite_indices_complete_time_series.csv
+IND;2011;bancas_parlamento_mujeres;pr_f;10,91370558;% de bancas;empoderamiento;2011;HDR25_Composite_indices_complete_time_series.csv
+IND;2011;bancas_parlamento_varones;pr_m;89,08629442;% de bancas;empoderamiento;2011;HDR25_Composite_indices_complete_time_series.csv
+IND;2011;secundaria_mujeres;se_f;27,75;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2011;HDR25_Composite_indices_complete_time_series.csv
+IND;2011;secundaria_varones;se_m;47,13000107;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2011;HDR25_Composite_indices_complete_time_series.csv
+IND;2011;participacion_laboral_mujeres;lfpr_f;28,08;% de mujeres de 15+;mercado_laboral;2011;HDR25_Composite_indices_complete_time_series.csv
+IND;2011;participacion_laboral_varones;lfpr_m;79,25;% de varones de 15+;mercado_laboral;2011;HDR25_Composite_indices_complete_time_series.csv
+IND;2012;gii;gii;0,557;"índice 0-1; menor valor indica menor desigualdad";indice;2012;HDR25_Composite_indices_complete_time_series.csv
+IND;2012;mortalidad_materna;mmr;161,7564834;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2012;HDR25_Composite_indices_complete_time_series.csv
+IND;2012;natalidad_adolescente;abr;39,533;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2012;HDR25_Composite_indices_complete_time_series.csv
+IND;2012;bancas_parlamento_mujeres;pr_f;10,88607595;% de bancas;empoderamiento;2012;HDR25_Composite_indices_complete_time_series.csv
+IND;2012;bancas_parlamento_varones;pr_m;89,11392405;% de bancas;empoderamiento;2012;HDR25_Composite_indices_complete_time_series.csv
+IND;2012;secundaria_mujeres;se_f;30,45625877;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2012;HDR25_Composite_indices_complete_time_series.csv
+IND;2012;secundaria_varones;se_m;50,26702118;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2012;HDR25_Composite_indices_complete_time_series.csv
+IND;2012;participacion_laboral_mujeres;lfpr_f;27,25;% de mujeres de 15+;mercado_laboral;2012;HDR25_Composite_indices_complete_time_series.csv
+IND;2012;participacion_laboral_varones;lfpr_m;78,86;% de varones de 15+;mercado_laboral;2012;HDR25_Composite_indices_complete_time_series.csv
+IND;2013;gii;gii;0,55;"índice 0-1; menor valor indica menor desigualdad";indice;2013;HDR25_Composite_indices_complete_time_series.csv
+IND;2013;mortalidad_materna;mmr;154,244761;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2013;HDR25_Composite_indices_complete_time_series.csv
+IND;2013;natalidad_adolescente;abr;35,326;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2013;HDR25_Composite_indices_complete_time_series.csv
+IND;2013;bancas_parlamento_mujeres;pr_f;10,88607595;% de bancas;empoderamiento;2013;HDR25_Composite_indices_complete_time_series.csv
+IND;2013;bancas_parlamento_varones;pr_m;89,11392405;% de bancas;empoderamiento;2013;HDR25_Composite_indices_complete_time_series.csv
+IND;2013;secundaria_mujeres;se_f;30,71094179;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2013;HDR25_Composite_indices_complete_time_series.csv
+IND;2013;secundaria_varones;se_m;50,94257069;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2013;HDR25_Composite_indices_complete_time_series.csv
+IND;2013;participacion_laboral_mujeres;lfpr_f;26,17;% de mujeres de 15+;mercado_laboral;2013;HDR25_Composite_indices_complete_time_series.csv
+IND;2013;participacion_laboral_varones;lfpr_m;78,03;% de varones de 15+;mercado_laboral;2013;HDR25_Composite_indices_complete_time_series.csv
+IND;2014;gii;gii;0,528;"índice 0-1; menor valor indica menor desigualdad";indice;2014;HDR25_Composite_indices_complete_time_series.csv
+IND;2014;mortalidad_materna;mmr;134,8580637;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2014;HDR25_Composite_indices_complete_time_series.csv
+IND;2014;natalidad_adolescente;abr;28,806;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2014;HDR25_Composite_indices_complete_time_series.csv
+IND;2014;bancas_parlamento_mujeres;pr_f;11,83206107;% de bancas;empoderamiento;2014;HDR25_Composite_indices_complete_time_series.csv
+IND;2014;bancas_parlamento_varones;pr_m;88,16793893;% de bancas;empoderamiento;2014;HDR25_Composite_indices_complete_time_series.csv
+IND;2014;secundaria_mujeres;se_f;30,96562481;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2014;HDR25_Composite_indices_complete_time_series.csv
+IND;2014;secundaria_varones;se_m;51,61812019;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2014;HDR25_Composite_indices_complete_time_series.csv
+IND;2014;participacion_laboral_mujeres;lfpr_f;25,08;% de mujeres de 15+;mercado_laboral;2014;HDR25_Composite_indices_complete_time_series.csv
+IND;2014;participacion_laboral_varones;lfpr_m;77,19;% de varones de 15+;mercado_laboral;2014;HDR25_Composite_indices_complete_time_series.csv
+IND;2015;gii;gii;0,496;"índice 0-1; menor valor indica menor desigualdad";indice;2015;HDR25_Composite_indices_complete_time_series.csv
+IND;2015;mortalidad_materna;mmr;127,6755829;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2015;HDR25_Composite_indices_complete_time_series.csv
+IND;2015;natalidad_adolescente;abr;18,194;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2015;HDR25_Composite_indices_complete_time_series.csv
+IND;2015;bancas_parlamento_mujeres;pr_f;12,21374046;% de bancas;empoderamiento;2015;HDR25_Composite_indices_complete_time_series.csv
+IND;2015;bancas_parlamento_varones;pr_m;87,78625954;% de bancas;empoderamiento;2015;HDR25_Composite_indices_complete_time_series.csv
+IND;2015;secundaria_mujeres;se_f;31,22030783;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2015;HDR25_Composite_indices_complete_time_series.csv
+IND;2015;secundaria_varones;se_m;52,2936697;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2015;HDR25_Composite_indices_complete_time_series.csv
+IND;2015;participacion_laboral_mujeres;lfpr_f;24,0;% de mujeres de 15+;mercado_laboral;2015;HDR25_Composite_indices_complete_time_series.csv
+IND;2015;participacion_laboral_varones;lfpr_m;76,36;% de varones de 15+;mercado_laboral;2015;HDR25_Composite_indices_complete_time_series.csv
+IND;2016;gii;gii;0,484;"índice 0-1; menor valor indica menor desigualdad";indice;2016;HDR25_Composite_indices_complete_time_series.csv
+IND;2016;mortalidad_materna;mmr;121,1690727;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2016;HDR25_Composite_indices_complete_time_series.csv
+IND;2016;natalidad_adolescente;abr;14,535;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2016;HDR25_Composite_indices_complete_time_series.csv
+IND;2016;bancas_parlamento_mujeres;pr_f;11,68996188;% de bancas;empoderamiento;2016;HDR25_Composite_indices_complete_time_series.csv
+IND;2016;bancas_parlamento_varones;pr_m;88,31003812;% de bancas;empoderamiento;2016;HDR25_Composite_indices_complete_time_series.csv
+IND;2016;secundaria_mujeres;se_f;31,47499084;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2016;HDR25_Composite_indices_complete_time_series.csv
+IND;2016;secundaria_varones;se_m;52,96921921;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2016;HDR25_Composite_indices_complete_time_series.csv
+IND;2016;participacion_laboral_mujeres;lfpr_f;22,91;% de mujeres de 15+;mercado_laboral;2016;HDR25_Composite_indices_complete_time_series.csv
+IND;2016;participacion_laboral_varones;lfpr_m;75,53;% de varones de 15+;mercado_laboral;2016;HDR25_Composite_indices_complete_time_series.csv
+IND;2017;gii;gii;0,488;"índice 0-1; menor valor indica menor desigualdad";indice;2017;HDR25_Composite_indices_complete_time_series.csv
+IND;2017;mortalidad_materna;mmr;118,6610871;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2017;HDR25_Composite_indices_complete_time_series.csv
+IND;2017;natalidad_adolescente;abr;15,166;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2017;HDR25_Composite_indices_complete_time_series.csv
+IND;2017;bancas_parlamento_mujeres;pr_f;11,57760814;% de bancas;empoderamiento;2017;HDR25_Composite_indices_complete_time_series.csv
+IND;2017;bancas_parlamento_varones;pr_m;88,42239186;% de bancas;empoderamiento;2017;HDR25_Composite_indices_complete_time_series.csv
+IND;2017;secundaria_mujeres;se_f;33,94749451;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2017;HDR25_Composite_indices_complete_time_series.csv
+IND;2017;secundaria_varones;se_m;54,33460999;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2017;HDR25_Composite_indices_complete_time_series.csv
+IND;2017;participacion_laboral_mujeres;lfpr_f;21,83;% de mujeres de 15+;mercado_laboral;2017;HDR25_Composite_indices_complete_time_series.csv
+IND;2017;participacion_laboral_varones;lfpr_m;74,69;% de varones de 15+;mercado_laboral;2017;HDR25_Composite_indices_complete_time_series.csv
+IND;2018;gii;gii;0,487;"índice 0-1; menor valor indica menor desigualdad";indice;2018;HDR25_Composite_indices_complete_time_series.csv
+IND;2018;mortalidad_materna;mmr;115,7111965;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2018;HDR25_Composite_indices_complete_time_series.csv
+IND;2018;natalidad_adolescente;abr;15,133;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2018;HDR25_Composite_indices_complete_time_series.csv
+IND;2018;bancas_parlamento_mujeres;pr_f;11,68164313;% de bancas;empoderamiento;2018;HDR25_Composite_indices_complete_time_series.csv
+IND;2018;bancas_parlamento_varones;pr_m;88,31835687;% de bancas;empoderamiento;2018;HDR25_Composite_indices_complete_time_series.csv
+IND;2018;secundaria_mujeres;se_f;36,41999817;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2018;HDR25_Composite_indices_complete_time_series.csv
+IND;2018;secundaria_varones;se_m;55,70000076;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2018;HDR25_Composite_indices_complete_time_series.csv
+IND;2018;participacion_laboral_mujeres;lfpr_f;20,75;% de mujeres de 15+;mercado_laboral;2018;HDR25_Composite_indices_complete_time_series.csv
+IND;2018;participacion_laboral_varones;lfpr_m;73,86;% de varones de 15+;mercado_laboral;2018;HDR25_Composite_indices_complete_time_series.csv
+IND;2019;gii;gii;0,464;"índice 0-1; menor valor indica menor desigualdad";indice;2019;HDR25_Composite_indices_complete_time_series.csv
+IND;2019;mortalidad_materna;mmr;116,3893822;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2019;HDR25_Composite_indices_complete_time_series.csv
+IND;2019;natalidad_adolescente;abr;14,796;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2019;HDR25_Composite_indices_complete_time_series.csv
+IND;2019;bancas_parlamento_mujeres;pr_f;13,48600509;% de bancas;empoderamiento;2019;HDR25_Composite_indices_complete_time_series.csv
+IND;2019;bancas_parlamento_varones;pr_m;86,51399491;% de bancas;empoderamiento;2019;HDR25_Composite_indices_complete_time_series.csv
+IND;2019;secundaria_mujeres;se_f;36,14796829;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2019;HDR25_Composite_indices_complete_time_series.csv
+IND;2019;secundaria_varones;se_m;56,57022095;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2019;HDR25_Composite_indices_complete_time_series.csv
+IND;2019;participacion_laboral_mujeres;lfpr_f;24,04;% de mujeres de 15+;mercado_laboral;2019;HDR25_Composite_indices_complete_time_series.csv
+IND;2019;participacion_laboral_varones;lfpr_m;74,56;% de varones de 15+;mercado_laboral;2019;HDR25_Composite_indices_complete_time_series.csv
+IND;2020;gii;gii;0,441;"índice 0-1; menor valor indica menor desigualdad";indice;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2020;mortalidad_materna;mmr;102,653912;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2020;natalidad_adolescente;abr;14,423;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2020;bancas_parlamento_mujeres;pr_f;13,39285714;% de bancas;empoderamiento;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2020;bancas_parlamento_varones;pr_m;86,60714286;% de bancas;empoderamiento;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2020;secundaria_mujeres;se_f;40,06999969;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2020;secundaria_varones;se_m;58,75999832;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2020;participacion_laboral_mujeres;lfpr_f;26,17;% de mujeres de 15+;mercado_laboral;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2020;participacion_laboral_varones;lfpr_m;74,25;% de varones de 15+;mercado_laboral;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2021;gii;gii;0,438;"índice 0-1; menor valor indica menor desigualdad";indice;2021;HDR25_Composite_indices_complete_time_series.csv
+IND;2021;mortalidad_materna;mmr;102,653912;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2021;natalidad_adolescente;abr;14,289;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2021;HDR25_Composite_indices_complete_time_series.csv
+IND;2021;bancas_parlamento_mujeres;pr_f;13,44430218;% de bancas;empoderamiento;2021;HDR25_Composite_indices_complete_time_series.csv
+IND;2021;bancas_parlamento_varones;pr_m;86,55569782;% de bancas;empoderamiento;2021;HDR25_Composite_indices_complete_time_series.csv
+IND;2021;secundaria_mujeres;se_f;41,2036438;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2021;HDR25_Composite_indices_complete_time_series.csv
+IND;2021;secundaria_varones;se_m;60,50924301;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2021;HDR25_Composite_indices_complete_time_series.csv
+IND;2021;participacion_laboral_mujeres;lfpr_f;27,04;% de mujeres de 15+;mercado_laboral;2021;HDR25_Composite_indices_complete_time_series.csv
+IND;2021;participacion_laboral_varones;lfpr_m;75,1;% de varones de 15+;mercado_laboral;2021;HDR25_Composite_indices_complete_time_series.csv
+IND;2022;gii;gii;0,427;"índice 0-1; menor valor indica menor desigualdad";indice;2022;HDR25_Composite_indices_complete_time_series.csv
+IND;2022;mortalidad_materna;mmr;102,653912;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2022;natalidad_adolescente;abr;14,185;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2022;HDR25_Composite_indices_complete_time_series.csv
+IND;2022;bancas_parlamento_mujeres;pr_f;14,63414634;% de bancas;empoderamiento;2022;HDR25_Composite_indices_complete_time_series.csv
+IND;2022;bancas_parlamento_varones;pr_m;85,36585366;% de bancas;empoderamiento;2022;HDR25_Composite_indices_complete_time_series.csv
+IND;2022;secundaria_mujeres;se_f;40,95999908;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2022;HDR25_Composite_indices_complete_time_series.csv
+IND;2022;secundaria_varones;se_m;58,65999985;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2022;HDR25_Composite_indices_complete_time_series.csv
+IND;2022;participacion_laboral_mujeres;lfpr_f;28,26;% de mujeres de 15+;mercado_laboral;2022;HDR25_Composite_indices_complete_time_series.csv
+IND;2022;participacion_laboral_varones;lfpr_m;76,14;% de varones de 15+;mercado_laboral;2022;HDR25_Composite_indices_complete_time_series.csv
+IND;2023;gii;gii;0,403;"índice 0-1; menor valor indica menor desigualdad";indice;2023;HDR25_Composite_indices_complete_time_series.csv
+IND;2023;mortalidad_materna;mmr;102,653912;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2020;HDR25_Composite_indices_complete_time_series.csv
+IND;2023;natalidad_adolescente;abr;14,06;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2023;HDR25_Composite_indices_complete_time_series.csv
+IND;2023;bancas_parlamento_mujeres;pr_f;14,81958763;% de bancas;empoderamiento;2023;HDR25_Composite_indices_complete_time_series.csv
+IND;2023;bancas_parlamento_varones;pr_m;85,18041237;% de bancas;empoderamiento;2023;HDR25_Composite_indices_complete_time_series.csv
+IND;2023;secundaria_mujeres;se_f;43,5;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2023;HDR25_Composite_indices_complete_time_series.csv
+IND;2023;secundaria_varones;se_m;61,09000015;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2023;HDR25_Composite_indices_complete_time_series.csv
+IND;2023;participacion_laboral_mujeres;lfpr_f;35,08;% de mujeres de 15+;mercado_laboral;2023;HDR25_Composite_indices_complete_time_series.csv
+IND;2023;participacion_laboral_varones;lfpr_m;76,41;% de varones de 15+;mercado_laboral;2023;HDR25_Composite_indices_complete_time_series.csv
+USA;1990;gii;gii;0,289;"índice 0-1; menor valor indica menor desigualdad";indice;1990;HDR25_Composite_indices_complete_time_series.csv
+USA;1990;mortalidad_materna;mmr;10,03986241;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1990;HDR25_Composite_indices_complete_time_series.csv
+USA;1990;natalidad_adolescente;abr;61,513;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1990;HDR25_Composite_indices_complete_time_series.csv
+USA;1990;bancas_parlamento_mujeres;pr_f;11,21495327;% de bancas;empoderamiento;1990;HDR25_Composite_indices_complete_time_series.csv
+USA;1990;bancas_parlamento_varones;pr_m;88,78504673;% de bancas;empoderamiento;1990;HDR25_Composite_indices_complete_time_series.csv
+USA;1990;secundaria_mujeres;se_f;90,87285891;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1990;HDR25_Composite_indices_complete_time_series.csv
+USA;1990;secundaria_varones;se_m;81,47637961;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1990;HDR25_Composite_indices_complete_time_series.csv
+USA;1990;participacion_laboral_mujeres;lfpr_f;57,5;% de mujeres de 15+;mercado_laboral;1990;HDR25_Composite_indices_complete_time_series.csv
+USA;1990;participacion_laboral_varones;lfpr_m;76,4;% de varones de 15+;mercado_laboral;1990;HDR25_Composite_indices_complete_time_series.csv
+USA;1991;gii;gii;0,292;"índice 0-1; menor valor indica menor desigualdad";indice;1991;HDR25_Composite_indices_complete_time_series.csv
+USA;1991;mortalidad_materna;mmr;10,27381882;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1991;HDR25_Composite_indices_complete_time_series.csv
+USA;1991;natalidad_adolescente;abr;61,656;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1991;HDR25_Composite_indices_complete_time_series.csv
+USA;1991;bancas_parlamento_mujeres;pr_f;11,21495327;% de bancas;empoderamiento;1991;HDR25_Composite_indices_complete_time_series.csv
+USA;1991;bancas_parlamento_varones;pr_m;88,78504673;% de bancas;empoderamiento;1991;HDR25_Composite_indices_complete_time_series.csv
+USA;1991;secundaria_mujeres;se_f;90,99464434;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1991;HDR25_Composite_indices_complete_time_series.csv
+USA;1991;secundaria_varones;se_m;83,85228554;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1991;HDR25_Composite_indices_complete_time_series.csv
+USA;1991;participacion_laboral_mujeres;lfpr_f;57,4;% de mujeres de 15+;mercado_laboral;1991;HDR25_Composite_indices_complete_time_series.csv
+USA;1991;participacion_laboral_varones;lfpr_m;75,8;% de varones de 15+;mercado_laboral;1991;HDR25_Composite_indices_complete_time_series.csv
+USA;1992;gii;gii;0,291;"índice 0-1; menor valor indica menor desigualdad";indice;1992;HDR25_Composite_indices_complete_time_series.csv
+USA;1992;mortalidad_materna;mmr;10,29962071;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1992;HDR25_Composite_indices_complete_time_series.csv
+USA;1992;natalidad_adolescente;abr;59,872;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1992;HDR25_Composite_indices_complete_time_series.csv
+USA;1992;bancas_parlamento_mujeres;pr_f;11,21495327;% de bancas;empoderamiento;1992;HDR25_Composite_indices_complete_time_series.csv
+USA;1992;bancas_parlamento_varones;pr_m;88,78504673;% de bancas;empoderamiento;1992;HDR25_Composite_indices_complete_time_series.csv
+USA;1992;secundaria_mujeres;se_f;91,11642976;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1992;HDR25_Composite_indices_complete_time_series.csv
+USA;1992;secundaria_varones;se_m;86,22819148;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1992;HDR25_Composite_indices_complete_time_series.csv
+USA;1992;participacion_laboral_mujeres;lfpr_f;57,8;% de mujeres de 15+;mercado_laboral;1992;HDR25_Composite_indices_complete_time_series.csv
+USA;1992;participacion_laboral_varones;lfpr_m;75,8;% de varones de 15+;mercado_laboral;1992;HDR25_Composite_indices_complete_time_series.csv
+USA;1993;gii;gii;0,293;"índice 0-1; menor valor indica menor desigualdad";indice;1993;HDR25_Composite_indices_complete_time_series.csv
+USA;1993;mortalidad_materna;mmr;10,78503734;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1993;HDR25_Composite_indices_complete_time_series.csv
+USA;1993;natalidad_adolescente;abr;58,309;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1993;HDR25_Composite_indices_complete_time_series.csv
+USA;1993;bancas_parlamento_mujeres;pr_f;11,21495327;% de bancas;empoderamiento;1993;HDR25_Composite_indices_complete_time_series.csv
+USA;1993;bancas_parlamento_varones;pr_m;88,78504673;% de bancas;empoderamiento;1993;HDR25_Composite_indices_complete_time_series.csv
+USA;1993;secundaria_mujeres;se_f;91,23821519;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1993;HDR25_Composite_indices_complete_time_series.csv
+USA;1993;secundaria_varones;se_m;88,60409742;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1993;HDR25_Composite_indices_complete_time_series.csv
+USA;1993;participacion_laboral_mujeres;lfpr_f;57,9;% de mujeres de 15+;mercado_laboral;1993;HDR25_Composite_indices_complete_time_series.csv
+USA;1993;participacion_laboral_varones;lfpr_m;75,4;% de varones de 15+;mercado_laboral;1993;HDR25_Composite_indices_complete_time_series.csv
+USA;1994;gii;gii;0,293;"índice 0-1; menor valor indica menor desigualdad";indice;1994;HDR25_Composite_indices_complete_time_series.csv
+USA;1994;mortalidad_materna;mmr;11,04920564;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1994;HDR25_Composite_indices_complete_time_series.csv
+USA;1994;natalidad_adolescente;abr;56,951;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1994;HDR25_Composite_indices_complete_time_series.csv
+USA;1994;bancas_parlamento_mujeres;pr_f;11,21495327;% de bancas;empoderamiento;1994;HDR25_Composite_indices_complete_time_series.csv
+USA;1994;bancas_parlamento_varones;pr_m;88,78504673;% de bancas;empoderamiento;1994;HDR25_Composite_indices_complete_time_series.csv
+USA;1994;secundaria_mujeres;se_f;91,36000061;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1994;HDR25_Composite_indices_complete_time_series.csv
+USA;1994;secundaria_varones;se_m;90,98000336;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1994;HDR25_Composite_indices_complete_time_series.csv
+USA;1994;participacion_laboral_mujeres;lfpr_f;58,86;% de mujeres de 15+;mercado_laboral;1994;HDR25_Composite_indices_complete_time_series.csv
+USA;1994;participacion_laboral_varones;lfpr_m;75,12;% de varones de 15+;mercado_laboral;1994;HDR25_Composite_indices_complete_time_series.csv
+USA;1995;gii;gii;0,292;"índice 0-1; menor valor indica menor desigualdad";indice;1995;HDR25_Composite_indices_complete_time_series.csv
+USA;1995;mortalidad_materna;mmr;11,32794913;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1995;HDR25_Composite_indices_complete_time_series.csv
+USA;1995;natalidad_adolescente;abr;54,794;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1995;HDR25_Composite_indices_complete_time_series.csv
+USA;1995;bancas_parlamento_mujeres;pr_f;11,21495327;% de bancas;empoderamiento;1995;HDR25_Composite_indices_complete_time_series.csv
+USA;1995;bancas_parlamento_varones;pr_m;88,78504673;% de bancas;empoderamiento;1995;HDR25_Composite_indices_complete_time_series.csv
+USA;1995;secundaria_mujeres;se_f;91,65000076;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1995;HDR25_Composite_indices_complete_time_series.csv
+USA;1995;secundaria_varones;se_m;91,26200333;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1995;HDR25_Composite_indices_complete_time_series.csv
+USA;1995;participacion_laboral_mujeres;lfpr_f;59,05;% de mujeres de 15+;mercado_laboral;1995;HDR25_Composite_indices_complete_time_series.csv
+USA;1995;participacion_laboral_varones;lfpr_m;75,05;% de varones de 15+;mercado_laboral;1995;HDR25_Composite_indices_complete_time_series.csv
+USA;1996;gii;gii;0,287;"índice 0-1; menor valor indica menor desigualdad";indice;1996;HDR25_Composite_indices_complete_time_series.csv
+USA;1996;mortalidad_materna;mmr;11,12080021;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1996;HDR25_Composite_indices_complete_time_series.csv
+USA;1996;natalidad_adolescente;abr;52,583;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1996;HDR25_Composite_indices_complete_time_series.csv
+USA;1996;bancas_parlamento_mujeres;pr_f;11,21495327;% de bancas;empoderamiento;1996;HDR25_Composite_indices_complete_time_series.csv
+USA;1996;bancas_parlamento_varones;pr_m;88,78504673;% de bancas;empoderamiento;1996;HDR25_Composite_indices_complete_time_series.csv
+USA;1996;secundaria_mujeres;se_f;91,94000092;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1996;HDR25_Composite_indices_complete_time_series.csv
+USA;1996;secundaria_varones;se_m;91,5440033;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1996;HDR25_Composite_indices_complete_time_series.csv
+USA;1996;participacion_laboral_mujeres;lfpr_f;59,34;% de mujeres de 15+;mercado_laboral;1996;HDR25_Composite_indices_complete_time_series.csv
+USA;1996;participacion_laboral_varones;lfpr_m;75,03;% de varones de 15+;mercado_laboral;1996;HDR25_Composite_indices_complete_time_series.csv
+USA;1997;gii;gii;0,282;"índice 0-1; menor valor indica menor desigualdad";indice;1997;HDR25_Composite_indices_complete_time_series.csv
+USA;1997;mortalidad_materna;mmr;10,93362808;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1997;HDR25_Composite_indices_complete_time_series.csv
+USA;1997;natalidad_adolescente;abr;50,691;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1997;HDR25_Composite_indices_complete_time_series.csv
+USA;1997;bancas_parlamento_mujeres;pr_f;11,21495327;% de bancas;empoderamiento;1997;HDR25_Composite_indices_complete_time_series.csv
+USA;1997;bancas_parlamento_varones;pr_m;88,78504673;% de bancas;empoderamiento;1997;HDR25_Composite_indices_complete_time_series.csv
+USA;1997;secundaria_mujeres;se_f;92,23000107;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1997;HDR25_Composite_indices_complete_time_series.csv
+USA;1997;secundaria_varones;se_m;91,82600327;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1997;HDR25_Composite_indices_complete_time_series.csv
+USA;1997;participacion_laboral_mujeres;lfpr_f;59,9;% de mujeres de 15+;mercado_laboral;1997;HDR25_Composite_indices_complete_time_series.csv
+USA;1997;participacion_laboral_varones;lfpr_m;75,09;% de varones de 15+;mercado_laboral;1997;HDR25_Composite_indices_complete_time_series.csv
+USA;1998;gii;gii;0,281;"índice 0-1; menor valor indica menor desigualdad";indice;1998;HDR25_Composite_indices_complete_time_series.csv
+USA;1998;mortalidad_materna;mmr;10,90258396;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1998;HDR25_Composite_indices_complete_time_series.csv
+USA;1998;natalidad_adolescente;abr;49,861;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1998;HDR25_Composite_indices_complete_time_series.csv
+USA;1998;bancas_parlamento_mujeres;pr_f;11,21495327;% de bancas;empoderamiento;1998;HDR25_Composite_indices_complete_time_series.csv
+USA;1998;bancas_parlamento_varones;pr_m;88,78504673;% de bancas;empoderamiento;1998;HDR25_Composite_indices_complete_time_series.csv
+USA;1998;secundaria_mujeres;se_f;92,52000122;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1998;HDR25_Composite_indices_complete_time_series.csv
+USA;1998;secundaria_varones;se_m;92,10800323;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1998;HDR25_Composite_indices_complete_time_series.csv
+USA;1998;participacion_laboral_mujeres;lfpr_f;59,85;% de mujeres de 15+;mercado_laboral;1998;HDR25_Composite_indices_complete_time_series.csv
+USA;1998;participacion_laboral_varones;lfpr_m;74,89;% de varones de 15+;mercado_laboral;1998;HDR25_Composite_indices_complete_time_series.csv
+USA;1999;gii;gii;0,275;"índice 0-1; menor valor indica menor desigualdad";indice;1999;HDR25_Composite_indices_complete_time_series.csv
+USA;1999;mortalidad_materna;mmr;11,46032288;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;1999;HDR25_Composite_indices_complete_time_series.csv
+USA;1999;natalidad_adolescente;abr;48,664;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;1999;HDR25_Composite_indices_complete_time_series.csv
+USA;1999;bancas_parlamento_mujeres;pr_f;12,52336449;% de bancas;empoderamiento;1999;HDR25_Composite_indices_complete_time_series.csv
+USA;1999;bancas_parlamento_varones;pr_m;87,47663551;% de bancas;empoderamiento;1999;HDR25_Composite_indices_complete_time_series.csv
+USA;1999;secundaria_mujeres;se_f;92,81000137;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;1999;HDR25_Composite_indices_complete_time_series.csv
+USA;1999;secundaria_varones;se_m;92,3900032;% de varones de 25+ con al menos algo de secundaria;empoderamiento;1999;HDR25_Composite_indices_complete_time_series.csv
+USA;1999;participacion_laboral_mujeres;lfpr_f;60,03;% de mujeres de 15+;mercado_laboral;1999;HDR25_Composite_indices_complete_time_series.csv
+USA;1999;participacion_laboral_varones;lfpr_m;74,72;% de varones de 15+;mercado_laboral;1999;HDR25_Composite_indices_complete_time_series.csv
+USA;2000;gii;gii;0,276;"índice 0-1; menor valor indica menor desigualdad";indice;2000;HDR25_Composite_indices_complete_time_series.csv
+USA;2000;mortalidad_materna;mmr;11,82541593;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2000;HDR25_Composite_indices_complete_time_series.csv
+USA;2000;natalidad_adolescente;abr;47,501;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2000;HDR25_Composite_indices_complete_time_series.csv
+USA;2000;bancas_parlamento_mujeres;pr_f;12,52336449;% de bancas;empoderamiento;2000;HDR25_Composite_indices_complete_time_series.csv
+USA;2000;bancas_parlamento_varones;pr_m;87,47663551;% de bancas;empoderamiento;2000;HDR25_Composite_indices_complete_time_series.csv
+USA;2000;secundaria_mujeres;se_f;93,10000153;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2000;HDR25_Composite_indices_complete_time_series.csv
+USA;2000;secundaria_varones;se_m;92,67200317;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2000;HDR25_Composite_indices_complete_time_series.csv
+USA;2000;participacion_laboral_mujeres;lfpr_f;59,94;% de mujeres de 15+;mercado_laboral;2000;HDR25_Composite_indices_complete_time_series.csv
+USA;2000;participacion_laboral_varones;lfpr_m;74,81;% de varones de 15+;mercado_laboral;2000;HDR25_Composite_indices_complete_time_series.csv
+USA;2001;gii;gii;0,269;"índice 0-1; menor valor indica menor desigualdad";indice;2001;HDR25_Composite_indices_complete_time_series.csv
+USA;2001;mortalidad_materna;mmr;12,52693643;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2001;HDR25_Composite_indices_complete_time_series.csv
+USA;2001;natalidad_adolescente;abr;44,958;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2001;HDR25_Composite_indices_complete_time_series.csv
+USA;2001;bancas_parlamento_mujeres;pr_f;13,8317757;% de bancas;empoderamiento;2001;HDR25_Composite_indices_complete_time_series.csv
+USA;2001;bancas_parlamento_varones;pr_m;86,1682243;% de bancas;empoderamiento;2001;HDR25_Composite_indices_complete_time_series.csv
+USA;2001;secundaria_mujeres;se_f;93,39000168;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2001;HDR25_Composite_indices_complete_time_series.csv
+USA;2001;secundaria_varones;se_m;92,95400314;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2001;HDR25_Composite_indices_complete_time_series.csv
+USA;2001;participacion_laboral_mujeres;lfpr_f;59,79;% de mujeres de 15+;mercado_laboral;2001;HDR25_Composite_indices_complete_time_series.csv
+USA;2001;participacion_laboral_varones;lfpr_m;74,44;% de varones de 15+;mercado_laboral;2001;HDR25_Composite_indices_complete_time_series.csv
+USA;2002;gii;gii;0,268;"índice 0-1; menor valor indica menor desigualdad";indice;2002;HDR25_Composite_indices_complete_time_series.csv
+USA;2002;mortalidad_materna;mmr;12,88113739;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2002;HDR25_Composite_indices_complete_time_series.csv
+USA;2002;natalidad_adolescente;abr;42,602;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2002;HDR25_Composite_indices_complete_time_series.csv
+USA;2002;bancas_parlamento_mujeres;pr_f;13,64485981;% de bancas;empoderamiento;2002;HDR25_Composite_indices_complete_time_series.csv
+USA;2002;bancas_parlamento_varones;pr_m;86,35514019;% de bancas;empoderamiento;2002;HDR25_Composite_indices_complete_time_series.csv
+USA;2002;secundaria_mujeres;se_f;93,68000183;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2002;HDR25_Composite_indices_complete_time_series.csv
+USA;2002;secundaria_varones;se_m;93,23600311;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2002;HDR25_Composite_indices_complete_time_series.csv
+USA;2002;participacion_laboral_mujeres;lfpr_f;59,62;% de mujeres de 15+;mercado_laboral;2002;HDR25_Composite_indices_complete_time_series.csv
+USA;2002;participacion_laboral_varones;lfpr_m;74,1;% de varones de 15+;mercado_laboral;2002;HDR25_Composite_indices_complete_time_series.csv
+USA;2003;gii;gii;0,265;"índice 0-1; menor valor indica menor desigualdad";indice;2003;HDR25_Composite_indices_complete_time_series.csv
+USA;2003;mortalidad_materna;mmr;13,17496618;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2003;HDR25_Composite_indices_complete_time_series.csv
+USA;2003;natalidad_adolescente;abr;40,987;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2003;HDR25_Composite_indices_complete_time_series.csv
+USA;2003;bancas_parlamento_mujeres;pr_f;14,01869159;% de bancas;empoderamiento;2003;HDR25_Composite_indices_complete_time_series.csv
+USA;2003;bancas_parlamento_varones;pr_m;85,98130841;% de bancas;empoderamiento;2003;HDR25_Composite_indices_complete_time_series.csv
+USA;2003;secundaria_mujeres;se_f;93,97000198;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2003;HDR25_Composite_indices_complete_time_series.csv
+USA;2003;secundaria_varones;se_m;93,51800308;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2003;HDR25_Composite_indices_complete_time_series.csv
+USA;2003;participacion_laboral_mujeres;lfpr_f;59,51;% de mujeres de 15+;mercado_laboral;2003;HDR25_Composite_indices_complete_time_series.csv
+USA;2003;participacion_laboral_varones;lfpr_m;73,51;% de varones de 15+;mercado_laboral;2003;HDR25_Composite_indices_complete_time_series.csv
+USA;2004;gii;gii;0,26;"índice 0-1; menor valor indica menor desigualdad";indice;2004;HDR25_Composite_indices_complete_time_series.csv
+USA;2004;mortalidad_materna;mmr;13,09521953;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2004;HDR25_Composite_indices_complete_time_series.csv
+USA;2004;natalidad_adolescente;abr;40,173;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2004;HDR25_Composite_indices_complete_time_series.csv
+USA;2004;bancas_parlamento_mujeres;pr_f;14,76635514;% de bancas;empoderamiento;2004;HDR25_Composite_indices_complete_time_series.csv
+USA;2004;bancas_parlamento_varones;pr_m;85,23364486;% de bancas;empoderamiento;2004;HDR25_Composite_indices_complete_time_series.csv
+USA;2004;secundaria_mujeres;se_f;94,26000214;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2004;HDR25_Composite_indices_complete_time_series.csv
+USA;2004;secundaria_varones;se_m;93,80000305;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2004;HDR25_Composite_indices_complete_time_series.csv
+USA;2004;participacion_laboral_mujeres;lfpr_f;59,16;% de mujeres de 15+;mercado_laboral;2004;HDR25_Composite_indices_complete_time_series.csv
+USA;2004;participacion_laboral_varones;lfpr_m;73,33;% de varones de 15+;mercado_laboral;2004;HDR25_Composite_indices_complete_time_series.csv
+USA;2005;gii;gii;0,258;"índice 0-1; menor valor indica menor desigualdad";indice;2005;HDR25_Composite_indices_complete_time_series.csv
+USA;2005;mortalidad_materna;mmr;13,28029528;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2005;HDR25_Composite_indices_complete_time_series.csv
+USA;2005;natalidad_adolescente;abr;39,473;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2005;HDR25_Composite_indices_complete_time_series.csv
+USA;2005;bancas_parlamento_mujeres;pr_f;14,95327103;% de bancas;empoderamiento;2005;HDR25_Composite_indices_complete_time_series.csv
+USA;2005;bancas_parlamento_varones;pr_m;85,04672897;% de bancas;empoderamiento;2005;HDR25_Composite_indices_complete_time_series.csv
+USA;2005;secundaria_mujeres;se_f;93,87999725;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2005;HDR25_Composite_indices_complete_time_series.csv
+USA;2005;secundaria_varones;se_m;93,5;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2005;HDR25_Composite_indices_complete_time_series.csv
+USA;2005;participacion_laboral_mujeres;lfpr_f;59,26;% de mujeres de 15+;mercado_laboral;2005;HDR25_Composite_indices_complete_time_series.csv
+USA;2005;participacion_laboral_varones;lfpr_m;73,32;% de varones de 15+;mercado_laboral;2005;HDR25_Composite_indices_complete_time_series.csv
+USA;2006;gii;gii;0,254;"índice 0-1; menor valor indica menor desigualdad";indice;2006;HDR25_Composite_indices_complete_time_series.csv
+USA;2006;mortalidad_materna;mmr;13,19618883;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2006;HDR25_Composite_indices_complete_time_series.csv
+USA;2006;natalidad_adolescente;abr;40,349;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2006;HDR25_Composite_indices_complete_time_series.csv
+USA;2006;bancas_parlamento_mujeres;pr_f;16,26168224;% de bancas;empoderamiento;2006;HDR25_Composite_indices_complete_time_series.csv
+USA;2006;bancas_parlamento_varones;pr_m;83,73831776;% de bancas;empoderamiento;2006;HDR25_Composite_indices_complete_time_series.csv
+USA;2006;secundaria_mujeres;se_f;94,45999908;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2006;HDR25_Composite_indices_complete_time_series.csv
+USA;2006;secundaria_varones;se_m;93,90000153;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2006;HDR25_Composite_indices_complete_time_series.csv
+USA;2006;participacion_laboral_mujeres;lfpr_f;59,36;% de mujeres de 15+;mercado_laboral;2006;HDR25_Composite_indices_complete_time_series.csv
+USA;2006;participacion_laboral_varones;lfpr_m;73,46;% de varones de 15+;mercado_laboral;2006;HDR25_Composite_indices_complete_time_series.csv
+USA;2007;gii;gii;0,254;"índice 0-1; menor valor indica menor desigualdad";indice;2007;HDR25_Composite_indices_complete_time_series.csv
+USA;2007;mortalidad_materna;mmr;13,21725882;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2007;HDR25_Composite_indices_complete_time_series.csv
+USA;2007;natalidad_adolescente;abr;40,808;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2007;HDR25_Composite_indices_complete_time_series.csv
+USA;2007;bancas_parlamento_mujeres;pr_f;16,63551402;% de bancas;empoderamiento;2007;HDR25_Composite_indices_complete_time_series.csv
+USA;2007;bancas_parlamento_varones;pr_m;83,36448598;% de bancas;empoderamiento;2007;HDR25_Composite_indices_complete_time_series.csv
+USA;2007;secundaria_mujeres;se_f;94,58499908;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2007;HDR25_Composite_indices_complete_time_series.csv
+USA;2007;secundaria_varones;se_m;94,06999969;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2007;HDR25_Composite_indices_complete_time_series.csv
+USA;2007;participacion_laboral_mujeres;lfpr_f;59,31;% de mujeres de 15+;mercado_laboral;2007;HDR25_Composite_indices_complete_time_series.csv
+USA;2007;participacion_laboral_varones;lfpr_m;73,22;% de varones de 15+;mercado_laboral;2007;HDR25_Composite_indices_complete_time_series.csv
+USA;2008;gii;gii;0,255;"índice 0-1; menor valor indica menor desigualdad";indice;2008;HDR25_Composite_indices_complete_time_series.csv
+USA;2008;mortalidad_materna;mmr;13,97374186;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2008;HDR25_Composite_indices_complete_time_series.csv
+USA;2008;natalidad_adolescente;abr;40,059;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2008;HDR25_Composite_indices_complete_time_series.csv
+USA;2008;bancas_parlamento_mujeres;pr_f;17,00934579;% de bancas;empoderamiento;2008;HDR25_Composite_indices_complete_time_series.csv
+USA;2008;bancas_parlamento_varones;pr_m;82,99065421;% de bancas;empoderamiento;2008;HDR25_Composite_indices_complete_time_series.csv
+USA;2008;secundaria_mujeres;se_f;94,70999908;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2008;HDR25_Composite_indices_complete_time_series.csv
+USA;2008;secundaria_varones;se_m;94,23999786;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2008;HDR25_Composite_indices_complete_time_series.csv
+USA;2008;participacion_laboral_mujeres;lfpr_f;59,47;% de mujeres de 15+;mercado_laboral;2008;HDR25_Composite_indices_complete_time_series.csv
+USA;2008;participacion_laboral_varones;lfpr_m;72,95;% de varones de 15+;mercado_laboral;2008;HDR25_Composite_indices_complete_time_series.csv
+USA;2009;gii;gii;0,26;"índice 0-1; menor valor indica menor desigualdad";indice;2009;HDR25_Composite_indices_complete_time_series.csv
+USA;2009;mortalidad_materna;mmr;15,40720266;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2009;HDR25_Composite_indices_complete_time_series.csv
+USA;2009;natalidad_adolescente;abr;38,137;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2009;HDR25_Composite_indices_complete_time_series.csv
+USA;2009;bancas_parlamento_mujeres;pr_f;16,51031895;% de bancas;empoderamiento;2009;HDR25_Composite_indices_complete_time_series.csv
+USA;2009;bancas_parlamento_varones;pr_m;83,48968105;% de bancas;empoderamiento;2009;HDR25_Composite_indices_complete_time_series.csv
+USA;2009;secundaria_mujeres;se_f;94,70999908;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2009;HDR25_Composite_indices_complete_time_series.csv
+USA;2009;secundaria_varones;se_m;94,33999634;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2009;HDR25_Composite_indices_complete_time_series.csv
+USA;2009;participacion_laboral_mujeres;lfpr_f;59,19;% de mujeres de 15+;mercado_laboral;2009;HDR25_Composite_indices_complete_time_series.csv
+USA;2009;participacion_laboral_varones;lfpr_m;71,95;% de varones de 15+;mercado_laboral;2009;HDR25_Composite_indices_complete_time_series.csv
+USA;2010;gii;gii;0,245;"índice 0-1; menor valor indica menor desigualdad";indice;2010;HDR25_Composite_indices_complete_time_series.csv
+USA;2010;mortalidad_materna;mmr;14,07504242;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2010;HDR25_Composite_indices_complete_time_series.csv
+USA;2010;natalidad_adolescente;abr;34,856;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2010;HDR25_Composite_indices_complete_time_series.csv
+USA;2010;bancas_parlamento_mujeres;pr_f;16,82242991;% de bancas;empoderamiento;2010;HDR25_Composite_indices_complete_time_series.csv
+USA;2010;bancas_parlamento_varones;pr_m;83,17757009;% de bancas;empoderamiento;2010;HDR25_Composite_indices_complete_time_series.csv
+USA;2010;secundaria_mujeres;se_f;94,93000031;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2010;HDR25_Composite_indices_complete_time_series.csv
+USA;2010;secundaria_varones;se_m;94,58999634;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2010;HDR25_Composite_indices_complete_time_series.csv
+USA;2010;participacion_laboral_mujeres;lfpr_f;58,62;% de mujeres de 15+;mercado_laboral;2010;HDR25_Composite_indices_complete_time_series.csv
+USA;2010;participacion_laboral_varones;lfpr_m;71,18;% de varones de 15+;mercado_laboral;2010;HDR25_Composite_indices_complete_time_series.csv
+USA;2011;gii;gii;0,244;"índice 0-1; menor valor indica menor desigualdad";indice;2011;HDR25_Composite_indices_complete_time_series.csv
+USA;2011;mortalidad_materna;mmr;15,26359684;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2011;HDR25_Composite_indices_complete_time_series.csv
+USA;2011;natalidad_adolescente;abr;31,723;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2011;HDR25_Composite_indices_complete_time_series.csv
+USA;2011;bancas_parlamento_mujeres;pr_f;16,85393258;% de bancas;empoderamiento;2011;HDR25_Composite_indices_complete_time_series.csv
+USA;2011;bancas_parlamento_varones;pr_m;83,14606742;% de bancas;empoderamiento;2011;HDR25_Composite_indices_complete_time_series.csv
+USA;2011;secundaria_mujeres;se_f;95,04000092;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2011;HDR25_Composite_indices_complete_time_series.csv
+USA;2011;secundaria_varones;se_m;94,75;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2011;HDR25_Composite_indices_complete_time_series.csv
+USA;2011;participacion_laboral_mujeres;lfpr_f;58,1;% de mujeres de 15+;mercado_laboral;2011;HDR25_Composite_indices_complete_time_series.csv
+USA;2011;participacion_laboral_varones;lfpr_m;70,48;% de varones de 15+;mercado_laboral;2011;HDR25_Composite_indices_complete_time_series.csv
+USA;2012;gii;gii;0,235;"índice 0-1; menor valor indica menor desigualdad";indice;2012;HDR25_Composite_indices_complete_time_series.csv
+USA;2012;mortalidad_materna;mmr;15,82092521;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2012;HDR25_Composite_indices_complete_time_series.csv
+USA;2012;natalidad_adolescente;abr;29,387;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2012;HDR25_Composite_indices_complete_time_series.csv
+USA;2012;bancas_parlamento_mujeres;pr_f;18,35205993;% de bancas;empoderamiento;2012;HDR25_Composite_indices_complete_time_series.csv
+USA;2012;bancas_parlamento_varones;pr_m;81,64794007;% de bancas;empoderamiento;2012;HDR25_Composite_indices_complete_time_series.csv
+USA;2012;secundaria_mujeres;se_f;95,13999939;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2012;HDR25_Composite_indices_complete_time_series.csv
+USA;2012;secundaria_varones;se_m;94,80999756;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2012;HDR25_Composite_indices_complete_time_series.csv
+USA;2012;participacion_laboral_mujeres;lfpr_f;57,68;% de mujeres de 15+;mercado_laboral;2012;HDR25_Composite_indices_complete_time_series.csv
+USA;2012;participacion_laboral_varones;lfpr_m;70,16;% de varones de 15+;mercado_laboral;2012;HDR25_Composite_indices_complete_time_series.csv
+USA;2013;gii;gii;0,231;"índice 0-1; menor valor indica menor desigualdad";indice;2013;HDR25_Composite_indices_complete_time_series.csv
+USA;2013;mortalidad_materna;mmr;16,41608178;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2013;HDR25_Composite_indices_complete_time_series.csv
+USA;2013;natalidad_adolescente;abr;26,528;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2013;HDR25_Composite_indices_complete_time_series.csv
+USA;2013;bancas_parlamento_mujeres;pr_f;18,23308271;% de bancas;empoderamiento;2013;HDR25_Composite_indices_complete_time_series.csv
+USA;2013;bancas_parlamento_varones;pr_m;81,76691729;% de bancas;empoderamiento;2013;HDR25_Composite_indices_complete_time_series.csv
+USA;2013;secundaria_mujeres;se_f;95,38999939;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2013;HDR25_Composite_indices_complete_time_series.csv
+USA;2013;secundaria_varones;se_m;95,0;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2013;HDR25_Composite_indices_complete_time_series.csv
+USA;2013;participacion_laboral_mujeres;lfpr_f;57,21;% de mujeres de 15+;mercado_laboral;2013;HDR25_Composite_indices_complete_time_series.csv
+USA;2013;participacion_laboral_varones;lfpr_m;69,73;% de varones de 15+;mercado_laboral;2013;HDR25_Composite_indices_complete_time_series.csv
+USA;2014;gii;gii;0,221;"índice 0-1; menor valor indica menor desigualdad";indice;2014;HDR25_Composite_indices_complete_time_series.csv
+USA;2014;mortalidad_materna;mmr;16,7838512;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2014;HDR25_Composite_indices_complete_time_series.csv
+USA;2014;natalidad_adolescente;abr;24,192;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2014;HDR25_Composite_indices_complete_time_series.csv
+USA;2014;bancas_parlamento_mujeres;pr_f;19,43925234;% de bancas;empoderamiento;2014;HDR25_Composite_indices_complete_time_series.csv
+USA;2014;bancas_parlamento_varones;pr_m;80,56074766;% de bancas;empoderamiento;2014;HDR25_Composite_indices_complete_time_series.csv
+USA;2014;secundaria_mujeres;se_f;95,43000031;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2014;HDR25_Composite_indices_complete_time_series.csv
+USA;2014;secundaria_varones;se_m;95,08000183;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2014;HDR25_Composite_indices_complete_time_series.csv
+USA;2014;participacion_laboral_mujeres;lfpr_f;56,97;% de mujeres de 15+;mercado_laboral;2014;HDR25_Composite_indices_complete_time_series.csv
+USA;2014;participacion_laboral_varones;lfpr_m;69,21;% de varones de 15+;mercado_laboral;2014;HDR25_Composite_indices_complete_time_series.csv
+USA;2015;gii;gii;0,217;"índice 0-1; menor valor indica menor desigualdad";indice;2015;HDR25_Composite_indices_complete_time_series.csv
+USA;2015;mortalidad_materna;mmr;17,37795317;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2015;HDR25_Composite_indices_complete_time_series.csv
+USA;2015;natalidad_adolescente;abr;22,031;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2015;HDR25_Composite_indices_complete_time_series.csv
+USA;2015;bancas_parlamento_mujeres;pr_f;19,47565543;% de bancas;empoderamiento;2015;HDR25_Composite_indices_complete_time_series.csv
+USA;2015;bancas_parlamento_varones;pr_m;80,52434457;% de bancas;empoderamiento;2015;HDR25_Composite_indices_complete_time_series.csv
+USA;2015;secundaria_mujeres;se_f;95,48000336;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2015;HDR25_Composite_indices_complete_time_series.csv
+USA;2015;secundaria_varones;se_m;95,18000031;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2015;HDR25_Composite_indices_complete_time_series.csv
+USA;2015;participacion_laboral_mujeres;lfpr_f;56,68;% de mujeres de 15+;mercado_laboral;2015;HDR25_Composite_indices_complete_time_series.csv
+USA;2015;participacion_laboral_varones;lfpr_m;69,05;% de varones de 15+;mercado_laboral;2015;HDR25_Composite_indices_complete_time_series.csv
+USA;2016;gii;gii;0,214;"índice 0-1; menor valor indica menor desigualdad";indice;2016;HDR25_Composite_indices_complete_time_series.csv
+USA;2016;mortalidad_materna;mmr;18,44739426;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2016;HDR25_Composite_indices_complete_time_series.csv
+USA;2016;natalidad_adolescente;abr;20,08;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2016;HDR25_Composite_indices_complete_time_series.csv
+USA;2016;bancas_parlamento_mujeres;pr_f;19,54887218;% de bancas;empoderamiento;2016;HDR25_Composite_indices_complete_time_series.csv
+USA;2016;bancas_parlamento_varones;pr_m;80,45112782;% de bancas;empoderamiento;2016;HDR25_Composite_indices_complete_time_series.csv
+USA;2016;secundaria_mujeres;se_f;95,69999695;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2016;HDR25_Composite_indices_complete_time_series.csv
+USA;2016;secundaria_varones;se_m;95,45999908;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2016;HDR25_Composite_indices_complete_time_series.csv
+USA;2016;participacion_laboral_mujeres;lfpr_f;56,8;% de mujeres de 15+;mercado_laboral;2016;HDR25_Composite_indices_complete_time_series.csv
+USA;2016;participacion_laboral_varones;lfpr_m;69,19;% de varones de 15+;mercado_laboral;2016;HDR25_Composite_indices_complete_time_series.csv
+USA;2017;gii;gii;0,21;"índice 0-1; menor valor indica menor desigualdad";indice;2017;HDR25_Composite_indices_complete_time_series.csv
+USA;2017;mortalidad_materna;mmr;19,14315296;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2017;HDR25_Composite_indices_complete_time_series.csv
+USA;2017;natalidad_adolescente;abr;18,491;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2017;HDR25_Composite_indices_complete_time_series.csv
+USA;2017;bancas_parlamento_mujeres;pr_f;19,66292135;% de bancas;empoderamiento;2017;HDR25_Composite_indices_complete_time_series.csv
+USA;2017;bancas_parlamento_varones;pr_m;80,33707865;% de bancas;empoderamiento;2017;HDR25_Composite_indices_complete_time_series.csv
+USA;2017;secundaria_mujeres;se_f;95,01869202;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2017;HDR25_Composite_indices_complete_time_series.csv
+USA;2017;secundaria_varones;se_m;94,8094101;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2017;HDR25_Composite_indices_complete_time_series.csv
+USA;2017;participacion_laboral_mujeres;lfpr_f;57,04;% de mujeres de 15+;mercado_laboral;2017;HDR25_Composite_indices_complete_time_series.csv
+USA;2017;participacion_laboral_varones;lfpr_m;69,07;% de varones de 15+;mercado_laboral;2017;HDR25_Composite_indices_complete_time_series.csv
+USA;2018;gii;gii;0,195;"índice 0-1; menor valor indica menor desigualdad";indice;2018;HDR25_Composite_indices_complete_time_series.csv
+USA;2018;mortalidad_materna;mmr;19,45207752;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2018;HDR25_Composite_indices_complete_time_series.csv
+USA;2018;natalidad_adolescente;abr;17,164;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2018;HDR25_Composite_indices_complete_time_series.csv
+USA;2018;bancas_parlamento_mujeres;pr_f;23,59550562;% de bancas;empoderamiento;2018;HDR25_Composite_indices_complete_time_series.csv
+USA;2018;bancas_parlamento_varones;pr_m;76,40449438;% de bancas;empoderamiento;2018;HDR25_Composite_indices_complete_time_series.csv
+USA;2018;secundaria_mujeres;se_f;96,08000183;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2018;HDR25_Composite_indices_complete_time_series.csv
+USA;2018;secundaria_varones;se_m;95,98000336;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2018;HDR25_Composite_indices_complete_time_series.csv
+USA;2018;participacion_laboral_mujeres;lfpr_f;57,08;% de mujeres de 15+;mercado_laboral;2018;HDR25_Composite_indices_complete_time_series.csv
+USA;2018;participacion_laboral_varones;lfpr_m;69,06;% de varones de 15+;mercado_laboral;2018;HDR25_Composite_indices_complete_time_series.csv
+USA;2019;gii;gii;0,191;"índice 0-1; menor valor indica menor desigualdad";indice;2019;HDR25_Composite_indices_complete_time_series.csv
+USA;2019;mortalidad_materna;mmr;19,85234627;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2019;HDR25_Composite_indices_complete_time_series.csv
+USA;2019;natalidad_adolescente;abr;16,202;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2019;HDR25_Composite_indices_complete_time_series.csv
+USA;2019;bancas_parlamento_mujeres;pr_f;23,72881356;% de bancas;empoderamiento;2019;HDR25_Composite_indices_complete_time_series.csv
+USA;2019;bancas_parlamento_varones;pr_m;76,27118644;% de bancas;empoderamiento;2019;HDR25_Composite_indices_complete_time_series.csv
+USA;2019;secundaria_mujeres;se_f;97,65097046;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2019;HDR25_Composite_indices_complete_time_series.csv
+USA;2019;secundaria_varones;se_m;97,57182312;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2019;HDR25_Composite_indices_complete_time_series.csv
+USA;2019;participacion_laboral_mujeres;lfpr_f;57,43;% de mujeres de 15+;mercado_laboral;2019;HDR25_Composite_indices_complete_time_series.csv
+USA;2019;participacion_laboral_varones;lfpr_m;69,15;% de varones de 15+;mercado_laboral;2019;HDR25_Composite_indices_complete_time_series.csv
+USA;2020;gii;gii;0,181;"índice 0-1; menor valor indica menor desigualdad";indice;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2020;mortalidad_materna;mmr;21,08490543;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2020;natalidad_adolescente;abr;14,719;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2020;bancas_parlamento_mujeres;pr_f;27,09923664;% de bancas;empoderamiento;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2020;bancas_parlamento_varones;pr_m;72,90076336;% de bancas;empoderamiento;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2020;secundaria_mujeres;se_f;96,55000305;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2020;secundaria_varones;se_m;96,37000275;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2020;participacion_laboral_mujeres;lfpr_f;56,2;% de mujeres de 15+;mercado_laboral;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2020;participacion_laboral_varones;lfpr_m;67,66;% de varones de 15+;mercado_laboral;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2021;gii;gii;0,176;"índice 0-1; menor valor indica menor desigualdad";indice;2021;HDR25_Composite_indices_complete_time_series.csv
+USA;2021;mortalidad_materna;mmr;21,08490543;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2021;natalidad_adolescente;abr;13,724;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2021;HDR25_Composite_indices_complete_time_series.csv
+USA;2021;bancas_parlamento_mujeres;pr_f;26,96629213;% de bancas;empoderamiento;2021;HDR25_Composite_indices_complete_time_series.csv
+USA;2021;bancas_parlamento_varones;pr_m;73,03370787;% de bancas;empoderamiento;2021;HDR25_Composite_indices_complete_time_series.csv
+USA;2021;secundaria_mujeres;se_f;95,42427826;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2021;HDR25_Composite_indices_complete_time_series.csv
+USA;2021;secundaria_varones;se_m;95,0670929;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2021;HDR25_Composite_indices_complete_time_series.csv
+USA;2021;participacion_laboral_mujeres;lfpr_f;56,09;% de mujeres de 15+;mercado_laboral;2021;HDR25_Composite_indices_complete_time_series.csv
+USA;2021;participacion_laboral_varones;lfpr_m;67,6;% de varones de 15+;mercado_laboral;2021;HDR25_Composite_indices_complete_time_series.csv
+USA;2022;gii;gii;0,173;"índice 0-1; menor valor indica menor desigualdad";indice;2022;HDR25_Composite_indices_complete_time_series.csv
+USA;2022;mortalidad_materna;mmr;21,08490543;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2022;natalidad_adolescente;abr;13,628;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2022;HDR25_Composite_indices_complete_time_series.csv
+USA;2022;bancas_parlamento_mujeres;pr_f;28,06026365;% de bancas;empoderamiento;2022;HDR25_Composite_indices_complete_time_series.csv
+USA;2022;bancas_parlamento_varones;pr_m;71,93973635;% de bancas;empoderamiento;2022;HDR25_Composite_indices_complete_time_series.csv
+USA;2022;secundaria_mujeres;se_f;96,65000153;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2022;HDR25_Composite_indices_complete_time_series.csv
+USA;2022;secundaria_varones;se_m;96,33000183;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2022;HDR25_Composite_indices_complete_time_series.csv
+USA;2022;participacion_laboral_mujeres;lfpr_f;56,79;% de mujeres de 15+;mercado_laboral;2022;HDR25_Composite_indices_complete_time_series.csv
+USA;2022;participacion_laboral_varones;lfpr_m;67,97;% de varones de 15+;mercado_laboral;2022;HDR25_Composite_indices_complete_time_series.csv
+USA;2023;gii;gii;0,169;"índice 0-1; menor valor indica menor desigualdad";indice;2023;HDR25_Composite_indices_complete_time_series.csv
+USA;2023;mortalidad_materna;mmr;21,08490543;muertes maternas por 100.000 nacidos vivos;salud_reproductiva;2020;HDR25_Composite_indices_complete_time_series.csv
+USA;2023;natalidad_adolescente;abr;13,145;nacimientos por 1.000 mujeres de 15-19 años;salud_reproductiva;2023;HDR25_Composite_indices_complete_time_series.csv
+USA;2023;bancas_parlamento_mujeres;pr_f;28,22429907;% de bancas;empoderamiento;2023;HDR25_Composite_indices_complete_time_series.csv
+USA;2023;bancas_parlamento_varones;pr_m;71,77570093;% de bancas;empoderamiento;2023;HDR25_Composite_indices_complete_time_series.csv
+USA;2023;secundaria_mujeres;se_f;97,86711884;% de mujeres de 25+ con al menos algo de secundaria;empoderamiento;2023;HDR25_Composite_indices_complete_time_series.csv
+USA;2023;secundaria_varones;se_m;97,82904816;% de varones de 25+ con al menos algo de secundaria;empoderamiento;2023;HDR25_Composite_indices_complete_time_series.csv
+USA;2023;participacion_laboral_mujeres;lfpr_f;57,33;% de mujeres de 15+;mercado_laboral;2023;HDR25_Composite_indices_complete_time_series.csv
+USA;2023;participacion_laboral_varones;lfpr_m;68,12;% de varones de 15+;mercado_laboral;2023;HDR25_Composite_indices_complete_time_series.csv

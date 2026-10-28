@@ -1,0 +1,488 @@
+[
+  {
+    "archivo": "wdi_SP.DYN.CBRT.IN.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.CBRT.IN?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.CBRT.IN?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:51.727285+00:00",
+    "bytes": 28706,
+    "sha256": "fddd1d7c7c80008075bc630fb5c6b67d28f0aeda09d4ed0c1e305f4308479606"
+  },
+  {
+    "archivo": "metadata_SP.DYN.CBRT.IN.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.DYN.CBRT.IN?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.DYN.CBRT.IN?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:51.928524+00:00",
+    "bytes": 932,
+    "sha256": "b337721d851663cc969ae8d370772f72af06845dc473f8c8933e0a592c3ba21d"
+  },
+  {
+    "archivo": "wdi_SP.DYN.CDRT.IN.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.CDRT.IN?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.CDRT.IN?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:51.809390+00:00",
+    "bytes": 28647,
+    "sha256": "3c6f74e20193c829f6909033a920056035be0c7f8ab5bd0a4b50db756cb5a956"
+  },
+  {
+    "archivo": "metadata_SP.DYN.CDRT.IN.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.DYN.CDRT.IN?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.DYN.CDRT.IN?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:51.962464+00:00",
+    "bytes": 927,
+    "sha256": "4b0920f29d2e89d94daae719fbdfd88f1ec107d85951b3442797f6e585c9e950"
+  },
+  {
+    "archivo": "wdi_SP.POP.TOTL.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.TOTL?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:51.796757+00:00",
+    "bytes": 26391,
+    "sha256": "fac7c277c24997900090fe6b46d30e7752ff5bf01a8e5ba2b22c3fd4dc63ab21"
+  },
+  {
+    "archivo": "metadata_SP.POP.TOTL.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.POP.TOTL?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.POP.TOTL?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:51.971849+00:00",
+    "bytes": 1102,
+    "sha256": "2e38279185f7c166d36de81a60f040590c0a4badfb82028380e342b4e9e0b502"
+  },
+  {
+    "archivo": "wdi_SP.POP.0014.TO.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.0014.TO?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.0014.TO?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:51.796757+00:00",
+    "bytes": 28013,
+    "sha256": "13fe7f0c11e6c153678f8e69456562adbf207eea2f74ed8099d064228e77e0b2"
+  },
+  {
+    "archivo": "metadata_SP.POP.0014.TO.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.POP.0014.TO?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.POP.0014.TO?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:51.983850+00:00",
+    "bytes": 876,
+    "sha256": "ea8fd3908099d3e3f34b4ed917325a01dbc7276bbfa87a34a3ebfeae4f6b2a76"
+  },
+  {
+    "archivo": "wdi_SP.POP.1564.TO.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.1564.TO?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.1564.TO?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.124345+00:00",
+    "bytes": 28212,
+    "sha256": "2e16e4aaf4705341703c6b8fce729c217525c723b80963a3649e2d500565d5cd"
+  },
+  {
+    "archivo": "metadata_SP.POP.1564.TO.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.POP.1564.TO?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.POP.1564.TO?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.343044+00:00",
+    "bytes": 560,
+    "sha256": "5ad8846a7cb9564ad56d958a3ee23de4839d261553e245aa71c5c6e81b743a57"
+  },
+  {
+    "archivo": "wdi_SP.POP.65UP.TO.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.65UP.TO?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.65UP.TO?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.157320+00:00",
+    "bytes": 29005,
+    "sha256": "78235f4fcd832594ac29d97ada4b0ed917f2c54b5a86935b0fc2d3cf999a1d99"
+  },
+  {
+    "archivo": "metadata_SP.POP.65UP.TO.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.POP.65UP.TO?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.POP.65UP.TO?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.309297+00:00",
+    "bytes": 566,
+    "sha256": "2d1e41b113ad31990ffec2bbdeb2e84b7a9169c519992e4d5ca660045d78fcc1"
+  },
+  {
+    "archivo": "wdi_SP.POP.DPND.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.DPND?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.DPND?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.174410+00:00",
+    "bytes": 31625,
+    "sha256": "b80f84c0ad16229eafc92c6621f5130337e806540639cc516582f7e9ba544e26"
+  },
+  {
+    "archivo": "metadata_SP.POP.DPND.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.POP.DPND?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.POP.DPND?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.342047+00:00",
+    "bytes": 621,
+    "sha256": "b077cbdab889508e40ff35c8b0b8431ad8a2b20c5f43db3d182924945a58d906"
+  },
+  {
+    "archivo": "wdi_SP.POP.DPND.YG.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.DPND.YG?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.DPND.YG?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.174410+00:00",
+    "bytes": 32950,
+    "sha256": "51e5f3da60074d2e76602e11260c3d5c44727b5ba410c4b268161fa23213fd22"
+  },
+  {
+    "archivo": "metadata_SP.POP.DPND.YG.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.POP.DPND.YG?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.POP.DPND.YG?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.379643+00:00",
+    "bytes": 630,
+    "sha256": "3e15c4fbb8034bcaccc0d8d0d56a874e59a6e9cb6f8081d8099061bbb50015e0"
+  },
+  {
+    "archivo": "wdi_SP.POP.DPND.OL.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.DPND.OL?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.DPND.OL?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.526347+00:00",
+    "bytes": 32679,
+    "sha256": "3123559901e164e8da214c9527becff09592df4861f2f0a3fc450387bd8acb4b"
+  },
+  {
+    "archivo": "metadata_SP.POP.DPND.OL.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.POP.DPND.OL?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.POP.DPND.OL?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.714074+00:00",
+    "bytes": 622,
+    "sha256": "c1094441a9a97904629dce939c84bb31bb7d838d4a640d141c2529d7031c9f51"
+  },
+  {
+    "archivo": "wdi_SP.DYN.TFRT.IN.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.TFRT.IN?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.543864+00:00",
+    "bytes": 29276,
+    "sha256": "53a4633c7f7d6965b3a218a010e8913f3eae595a7e27d7b1239917ded9c9a013"
+  },
+  {
+    "archivo": "metadata_SP.DYN.TFRT.IN.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.DYN.TFRT.IN?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.DYN.TFRT.IN?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.760639+00:00",
+    "bytes": 780,
+    "sha256": "2f89b31c22654e85f8b8b7a48778bb3637583538e7dda257c14087043486099c"
+  },
+  {
+    "archivo": "wdi_SP.DYN.LE00.IN.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.DYN.LE00.IN?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.603716+00:00",
+    "bytes": 29899,
+    "sha256": "1dfae4f89cae67f6fe5e2821c646e938e992543f800fc8ebc9ba1f4a3bc79442"
+  },
+  {
+    "archivo": "metadata_SP.DYN.LE00.IN.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.DYN.LE00.IN?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.DYN.LE00.IN?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.764631+00:00",
+    "bytes": 972,
+    "sha256": "420b2d34826841a21cd05f0ccfe624d9543abdf597c3c0442bb05dec5462be55"
+  },
+  {
+    "archivo": "wdi_SM.POP.NETM.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SM.POP.NETM?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SM.POP.NETM?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.543864+00:00",
+    "bytes": 25500,
+    "sha256": "c77a47429ead6ef4985911a588734df0e2aa149201cfc06483cdc32c5ef601b9"
+  },
+  {
+    "archivo": "metadata_SM.POP.NETM.json",
+    "url": "https://api.worldbank.org/v2/indicator/SM.POP.NETM?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SM.POP.NETM?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.760639+00:00",
+    "bytes": 574,
+    "sha256": "ac49c00836526a4fddfc63e9a7a92d2d8474f27e6cc85337e484c41b6219095f"
+  },
+  {
+    "archivo": "wdi_BX.TRF.PWKR.CD.DT.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/BX.TRF.PWKR.CD.DT?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/BX.TRF.PWKR.CD.DT?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.899820+00:00",
+    "bytes": 30826,
+    "sha256": "b56a41e021ef23e2495e947f40b8ac3c680ef7d4604447d420b260af34a585e1"
+  },
+  {
+    "archivo": "metadata_BX.TRF.PWKR.CD.DT.json",
+    "url": "https://api.worldbank.org/v2/indicator/BX.TRF.PWKR.CD.DT?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/BX.TRF.PWKR.CD.DT?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.079345+00:00",
+    "bytes": 1185,
+    "sha256": "73a662b89e489ce3dd3210427925e23efc08e450bc3d1a6ebe4e742af4610b4b"
+  },
+  {
+    "archivo": "wdi_BX.TRF.PWKR.DT.GD.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/BX.TRF.PWKR.DT.GD.ZS?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/BX.TRF.PWKR.DT.GD.ZS?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.909794+00:00",
+    "bytes": 31367,
+    "sha256": "76b316da574f35224da12f027d5fdf15cfaadddefc57bdc7af6e5bbebc31cdc2"
+  },
+  {
+    "archivo": "metadata_BX.TRF.PWKR.DT.GD.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/BX.TRF.PWKR.DT.GD.ZS?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/BX.TRF.PWKR.DT.GD.ZS?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.110605+00:00",
+    "bytes": 1251,
+    "sha256": "6472dd0d4c3aa1c55143b06e0972fd825de4fab1a209205ef7b06f4eabdd4476"
+  },
+  {
+    "archivo": "wdi_NY.GDP.MKTP.CD.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/NY.GDP.MKTP.CD?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/NY.GDP.MKTP.CD?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.940863+00:00",
+    "bytes": 27524,
+    "sha256": "e60c3452d963b672486e418440ed21479b7f579fa976e85e1d3c2b30c7723991"
+  },
+  {
+    "archivo": "metadata_NY.GDP.MKTP.CD.json",
+    "url": "https://api.worldbank.org/v2/indicator/NY.GDP.MKTP.CD?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/NY.GDP.MKTP.CD?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.147306+00:00",
+    "bytes": 941,
+    "sha256": "d45d6e1f0e3948b8c593058da6259010d2b7b4d34dd377df91cc01a37cd4749e"
+  },
+  {
+    "archivo": "wdi_NE.GDI.FTOT.CD.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/NE.GDI.FTOT.CD?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/NE.GDI.FTOT.CD?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:52.925947+00:00",
+    "bytes": 30791,
+    "sha256": "0fd0029a8a9442a4bc9b9b9549ff312bb35ccefc2cecb4712416b8a2c72882b4"
+  },
+  {
+    "archivo": "metadata_NE.GDI.FTOT.CD.json",
+    "url": "https://api.worldbank.org/v2/indicator/NE.GDI.FTOT.CD?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/NE.GDI.FTOT.CD?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.129286+00:00",
+    "bytes": 829,
+    "sha256": "d5c9cc7a17e00fd0a67b1cdff9bc861eb251b6114ecd59496f3d402fb92c2199"
+  },
+  {
+    "archivo": "wdi_NE.GDI.FTOT.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/NE.GDI.FTOT.ZS?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/NE.GDI.FTOT.ZS?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.346132+00:00",
+    "bytes": 30577,
+    "sha256": "b920a881acad611fc5c91eb831f32a4f48db1dda938dce57a1c83008493eb24e"
+  },
+  {
+    "archivo": "metadata_NE.GDI.FTOT.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/NE.GDI.FTOT.ZS?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/NE.GDI.FTOT.ZS?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.466638+00:00",
+    "bytes": 926,
+    "sha256": "be128f38b8e26a624f19e09a0a8ad4601102815603fbfeef988ed1bdc5253278"
+  },
+  {
+    "archivo": "wdi_NE.EXP.GNFS.CD.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/NE.EXP.GNFS.CD?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/NE.EXP.GNFS.CD?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.367102+00:00",
+    "bytes": 30775,
+    "sha256": "bbb6cb0ca2edbf2872f743054b0e704e032a207ed8f47085ac6cf8f213af1061"
+  },
+  {
+    "archivo": "metadata_NE.EXP.GNFS.CD.json",
+    "url": "https://api.worldbank.org/v2/indicator/NE.EXP.GNFS.CD?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/NE.EXP.GNFS.CD?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.510980+00:00",
+    "bytes": 918,
+    "sha256": "000ebac6d319cebdc0f8393b4e85c5d9e4667da4014627f9812c27e65e3fcd35"
+  },
+  {
+    "archivo": "wdi_NE.EXP.GNFS.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/NE.EXP.GNFS.ZS?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/NE.EXP.GNFS.ZS?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.398312+00:00",
+    "bytes": 30567,
+    "sha256": "f17c10a524436bbd8fc74f152598483b01f28d5f62961b95665da7054f4ab6ce"
+  },
+  {
+    "archivo": "metadata_NE.EXP.GNFS.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/NE.EXP.GNFS.ZS?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/NE.EXP.GNFS.ZS?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.556690+00:00",
+    "bytes": 946,
+    "sha256": "9144a1d7165ca47ac77a4c1676dc5d7d920fdeafc4c86530ccaf8cffec954214"
+  },
+  {
+    "archivo": "wdi_BX.KLT.DINV.CD.WD.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/BX.KLT.DINV.CD.WD?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/BX.KLT.DINV.CD.WD?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.375383+00:00",
+    "bytes": 32727,
+    "sha256": "872046f36de345a1a2ae8f537277e4ca0eefd5a914bc81fa1ccde7ed7abd618e"
+  },
+  {
+    "archivo": "metadata_BX.KLT.DINV.CD.WD.json",
+    "url": "https://api.worldbank.org/v2/indicator/BX.KLT.DINV.CD.WD?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/BX.KLT.DINV.CD.WD?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.510980+00:00",
+    "bytes": 1291,
+    "sha256": "03cb382f4f58fcb047b4ffa175328f74d34af4e85ce375bf936a02f77d21036a"
+  },
+  {
+    "archivo": "wdi_BX.KLT.DINV.WD.GD.ZS.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/BX.KLT.DINV.WD.GD.ZS?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/BX.KLT.DINV.WD.GD.ZS?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.672695+00:00",
+    "bytes": 32534,
+    "sha256": "5fe9b354abab06c5f4666447737d3344b11e0872ac535118d0769a0d8fbe1c5e"
+  },
+  {
+    "archivo": "metadata_BX.KLT.DINV.WD.GD.ZS.json",
+    "url": "https://api.worldbank.org/v2/indicator/BX.KLT.DINV.WD.GD.ZS?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/BX.KLT.DINV.WD.GD.ZS?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.807414+00:00",
+    "bytes": 1168,
+    "sha256": "f9642dff067b6338cd3e7f30b6c948ad617f119c9ccfd1ab873ce20bf0d2eab9"
+  },
+  {
+    "archivo": "ids_DT.NFL.DECT.CD.json",
+    "url": "https://api.worldbank.org/v2/sources/6/country/IND/counterpart-area/WLD/series/DT.NFL.DECT.CD/data?format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/sources/6/country/IND/counterpart-area/WLD/series/DT.NFL.DECT.CD/data?format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:54.522672+00:00",
+    "bytes": 18795,
+    "sha256": "1b829f5b75627c0465ca615058841f4113266d16d022ab261b8f03005a9f58db"
+  },
+  {
+    "archivo": "metadata_DT.NFL.DECT.CD.json",
+    "url": "https://api.worldbank.org/v2/indicator/DT.NFL.DECT.CD?source=6&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/DT.NFL.DECT.CD?source=6&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:54.999399+00:00",
+    "bytes": 1032,
+    "sha256": "fe1e7df10091e0b85ac9906c50117cb353d9206be8ceba08f34aa590b007c238"
+  },
+  {
+    "archivo": "ids_DT.DIS.DLXF.CD.json",
+    "url": "https://api.worldbank.org/v2/sources/6/country/IND/counterpart-area/WLD/series/DT.DIS.DLXF.CD/data?format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/sources/6/country/IND/counterpart-area/WLD/series/DT.DIS.DLXF.CD/data?format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:54.092822+00:00",
+    "bytes": 19368,
+    "sha256": "0d68173499471682ed61e6af28281cb5519f6f95903ca60a3c96954b916e8d82"
+  },
+  {
+    "archivo": "metadata_DT.DIS.DLXF.CD.json",
+    "url": "https://api.worldbank.org/v2/indicator/DT.DIS.DLXF.CD?source=6&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/DT.DIS.DLXF.CD?source=6&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:54.639360+00:00",
+    "bytes": 701,
+    "sha256": "67ffa3c958a519d75368985050b680452b543b50f1c4b2cba94c4c201e7c7f70"
+  },
+  {
+    "archivo": "wdi_DT.ODA.ODAT.CD.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/DT.ODA.ODAT.CD?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/DT.ODA.ODAT.CD?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.698419+00:00",
+    "bytes": 32255,
+    "sha256": "505677043da36acfa40bb9fe2ea95f26474f985974b0df6e90918a79ada498ba"
+  },
+  {
+    "archivo": "metadata_DT.ODA.ODAT.CD.json",
+    "url": "https://api.worldbank.org/v2/indicator/DT.ODA.ODAT.CD?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/DT.ODA.ODAT.CD?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-27T23:36:53.840676+00:00",
+    "bytes": 1499,
+    "sha256": "e5a2bafbb6129852a223e1e4b9677a84a8dd0d745f158b722d4b25dd943d683c"
+  },
+  {
+    "archivo": "HDR25_Composite_indices_complete_time_series.csv",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_complete_time_series.csv",
+    "url_final": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_complete_time_series.csv",
+    "tipo_contenido": "text/csv",
+    "descarga_utc": "2026-10-27T23:36:56.696032+00:00",
+    "bytes": 2001263,
+    "sha256": "61ed82e5b66c88dfca8ff9fac775c63981ecab6a254862af97acacc41c143117"
+  },
+  {
+    "archivo": "HDR25_Composite_indices_metadata.xlsx",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_metadata.xlsx",
+    "url_final": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Composite_indices_metadata.xlsx",
+    "tipo_contenido": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "descarga_utc": "2026-10-27T23:36:57.176173+00:00",
+    "bytes": 13731,
+    "sha256": "b4128881e81d208aa75920114e1189ca01dcea41c7d8e977732e9342f6de0a8d"
+  },
+  {
+    "archivo": "HDR25_Statistical_Annex_GII_Table.xlsx",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Statistical_Annex_GII_Table.xlsx",
+    "url_final": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Statistical_Annex_GII_Table.xlsx",
+    "tipo_contenido": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+    "descarga_utc": "2026-10-27T23:36:57.730102+00:00",
+    "bytes": 46364,
+    "sha256": "bbfa34c53f52ba0e85c8d9a4fbdafff43ca3634cbb23556caaa12b3fd8df4b1b"
+  },
+  {
+    "archivo": "HDR25_Technical_Notes.pdf",
+    "url": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Technical_Notes.pdf",
+    "url_final": "https://hdr.undp.org/sites/default/files/2025_HDR/HDR25_Technical_Notes.pdf",
+    "tipo_contenido": "application/pdf",
+    "descarga_utc": "2026-10-27T23:36:58.528488+00:00",
+    "bytes": 393826,
+    "sha256": "2a6bb5d222eab4fd9cf4ff6063b351dcd222122c775e3150f515695758a01116"
+  },
+  {
+    "archivo": "wdi_SP.POP.GROW.json",
+    "url": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.GROW?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/country/IND;USA/indicator/SP.POP.GROW?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-28T17:38:14.017821+00:00",
+    "bytes": 28745,
+    "sha256": "59cf6789c47261b20a5fee892688252f73dd7c74b4c42c03a4f9bd16207ecf1b"
+  },
+  {
+    "archivo": "metadata_SP.POP.GROW.json",
+    "url": "https://api.worldbank.org/v2/indicator/SP.POP.GROW?source=2&format=json&per_page=20000",
+    "url_final": "https://api.worldbank.org/v2/indicator/SP.POP.GROW?source=2&format=json&per_page=20000",
+    "tipo_contenido": "application/json;charset=utf-8",
+    "descarga_utc": "2026-10-28T17:38:14.533204+00:00",
+    "bytes": 1084,
+    "sha256": "9b5fecc2b851cb6b8d982cb83980e95495b60c9bf17edcd3c3f5bf096c58a11e"
+  }
+]

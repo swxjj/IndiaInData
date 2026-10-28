@@ -1,0 +1,89 @@
+{
+  "parrafos_conservados": [
+    8,
+    10,
+    11,
+    15,
+    16,
+    27,
+    28,
+    29,
+    33,
+    34,
+    35,
+    37,
+    38,
+    48,
+    49,
+    53,
+    54
+  ],
+  "reemplazos_minimos": {
+    "11": "Nos pareció interesante comparar el dato con la tasa de crecimiento poblacional neto, ya que la India cuenta con una fuerte tendencia a la migración. Como suponíamos, tienden a ser similares puesto que se compensa la gran masa migratoria con el crecimiento poblacional natural.",
+    "15": "En el caso de India, observamos una desaceleración tanto en la tasa de mortalidad como en la tasa de mortalidad resultando en una reducción del porcentaje de crecimiento poblacional natural.  Siguiendo la teoría, la ubicamos en el final de la fase 3, realizando la transición hacia la etapa 4, donde la natalidad y la mortalidad se mantienen bajas y el crecimiento natural tiende a estabilizarse en niveles reducidos.",
+    "53": "Si bien India se encuentra peor en cada aspecto del índice respecto de Argentina y Estados Unidos, en donde se ve mas diferencia es en el radio de mortalidad materna (razón de mortalidad materna, donde más que duplica a Argentina y casi que quintuplica a Estados Unidos), el porcentaje de sillas del parlamento que son ocupadas por mujeres (participación de mujeres en el parlamento) y en el porcentaje de mujeres de más de 25 años que terminaron el secundario (población femenina con al menos parte de educación secundaria).",
+    "54": "Estos problemas no se solucionan con crecimiento, y hasta pueden incrementarse, si no que se corrigen por medio de las instituciones. Un claro ejemplo es en la comparación de Argentina contra Estados Unidos en la dimensión de participación de mujeres en el parlamento, donde Argentina que es un país con menor poderío económico que Estados Unidos, tiene casi el doble de porcentaje de mujeres en el parlamento, lo cual se debe a leyes de Argentina que garantizan los puestos de mujeres"
+  },
+  "figuras_eliminadas": [
+    "image3.png (boceto redundante)",
+    "image4.png (sello IA)",
+    "image5.png (símbolo IA)"
+  ],
+  "tabla_valores_originales": [
+    [
+      "Etiquetas de fila",
+      "abr",
+      "gii",
+      "gii_rank",
+      "lfpr_f",
+      "lfpr_m",
+      "mmr",
+      "pr_f",
+      "pr_m",
+      "se_f",
+      "se_m"
+    ],
+    [
+      "Argentina",
+      "26.41",
+      "0.26",
+      "70.00",
+      "53.16",
+      "72.22",
+      "44.90",
+      "43.77",
+      "56.23",
+      "74.30",
+      "72.22"
+    ],
+    [
+      "India",
+      "14.06",
+      "0.40",
+      "102.00",
+      "35.08",
+      "76.41",
+      "102.65",
+      "14.82",
+      "85.18",
+      "43.50",
+      "61.09"
+    ],
+    [
+      "United States",
+      "13.15",
+      "0.17",
+      "45.00",
+      "57.33",
+      "68.12",
+      "21.09",
+      "28.22",
+      "71.78",
+      "97.87",
+      "97.83"
+    ]
+  ],
+  "compilado": true,
+  "estado": "Compilado con Tectonic; sin referencias, gráfico de remesas solo India",
+  "pdf": "output/pdf/TP8.pdf"
+}

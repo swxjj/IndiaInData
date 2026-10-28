@@ -1,0 +1,14 @@
+{
+  "anio": 2024,
+  "natalidad_por_mil": 15.981,
+  "mortalidad_por_mil": 6.587,
+  "crecimiento_natural_por_mil": 9.394,
+  "fecundidad": 1.962,
+  "interpretacion": "Etapa 3 avanzada hacia etapa 4, en un esquema de cuatro etapas; no es una clasificación oficial",
+  "esquema": "Curvas ilustrativas sin escala temporal; no son observaciones ni proyecciones",
+  "datos": "Banco Mundial, WDI; main_punto_1.csv",
+  "referencias": [
+    "https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2022_global_population_growth.pdf",
+    "https://india.unfpa.org/en/publications/reimagining-family-planning-india-new-pathways"
+  ]
+}
